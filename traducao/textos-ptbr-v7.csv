@@ -1,0 +1,1806 @@
+Secao,ID,Offset hexadecimal,Bytes disponiveis,Traducao brasileira,Estado,Versao
+main1,0,0x60000,0,,SEM TEXTO,
+main1,1,0x60001,0,,SEM TEXTO,
+main1,2,0x60002,0,,SEM TEXTO,
+main1,3,0x60003,41,{fd:1400}Bem-vindo!<BR>Em que posso ajudar?<BR>{f6:08},TRADUZIDO,ate v6
+main1,4,0x6002d,44,{fe:1400}Ola!<BR>Temos muitas armas.<BR>O que deseja?<BR>{f6:07},TRADUZIDO,ate v6
+main1,5,0x6005a,40,{fd:1400}Ola!<BR>Vendo armaduras.<BR>Qual deseja?<BR>{f6:05},TRADUZIDO,ate v6
+main1,6,0x60083,22,{fc:14009a00c6}Quem vai levar?,TRADUZIDO,ate v6
+main1,7,0x6009a,14,Quem vai usar?,TRADUZIDO,ate v6
+main1,8,0x600a9,30,{fc:1400c800c6}Nada para vender.,TRADUZIDO,ate v6
+main1,9,0x600c8,24,Nada para vender.,TRADUZIDO,ate v6
+main1,10,0x600e1,23,{fc:1400f900c6}Qual voce deseja?,TRADUZIDO,ate v6
+main1,11,0x600f9,16,Qual vai escolher?,TRADUZIDO,ate v6
+main1,12,0x6010a,54,"{fc:14004101c6}Com a troca, o preco<BR>sera de <B><GD><B> G.{fc:00000000c6}",TRADUZIDO,ate v6
+main1,13,0x60141,85,E mais caro que<BR>seu item atual.<BR>Pague mais <B><GD><B> G<BR>pela diferenca.{fc:00000000c6},TRADUZIDO,ate v6
+main1,14,0x60197,54,{fc:1400ce01c6}Compro seu equipamento<BR>por <B><GD><B> G.<BR>Fechado?{fc:00000000c6},TRADUZIDO,ate v6
+main1,15,0x601ce,44,Compro seu equipamento<BR>por <B><GD><B> G.<BR>Aceita?{fc:00000000c6},TRADUZIDO,ate v6
+main1,16,0x601fb,40,{fc:14002402c6}O preco continua<BR>o mesmo.{fc:00000000c6},TRADUZIDO,ate v6
+main1,17,0x60224,34,O preco continua<BR>o mesmo.{fc:00000000c6},TRADUZIDO,ate v6
+main1,18,0x60247,26,{fc:14006202c6}O que quer vender?,TRADUZIDO,v7 - revisado
+main1,19,0x60262,20,O que quer vender?,TRADUZIDO,v7 - revisado
+main1,20,0x60277,28,Compro <B><IT><B><BR>por <B><GD><B> G.{fc:00000000c6},TRADUZIDO,ate v6
+main1,21,0x60294,34,{fc:1400b702c6}Compro <B><IT><B><BR>por <B><GD><B> G.{fc:00000000c6},TRADUZIDO,ate v6
+main1,22,0x602b7,28,Compro <B><IT><B><BR>por <B><GD><B> G.{fc:00000000c6},TRADUZIDO,ate v6
+main1,23,0x602d4,44,<B><IT><B> aumenta seu<BR>ataque em <B><GD><B>.{fc:00000000c6},TRADUZIDO,ate v6
+main1,24,0x60301,50,Tem certeza? <B><IT><B><BR>reduz seu ataque<BR>em <B><GD><B>.{fc:00000000c6},TRADUZIDO,ate v6
+main1,25,0x60334,44,<B><IT><B> aumenta sua<BR>defesa em <B><GD><B>.{fc:00000000c6},TRADUZIDO,ate v6
+main1,26,0x60361,51,Tem certeza?<BR><B><IT><B> reduz sua<BR>defesa em <B><GD><B>.{fc:00000000c6},TRADUZIDO,ate v6
+main1,27,0x60395,43,{fc:1400c103c6}<B><IT><B> nao e melhor<BR>que o seu.{fc:00000000c6},TRADUZIDO,ate v6
+main1,28,0x603c1,37,<B><IT><B> nao e melhor<BR>que o seu.{fc:00000000c6},TRADUZIDO,ate v6
+main1,29,0x603e7,42,Sua bolsa esta cheia.,TRADUZIDO,v7 - revisado
+main1,30,0x60412,33,{fc:14003404c6}Nao compramos<BR>esse item.,TRADUZIDO,ate v6
+main1,31,0x60434,27,Nao compramos isso.,TRADUZIDO,v7 - revisado
+main1,32,0x60450,31,{fc:14007004c6}Voce nao tem dinheiro.,TRADUZIDO,v7 - revisado
+main1,33,0x60470,25,Voce nao tem dinheiro.,TRADUZIDO,v7 - revisado
+main1,34,0x6048a,0,,SEM TEXTO,
+main1,35,0x6048b,0,,SEM TEXTO,
+main1,36,0x6048c,26,{fc:1400a704c6}Quer mais alguma coisa?,TRADUZIDO,v7 - revisado
+main1,37,0x604a7,20,Quer mais alguma coisa?,TRADUZIDO,v7 - revisado
+main1,38,0x604bc,30,{fc:1400db04c6}Obrigado!<BR>Volte sempre.,TRADUZIDO,ate v6
+main1,39,0x604db,24,Obrigado!<BR>Volte sempre.,TRADUZIDO,ate v6
+main1,40,0x604f4,0,,SEM TEXTO,
+main1,41,0x604f5,0,,SEM TEXTO,
+main1,42,0x604f6,30,{fc:14001505c6}Obrigado!<BR><B><IT><B> equipado.,TRADUZIDO,ate v6
+main1,43,0x60515,24,Obrigado!<BR><B><IT><B> equipado.,TRADUZIDO,ate v6
+main1,44,0x6052e,47,{fc:14005e05c6}Nao pode equipar <B><IT><B>.<BR>Quer mesmo comprar?{fc:00000000c6},TRADUZIDO,ate v6
+main1,45,0x6055e,41,Nao pode equipar <B><IT><B>.<BR>Ainda quer comprar?{fc:00000000c6},TRADUZIDO,v7 - revisado
+main1,46,0x60588,2,,PENDENTE,
+main1,47,0x6058b,158,Bem-vindo!<BR>Uma noite custa <B><GD><B> G.<BR>Deseja um quarto?{fc:00000000c6}<BR>Vai salvar sua jornada?<BR>{fb:00002a06c6}{f6:0c}Jornada salva.<BR>{fd:0000}Boa viagem!<BR>{fb:a9000200c6}{fe:9e00},TRADUZIDO,ate v6
+main1,48,0x6062a,45,{fc:bb002743c7}Sua jornada nao foi<BR>salva. Boa sorte.,TRADUZIDO,ate v6
+main1,49,0x60658,43, <BR>Seu quarto esta pronto.<BR>Coma algo e descanse.,TRADUZIDO,ate v6
+main1,50,0x60684,50,{fd:0000}Seu jogo foi salvo.<BR>Volte sempre.<BR>{fb:a9000200c6}{fe:9e00},TRADUZIDO,ate v6
+main1,51,0x606b7,28,Hum... Falta dinheiro.,TRADUZIDO,ate v6
+main1,52,0x606d4,82,Chegou a tempo!<BR>{fc:7702ed31c7}{fc:7802ed31c7}{fc:7902ed31c7}{fc:7a02ed31c7}{fc:7b02ed31c7}{fc:7c02ed31c7}{fb:a9000200c6}{fe:9e00},TRADUZIDO,ate v6
+main1,53,0x60727,31,Bom dia!<BR>Boa viagem.,TRADUZIDO,ate v6
+main1,54,0x60747,26,Esta e a Casa<BR>da Cura.<BR>{f6:06},TRADUZIDO,ate v6
+main1,55,0x60762,19,Precisa de mais ajuda?,TRADUZIDO,ate v6
+main1,56,0x60776,40,Volte sempre que<BR>precisar.<BR>{fb:ca000200c6}{fe:7302},TRADUZIDO,ate v6
+main1,57,0x6079f,20,Nao precisa de ajuda.,TRADUZIDO,ate v6
+main1,58,0x607b4,31,O servico custa<BR><B><GD><B> G.{fc:00000000c6},TRADUZIDO,ate v6
+main1,59,0x607d4,25,Nao tem dinheiro.,TRADUZIDO,v7 - revisado
+main1,60,0x607ee,14,<B><MC><B> recebeu <B><IT><B>.,TRADUZIDO,ate v6
+main1,61,0x607fd,19,<B><MC><B> recebeu <B><IT><B>.<BR>{f6:0a}{f6:04},TRADUZIDO,ate v6
+main1,62,0x60811,38,<B><MC><B> nao pode levar<BR><B><IT><B>. Bolsa cheia.,TRADUZIDO,ate v6
+main1,63,0x60838,7,Nada!,TRADUZIDO,ate v6
+main1,64,0x60840,29,Seu nome e<BR><B><MC><B>?{fc:00000000c6},TRADUZIDO,ate v6
+main1,65,0x6085e,59,"   Ha muitos anos, houve<BR> grandes guerras pela<BR>          terra.",TRADUZIDO,ate v6
+main1,66,0x6089a,38,Essas guerras viraram<BR>         lendas.,TRADUZIDO,ate v6
+main1,67,0x608c1,74,   Esta e uma dessas<BR>  historias que ecoara<BR>  por muitas geracoes.,TRADUZIDO,ate v6
+main1,68,0x6090c,77," Um dia, essas lendas<BR>   serao esquecidas.<BR>  Mas as marcas ficarao<BR>    neste planeta.",TRADUZIDO,ate v6
+main1,69,0x6095a,58,    O mundo desta<BR>   historia se chama:<BR>   ..... TICONDERA .....,TRADUZIDO,v7 - revisado
+main1,70,0x60995,257,"{fe:b400}{fe:ae00}{fe:bb00}Voces passaram cinco<BR>anos em treinamento.<BR><BD>Chegou a hora de<BR>provar seu valor.<BR><BD>Sua missao e encontrar<BR>as <B>Sete Runas<B> ocultas<BR>pelo planeta <B>Ticondera<B>.<BR><BD>Ao reunir todas elas,<BR>receberao um poder<BR>imenso e poderao<BR>governar este mundo!<BR><f3>{ff:970ac6}",TRADUZIDO,ate v6
+main1,71,0x60a97,43,"<B>Rei Lemele, fale mais<BR>das Runas.<B><BR><f3>{ff:c30ac6}",TRADUZIDO,ate v6
+main1,72,0x60ac3,173,"As <B>Runas<B> tem varias<BR>formas. Reconhece-las<BR>nao sera facil.<BR><BD>Darei a cada um uma<BR><B>Bola de Cristal<B>, para<BR>ajudar na busca<BR>pelas <B>Runas<B>.<BR><BD>Preparem-se para partir.<BR>Tragam as <B>Runas<B>.<BR><f3>{ff:710bc6}",TRADUZIDO,ate v6
+main1,73,0x60b71,33,{fd:bb00}Cada um ganhou<BR><B>Bola de Cristal<B>.,TRADUZIDO,ate v6
+main1,74,0x60b93,82,"{fc:0e000100c6}<B>Kamil<B><BR>Sou guerreiro, o mais<BR>apto a esta missao.<BR><BD>Vou provar isso<BR>ao achar as <B>Runas<B>.",TRADUZIDO,ate v6
+main1,75,0x60be6,93,"{fc:0e000100c6}{fc:bb002743c7}<B>Lejes<B><BR>Nao trabalho em grupo.<BR><BD>Ao obter as <B>Runas<B>,<BR>superarei ate mesmo<BR>o <B>Rei Lemele<B>.",TRADUZIDO,ate v6
+main1,76,0x60c44,102,"{fc:0e000100c6}<B>Olvan<B><BR>Sou o mais forte daqui.<BR><BD>Os anos me deixaram<BR>lento, mas o poder<BR>das <B>Runas<B> vai me<BR>rejuvenescer.",TRADUZIDO,v7 - revisado
+main1,77,0x60cab,90,"{fc:0e000100c6}<B>Esuna<B><BR>Sei cuidar de mim.<BR><BD>Posso nao ser forte,<BR>mas domino a magia.",TRADUZIDO,ate v6
+main1,78,0x60d06,158,{fc:0e000100c6}<B>Valsu<B><BR>Meu talento e a magia<BR>de cura.<BR><BD>Quero achar as <B>Runas<B><BR>e banir todo o mal<BR>deste mundo.<BR><BD>{fc:0700a50dc6}Nao entendo por que<BR><B>Lejes<B> foi escolhido.,TRADUZIDO,v7 - revisado
+main1,79,0x60da5,47,Nao entendo por que<BR><B>Rei Lemele<B> escolheu<BR>voce.,TRADUZIDO,ate v6
+main1,80,0x60dd5,118,{fc:0e000100c6}<B>Wilme<B><BR>Nao preciso de armas<BR>nem de armaduras.<BR>Minha forca ja e enorme.<BR><BD>Imagine o que farei<BR>com o poder das <B>Runas<B>.,TRADUZIDO,ate v6
+main1,81,0x60e4c,179,"{fc:0e000100c6}<B>LUX<B><BR>MEU CORPO SE TRANSFORMA<BR>AO PRECISAR DE UMA ARMA.<BR><BD>NAO PRECISO DELAS<BR>PARA ESTA MISSAO.<BR><BD>QUERO DESCOBRIR QUEM<BR>CRIOU NOS, OS <B>TETUJINS<B>,<BR>E COM QUAL PROPOSITO.",TRADUZIDO,ate v6
+main1,82,0x60f00,45,{fc:0e002e0fc6}<B>Lemele<B><BR>Boa sorte<BR>a todos. Adeus!,TRADUZIDO,v7 - revisado
+main1,83,0x60f2e,40,<B>Lemele<B><BR>Espero ver voces<BR>com as <B>Runas<B>.,TRADUZIDO,ate v6
+main1,84,0x60f57,52,{fc:cb008c0fc6}Ja podem partir.<BR><BD>Espero que retornem<BR>em seguranca.,TRADUZIDO,ate v6
+main1,85,0x60f8c,15,Que bom reve-lo!,TRADUZIDO,ate v6
+main1,86,0x60f9c,68,A <B>Bola de Cristal<B> serve<BR>em campos e masmorras.<BR><BD>Siga seus sinais.,TRADUZIDO,ate v6
+main1,87,0x60fe1,87,"{fc:cb003910c6}Depois de cinco anos,<BR>me acostumei com voce.<BR><BD>Sentirei saudades,<BR><B><MC><B>. Cuide-se bem.",TRADUZIDO,ate v6
+main1,88,0x61039,54,Estamos sempre<BR>ao seu lado.<BR>Lembre-se de nos<BR>nas dificuldades.,TRADUZIDO,ate v6
+main1,89,0x61070,135,"Na <B>Bola de Cristal<B>,<BR>um ponto em movimento<BR>indica um monstro.<BR><BD>Um ponto grande e uma<BR>cidade; e um brilho<BR>intenso revela uma das<BR><B>Runas<B> que voce busca.",TRADUZIDO,ate v6
+main1,90,0x610f8,157,"Viajar so e perigoso.<BR>Ao encontrar um dos<BR>outros seis herois,<BR><BD>tente formar uma dupla.<BR>Mas eles podem recusar<BR>ou querer lutar<BR>com voce.",TRADUZIDO,ate v6
+main1,91,0x61196,83,Seus anos de treino<BR>e experiencia serao<BR>essenciais para cumprir<BR>esta missao.,TRADUZIDO,ate v6
+main1,92,0x611ea,48,Converse com todos.<BR>Ajude quem precisar.,TRADUZIDO,v7 - revisado
+main1,93,0x6121b,116,"{fc:5a009012c6}Antes de sair, visite<BR>a loja e compre uma<BR><B>Pocao 1<B> para curar HP.<BR><BD>Vou lhe dar uma.<BR>Experimente.<BR><f3>{f6:2d}{ff:ae12c6}",TRADUZIDO,ate v6
+main1,94,0x61290,29,Leve sempre uma<BR><B>Pocao 1<B>.,TRADUZIDO,v7 - revisado
+main1,95,0x612ae,24,{fe:5a00}<B><MC><B> recebeu<BR><B>Pocao 1<B>.,TRADUZIDO,ate v6
+main1,96,0x612c7,42, <BR>Voce ja tem o bastante.<BR>Fica para depois.,TRADUZIDO,ate v6
+main1,97,0x612f2,98,O <B>Rei Lemele<B> e filho<BR>do grande <B>SARO<B>.<BR><BD>Teve sorte de poder<BR>treinar com ele<BR>e poder servi-lo.,TRADUZIDO,v7 - revisado
+main1,98,0x61355,63,"{fc:73029513c6}{fc:7202be13c6}{fc:7102df13c6}{fc:ca009513c6}Adeus, <B><MC><B>!<BR>Espero reve-lo um dia.",TRADUZIDO,ate v6
+main1,99,0x61395,58,"{fd:7302}{fd:7102}{fd:7202}<B><MC><B>,<BR>lembra de mim?<BR>{fb:0000d013c6}{fe:7202}Ainda somos amigos!",TRADUZIDO,ate v6
+main1,100,0x613d0,37,{fe:7102}Nao se lembra de mim?<BR>Fiquei magoado.,TRADUZIDO,ate v6
+main1,101,0x613f6,76,"{fc:ca004314c6}Voce foi o ultimo<BR>a partir?<BR><BD>Os demais ja seguiram<BR>para <B>Rablesk<B>, ao sul.",TRADUZIDO,v7 - revisado
+main1,102,0x61443,26,Como anda a vida<BR>de viajante?,TRADUZIDO,v7 - revisado
+main1,103,0x6145e,125,"Use <B>DEFESA<B> antes de<BR><B>ATACAR<B> nas batalhas.<BR><BD>Assim seu HP aumenta<BR>temporariamente.<BR><BD>Lembre-se: primeiro<BR><B>DEFESA<B>, depois <B>ATACAR<B>.<BR>{fc:bb00f741c7}",TRADUZIDO,ate v6
+main1,104,0x614dc,165,E mais seguro trocar<BR>seu dinheiro por joias.<BR><BD>Os monstros vasculham<BR>as vitimas e roubam<BR>seu ouro.<BR><BD>Nao ligam para joias.<BR>Voce pode vende-las<BR>pelo preco da compra.,TRADUZIDO,ate v6
+main1,105,0x61582,96,Vai procurar as <B>Runas<B>?<BR><BD>Dizem que as sete<BR>concedem imenso poder<BR>a quem as reunir.<BR>Boa sorte!,TRADUZIDO,ate v6
+main1,106,0x615e3,87,{fc:cb008c0fc6}Faz cinco anos que<BR>o Rei trouxe voce<BR>para <B>Lemele<B>.<BR><BD>Venha nos visitar.,TRADUZIDO,v7 - revisado
+main1,107,0x6163b,46,"Em cada cidade,<BR>salve a sua jornada<BR>na pousada.",TRADUZIDO,v7 - revisado
+main1,108,0x6166a,122,"{fc:0f00e516c6}O <B>Portao da Terra<B><BR>em <B>Rablesk<B> esta fechado.<BR>Nao da para seguir<BR>para o sul.<BR><BD>Voce serve ao<BR><B>Rei Lemele<B>, nao e?<BR>Abra o portao!",TRADUZIDO,ate v6
+main1,109,0x616e5,83,Obrigado por abrir<BR>o portao!<BR>Voce nos ajudou muito.<BR><BD>Ele e guerreiro do<BR><B>Rei Lemele<B>!,TRADUZIDO,ate v6
+main1,110,0x61739,88,{fc:02009217c6}{fc:07002318c6}Obrigado por cuidar<BR>de mim por tanto tempo.<BR><BD>Espero que volte<BR>em seguranca.,TRADUZIDO,ate v6
+main1,111,0x61792,144,"Voce queria treinar<BR>com o Rei, e conseguiu.<BR><BD>Era pequeno, mas tinha<BR>um grande <B>sonho<B> e muita<BR>vontade de vencer.<BR><BD>Cuide-se. Adeus!",TRADUZIDO,ate v6
+main1,112,0x61823,119,Voce era teimoso<BR>e dificil de lidar.<BR><BD>Demorou a confiar<BR>em nossa familia.<BR><BD>Seja sincero consigo<BR>e com seus sentimentos.,TRADUZIDO,ate v6
+main1,113,0x6189b,64,Vi voce treinar duro<BR>todos os dias.<BR>Esse esforco tera valor.,TRADUZIDO,ate v6
+main1,114,0x618dc,0,,SEM TEXTO,
+main1,115,0x618dd,0,,SEM TEXTO,
+main1,116,0x618de,16,Esta e <B>Rablesk<B>.,TRADUZIDO,ate v6
+main1,117,0x618ef,118,"{fc:4b006619c6}O <B>Portao da Terra<B><BR>esta fechado a sudoeste.<BR>Assim nao podemos<BR>seguir para o sul.<BR><BD>Por favor, ajude-nos.",TRADUZIDO,ate v6
+main1,118,0x61966,72,"Depois da <B>Caverna da<BR>Terra<B>, ao sudoeste,<BR>voce chega a <B>Bonro<B>.",TRADUZIDO,ate v6
+main1,119,0x619af,154,"{fc:4b004a1ac6}O viajante que foi<BR>a <B>Aran<B> buscar a<BR><B>Chave da Terra<B> nao<BR>voltou.<BR><BD>Desde a chegada de<BR><B>Romus<B>, monstros<BR>ocupam o castelo.<BR><BD>Como vamos agir?",TRADUZIDO,ate v6
+main1,120,0x61a4a,65,Obrigado por acabar<BR>com <B>Romus<B>.<BR><BD>Voce e um grande heroi!<BR>{fb:0f008c1ac6},TRADUZIDO,v7 - revisado
+main1,121,0x61a8c,68,<f3>Va a <B>Caverna da Terra<B><BR>ao sudoeste e abra<BR>o <B>Portao da Terra<B>.<BR>Depressa!,TRADUZIDO,ate v6
+main1,122,0x61ad1,126,"{fc:0f00501bc6}Nao posso viajar para<BR>comprar mercadorias,<BR>pois o <B>Portao da Terra<B><BR>esta fechado.<BR><BD>Quem dera alguem<BR>tirasse a <B>Chave da Terra<B><BR>de <B>Romus<B>.",TRADUZIDO,ate v6
+main1,123,0x61b50,60,Obrigado! O portao<BR>esta aberto.<BR><BD>Posso comprar de novo!,TRADUZIDO,ate v6
+main1,124,0x61b8d,115,{fc:4b00011cc6}Nao consigo dormir.<BR>Toda noite ouco um<BR>cao uivando no<BR><B>Castelo de Aran<B>.<BR><BD>Seu lamento nao me<BR>deixa descansar.,TRADUZIDO,ate v6
+main1,125,0x61c01,85,Agora consigo dormir!<BR>Obrigado!<BR><BD>Uma boa noite de sono<BR>me faz rejuvenescer.,TRADUZIDO,v7 - revisado
+main1,126,0x61c57,54,"<B>Pison<B>, o cacador,<BR>procura voce.<BR>Cuidado!",TRADUZIDO,ate v6
+main1,127,0x61c8e,103,Voce treinou com o<BR><B>Rei Lemele<B>?<BR><BD>Verdade? Ele ja lutou<BR>contra muitos monstros<BR>e salvou centenas<BR>de pessoas.,TRADUZIDO,ate v6
+main1,128,0x61cf6,75,Varios visitantes<BR>perguntaram pelas <B>Runas<B>.<BR><BD>Todos foram para<BR><B>Bonro<B>.,TRADUZIDO,ate v6
+main1,129,0x61d42,92,{fc:0f000100c6}Levo remedios<BR>para <B>Bonro<B>.<BR><BD>Mas o <B>Portao da Terra<B><BR>esta fechado e nao<BR>consigo passar.,TRADUZIDO,ate v6
+main1,130,0x61d9f,18,,PENDENTE,
+main1,131,0x61db2,101,"Vai viajar sozinho?<BR>Seria bom ter alguem<BR>ao seu lado.<BR><BD>Em <B>Bonro<B> ou <B>Zellis<B>,<BR>voce podera encontrar<BR>um companheiro.",TRADUZIDO,ate v6
+main1,132,0x61e18,36,<B>Gain<B> sumiu.<BR><BD>Tinha encontro com ele?,TRADUZIDO,v7 - revisado
+main1,133,0x61e3d,79,"Tambem procuro as<BR><B>Runas<B>, mas nao sei<BR>onde estao.<BR><BD>Sera que existem?",TRADUZIDO,ate v6
+main1,134,0x61e8d,298,"{fc:0f000100c6}{fc:5c000a20c6}Sou <B>Gain<B>, de <B>Bonro<B>.<BR>Vim resolver negocios.<BR><BD>Fiquei preso porque o<BR><B>Portao da Terra<B><BR>esta fechado.<BR>Voce pode me ajudar?<BR><BD>Se abrir o portao,<BR>eu lhe darei este<BR><B>Mapa<B> magico.<BR><BD>Ele sempre mostra<BR>onde voce esta e vai<BR>facilitar sua jornada.<BR><BD>Vai me ajudar?<BR>{fb:0000db1fc6}{fb:0a00b81fc6}",TRADUZIDO,ate v6
+main1,135,0x61fb8,34,{fe:5c00}Combinado!<BR>Pode confiar em mim.,TRADUZIDO,ate v6
+main1,136,0x61fdb,46,O <B>Mapa<B> sera util.<BR>Tem certeza?<BR>{fb:0000db1fc6}{fb:0a00b81fc6},TRADUZIDO,ate v6
+main1,137,0x6200a,25,"Por favor, abra<BR>o portao!",TRADUZIDO,ate v6
+main1,138,0x62024,50,Encontrei outro dos<BR>guerreiros do <B>Rei Lemele<B><BR>agora mesmo.,TRADUZIDO,ate v6
+main1,139,0x62057,66,{fc:1000f021c6}{fc:11009a20c6}Ja tenho problemas<BR>demais com <B>Romus<B>.<BR><BD>Deixe-me em paz!,TRADUZIDO,ate v6
+main1,140,0x6209a,341,"{fe:8100}Voce foi ao castelo?<BR><BD><B>Romus<B> nao e mau.<BR>O <B>Rei de Aran<B> e que e.<BR><BD>Ha um ano, um viajante<BR>e seu cao chegaram aqui.<BR><BD>Ele tinha uma <B>pedra<BR>brilhante<B> que o rei<BR>desejava possuir.<BR><BD>O viajante nao quis<BR>entrega-la e foi morto.<BR><BD>O cao chorou ao lado<BR>do dono ate morrer.<BR><BD>Ele se chamava <B>Romus<B><BR>e assombra o castelo<BR>desde entao.<BR><BD>{fc:10002622c6}Que crueldade!",TRADUZIDO,ate v6
+main1,141,0x621f0,53,{fb:b5009a20c6}Obrigado! Agora <B>Romus<B><BR>pode descansar em paz.,TRADUZIDO,ate v6
+main1,142,0x62226,33,Obrigado! <B>Romus<B><BR>deve estar em paz.,TRADUZIDO,ate v6
+main1,143,0x62248,61,{fc:10000100c6}{fc:b5004e23c6}{fc:81008622c6}Minha esposa esta irada.<BR>Nao a perturbe.,TRADUZIDO,ate v6
+main1,144,0x62286,167,Ela contou a historia<BR>de <B>Romus<B>?<BR><BD>Ajude-nos.<BR><BD>Este <B>Apito<B> estava<BR>com o viajante quando<BR>o enterramos.<BR><BD>Toque o <B>Apito<B> quando<BR>encontrar <B>Romus<B>.<BR>Seu som vai trazer<BR>paz a alma dele.<BR><f3>{ff:2e23c6},TRADUZIDO,ate v6
+main1,145,0x6232e,31,{f6:18}{fe:1200}{fe:b500}<B><MC><B> tem o <B>Apito<B>.<BR>{f6:0a}{f6:04},TRADUZIDO,ate v6
+main1,146,0x6234e,18,Ajude <B>Romus<B>!,TRADUZIDO,ate v6
+main1,147,0x62361,56,"{fb:10000100c6}Finalmente, minha esposa<BR>esta feliz!<BR>Obrigado por tudo.",TRADUZIDO,v7 - revisado
+main1,148,0x6239a,19,{fc:10000100c6}Grrrrr<BR>{fe:1100}<f3>{f6:2b},TRADUZIDO,ate v6
+main1,149,0x623ae,28,<B>Romus<B> esta livre.<BR><f3>{ff:cb23c6},TRADUZIDO,ate v6
+main1,150,0x623cb,35,{fe:1000}{fe:4b00}<B><MC><B> tem a<BR><B>Chave da Terra<B>.<BR>{f6:0a}{f6:04},TRADUZIDO,ate v6
+main1,151,0x623ef,167,{fc:4f000100c6}{fc:13009724c6}Voce e <B><MC><B>?<BR>Estava te esperando.<BR><BD>Sou <B>Pison<B>. Um dos<BR>outros aventureiros<BR>pagou para mata-lo.<BR><BD>Quer saber quem foi?<BR>Nao posso contar.<BR><BD>Voce vai morrer aqui!<BR><f3>{fe:1300}{f6:28},TRADUZIDO,ate v6
+main1,152,0x62497,52,Voce ainda vive?<BR>Nao acredito que errei!<BR>Tome essa!<BR><f3>{f6:28},TRADUZIDO,ate v6
+main1,153,0x624cc,16,Portao fechado.,TRADUZIDO,ate v6
+main1,154,0x624dd,0,,SEM TEXTO,
+main1,155,0x624de,0,,SEM TEXTO,
+main1,156,0x624df,29,Bem-vindo ao porto<BR>de <B>Bonro<B>!,TRADUZIDO,v7 - revisado
+main1,157,0x624fd,76,"Na taverna, viajantes<BR>do mundo todo trocam<BR>informacoes uteis.",TRADUZIDO,ate v6
+main1,158,0x6254a,138,{fc:0d000100c6}{fc:dd001926c6}{fc:2800d525c6}Os navios de <B>Pandam<B><BR>pararam de chegar.<BR>Algo deve ter ocorrido.<BR><BD>Talvez seja melhor<BR>visitar outra cidade.,TRADUZIDO,ate v6
+main1,159,0x625d5,67,O navio de <B>Pandam<B><BR>chegou finalmente!<BR><BD>Logo podera embarcar.,TRADUZIDO,ate v6
+main1,160,0x62619,70,A viagem a <B>Pandam<B><BR>custa <B>100<B> G.<BR>{f6:0f}{fc:00006026c6}{f6:13}Vai perder<BR>uma boa viagem.,TRADUZIDO,ate v6
+main1,161,0x62660,6,,PENDENTE,
+main1,162,0x62667,98,{fc:0d000100c6}Tambem esta procurando<BR>uma <B>Runa<B>?<BR>Outro viajante falou<BR>disso ha pouco.<BR><BD>Boa sorte na busca!,TRADUZIDO,ate v6
+main1,163,0x626ca,69,{fc:03001027c6}{fc:05003827c6}{fc:67026c27c6}Ja viu um <B>TETUJIN<B>?<BR><BD>Sou um grande fa<BR>dos <B>TETUJINS<B>!,TRADUZIDO,ate v6
+main1,164,0x62710,39,Ja viu um <B>TETUJIN<B>?<BR><BD>Eles sao demais!,TRADUZIDO,ate v6
+main1,165,0x62738,51,Voce e um <B>TETUJIN<B>!<BR>Que legal! Sempre quis<BR>conhecer um!,TRADUZIDO,ate v6
+main1,166,0x6276c,49,Olhe! Ele nao e um<BR><B>TETUJIN<B>?<BR><BD>Queria ser como eles.,TRADUZIDO,ate v6
+main1,167,0x6279e,167,"Quero companhia para<BR>viajar, mas nao acho<BR>a pessoa certa.<BR><BD>Preciso de alguem<BR>que conheca magia<BR>e compense minhas<BR>fraquezas.<BR><BD>Onde posso encontrar?",TRADUZIDO,ate v6
+main1,168,0x62846,103,Sabe algo sobre<BR><B>Melenam<B>?<BR><BD>Ouvi falar de um<BR>grande tesouro...<BR><BD>Opa! Falei demais.<BR>Nao conte a ninguem.,TRADUZIDO,v7 - revisado
+main1,169,0x628ae,77,"Ouvi falar de um bom<BR>trabalho em <B>Zellis<B>,<BR>a oeste.<BR><BD>Estou indo para la.",TRADUZIDO,ate v6
+main1,170,0x628fc,50,"{fc:5e002f29c6}Quando era jovem,<BR>sonhava em buscar<BR>as <B>Runas<B>.",TRADUZIDO,ate v6
+main1,171,0x6292f,44,{fe:5f00}<B>Gain<B>?<BR><BD>Acabei de ve-lo<BR>na loja de armas.,TRADUZIDO,ate v6
+main1,172,0x6295c,67,Realizara um <B>desejo<B><BR>meu quando achar<BR>a <B>Runa<B>?<BR><BD>Meu <B>sonho<B>?<BR>Isso e segredo!,TRADUZIDO,ate v6
+main1,173,0x629a0,69,"{fc:6000e629c6}Se eu nao tivesse<BR>uma familia para<BR>sustentar, viajaria<BR>como voce.",TRADUZIDO,ate v6
+main1,174,0x629e6,72,{fe:6100}<B>Gain<B>?<BR><BD>Parecia procurar alguem.<BR>Talvez tenha ido<BR>para casa.,TRADUZIDO,ate v6
+main1,175,0x62a2f,145,"A antiga civilizacao<BR>de <B>Melenam<B> foi muito<BR>prospera.<BR><BD>Dizem que afundou<BR>no oceano a oeste.<BR><BD>Para saber mais,<BR>procure em <B>Zellis<B>.",TRADUZIDO,ate v6
+main1,176,0x62ac1,117,"Se alguem recusar<BR>seu convite, volte<BR>apos algumas lutas.<BR><BD>Com mais experiencia,<BR>as pessoas passam a<BR>olhar voce diferente.",TRADUZIDO,ate v6
+main1,177,0x62b37,73,"{fc:5f00812bc6}Para escolher companhia,<BR>busque alguem que<BR>supra suas fraquezas.",TRADUZIDO,ate v6
+main1,178,0x62b81,35,{fe:6000}<B>Gain<B> foi a casa<BR>perto do <B>porto<B>.,TRADUZIDO,ate v6
+main1,179,0x62ba5,21,{fc:9e00bb2bc6}{fe:a900}Filho doente.,TRADUZIDO,ate v6
+main1,180,0x62bbb,29,Meu filho esta curado.,TRADUZIDO,v7 - revisado
+main1,181,0x62bd9,18,{fc:9e000100c6}{fe:a900}Uuuugh...,TRADUZIDO,ate v6
+main1,182,0x62bec,27,{fb:9e000100c6}Que <B>remedio<B> ruim!,TRADUZIDO,ate v6
+main1,183,0x62c08,66,{fc:9e004b2cc6}{fe:a900}Estou esperando<BR>remedios de <B>Rablesk<B>.<BR><BD>O que aconteceu?!,TRADUZIDO,ate v6
+main1,184,0x62c4b,20,Muito obrigado!,TRADUZIDO,ate v6
+main1,185,0x62c60,33,{fb:9e000100c6}Obrigado!<BR>Salvou a crianca.,TRADUZIDO,ate v6
+main1,186,0x62c82,131,{fb:61000100c6}{fb:0900e42dc6}{fc:5b00382dc6}{fb:5c005d2dc6}Estava procurando voce.<BR><BD>Aqui esta o <B>Mapa<B><BR>que prometi. E seu!<BR><BD>Lembre-se: so pode<BR>usa-lo fora das cidades.<BR><f3>{ff:062dc6},TRADUZIDO,ate v6
+main1,187,0x62d06,49,{f6:2e}<B><MC><B> recebeu o <B>Mapa<B>!<BR>{f6:0a}{fe:5b00}{fd:5d00}{fd:5e00}{fd:5f00}{fd:6000}{f6:04}{fb:a9000200c6}{fe:9e00},TRADUZIDO,ate v6
+main1,188,0x62d38,36,Ganhei de um mago<BR>durante uma viagem.,TRADUZIDO,ate v6
+main1,189,0x62d5d,134,"Foi voce quem abriu<BR>o <B>Portao da Terra<B>.<BR><BD>Assim pude voltar<BR>a <B>Bonro<B>.<BR><BD>Como agradecimento,<BR>vou lhe dar este <B>Mapa<B>.<BR><f3>{ff:062dc6}",TRADUZIDO,ate v6
+main1,190,0x62de4,55,Nao seria melhor<BR>ajudar seus amigos<BR>na Casa da Cura?,TRADUZIDO,ate v6
+main1,191,0x62e1c,64,"{fc:61005d2ec6}{fe:5d00}Sim, e a casa de<BR><B>Gain<B>, mas ele foi<BR>para a Casa da Cura.",TRADUZIDO,ate v6
+main1,192,0x62e5d,38,{fb:0900842ec6}Voce abriu o<BR><B>Portao da Terra<B>.,TRADUZIDO,ate v6
+main1,193,0x62e84,29,Nao quer ajudar<BR>seus amigos?,TRADUZIDO,ate v6
+main1,194,0x62ea2,42,{fb:5d00cd2ec6}<B>Gain<B> disse que iria<BR>a <B>taverna<B>.<BR>{fe:5e00},TRADUZIDO,ate v6
+main1,195,0x62ecd,73,Na <B>Casa da Cura<B><BR>tratam <B>veneno<B> e<BR>recuperam companheiros<BR>perdidos.,TRADUZIDO,ate v6
+main1,196,0x62f17,0,,SEM TEXTO,
+main1,197,0x62f18,38,{fe:9e00}Veio a <B>Zellis<B> em<BR>busca de fortuna?,TRADUZIDO,ate v6
+main1,198,0x62f3f,96,NAO ME LEMBRO BEM.<BR><BD>MAS TALVEZ A RESPOSTA<BR>PROCURA PODE ESTAR<BR>EM <B>MELENAM<B>.,TRADUZIDO,v7 - revisado
+main1,199,0x62fa0,42,EXISTEM CERCA DE<BR>30 <B>TETUJINS<B> NO MUNDO.,TRADUZIDO,ate v6
+main1,200,0x62fcb,58,Invejo a imortalidade<BR>dos <B>TETUJINS<B>.<BR><BD>Queria ser um deles!,TRADUZIDO,ate v6
+main1,201,0x63006,369,"{fc:4a000100c6}{fb:5b00bc31c6}Sou <B>Brantu<B>, de <B>Brush<B>.<BR>Estudo a civilizacao<BR>perdida de <B>Melenam<B>.<BR><BD>Encontrei a entrada<BR>das ruinas, mas ha<BR>muitos monstros perto.<BR><BD>Quer vir comigo?<BR>{fb:00009631c6}Otimo! Sua ajuda<BR>sera valiosa.<BR><BD>Vamos logo. A <B>Caverna<BR>de Melenam<B> fica a oeste<BR>do continente.<BR><BD>A entrada esta nas<BR>profundezas da caverna.<BR><f3>{ff:7831c6}",TRADUZIDO,ate v6
+main1,202,0x63178,29,<B>Brantu<B> se uniu.<BR>{f6:0a}{fe:4a00}{f6:19}{f6:04},TRADUZIDO,ate v6
+main1,203,0x63196,37,Que pena que nao vem.<BR>Pode reconsiderar?,TRADUZIDO,ate v6
+main1,204,0x631bc,96,"Voce ja foi a <B>Bonro<B>,<BR>a leste?<BR><BD>La mora <B>Gain<B>, que tem<BR>um <B>Mapa<B> magico.<BR><BD>Ele facilita sua viagem.",TRADUZIDO,ate v6
+main1,205,0x6321d,31,Tambem busca <B>Melenam<B>?,TRADUZIDO,ate v6
+main1,206,0x6323d,108,A cidade era deserta<BR>ate descobrirem as<BR>ruinas de <B>Melenam<B>.<BR><BD>Agora recebemos gente<BR>de todo o continente.,TRADUZIDO,ate v6
+main1,207,0x632aa,75,Vou ficar milionaria<BR>quando achar <B>Melenam<B>!<BR><BD>O <B>tesouro<B> sera meu!,TRADUZIDO,ate v6
+main1,208,0x632f6,51,Serei um <B>sabio<B> ao saber<BR>por que <B>Melenam<B> sumiu.,TRADUZIDO,ate v6
+main1,209,0x6332a,53,"{fc:05006033c6}{fc:67026033c6}Quando achar o <B>tesouro<B>,<BR>meu filho sera rei!",TRADUZIDO,ate v6
+main1,210,0x63360,40,Ande mais quieto!<BR><BD>Voce me assustou!,TRADUZIDO,v7 - revisado
+main1,211,0x63389,85,"Dizem que a <B>Runa do<BR>Vento<B>, de poder<BR>misterioso, esta na<BR><B>Caverna de Melenam<B>.",TRADUZIDO,ate v6
+main1,212,0x633df,56,<B>Brantu<B> achou a entrada<BR>de <B>Melenam<B>.,TRADUZIDO,ate v6
+main1,213,0x63418,81,{fc:77000100c6}{fc:75006a34c6}Ja ouvi falar das <B>Runas<B>.<BR><BD>Elas concedem<BR>poder magico.,TRADUZIDO,ate v6
+main1,214,0x6346a,81,{fe:7700}Sou <B>Pegim<B>.<BR><BD><B>Prosa<B> me procura?<BR><BD>Diga que irei com ele<BR>a <B>Telaine<B>.,TRADUZIDO,ate v6
+main1,215,0x634bc,98,"{fc:6200c035c6}{fc:4c001f35c6}Pode me dar um <B>Topazio<B><BR>quando achar o tesouro<BR>de <B>Melenam<B>?<BR><BD>Se trouxer um,<BR>conto um segredo.",TRADUZIDO,ate v6
+main1,216,0x6351f,82,Achou <B>Melenam<B> mesmo?<BR><BD>Que maravilha!<BR>Agora me compre<BR>um <B>Topazio<B>!<BR>{fc:00007235c6}Que pao-duro!,TRADUZIDO,v7 - revisado
+main1,217,0x63572,2,,PENDENTE,
+main1,218,0x63575,4,,PENDENTE,
+main1,219,0x6357a,34,{fe:6200}<B><MC><B> deu um <B>Topazio<B>.<BR><f3>{ff:b635c6},TRADUZIDO,ate v6
+main1,220,0x6359d,24,Sem <B>Topazio<B><BR>para mim.,TRADUZIDO,ate v6
+main1,221,0x635b6,9,Obrigada!,TRADUZIDO,ate v6
+main1,222,0x635c0,63,Um segredo?<BR><BD>Logo vou me casar!<BR><BD>Estou muito feliz!<BR>Ha! Ha! Ha! Ha!,TRADUZIDO,v7 - revisado
+main1,223,0x63600,0,,SEM TEXTO,
+main1,224,0x63601,27,Rocha bloqueia<BR>o caminho!,TRADUZIDO,ate v6
+main1,225,0x6361d,26,{fe:a900}Chegamos!<BR>Vamos abrir!,TRADUZIDO,ate v6
+main1,226,0x63638,74,"Com sua ajuda, consegui<BR>entrar em <B>Melenam<B>.<BR><BD>Nunca esquecerei isso.<BR>{fb:0a008336c6}",TRADUZIDO,ate v6
+main1,227,0x63683,84,"{fc:50000100c6}{fe:4c00}Agora posso seguir so.<BR>Adeus, meu amigo!<BR>Visite-me em <B>Brush<B>.",TRADUZIDO,ate v6
+main1,228,0x636d8,140,"{fc:50000100c6}{fc:15006537c6}Estava esperando voce.<BR><BD>Sou eu, <B>Pison<B>!<BR><BD>Voltei do Mundo Sombrio<BR>como <B>Pison Vermelho<B>.<BR><BD>Agora voce vai morrer!<BR><f3>{fe:1500}{f6:29}",TRADUZIDO,ate v6
+main1,229,0x63765,51,Continua vivo?!<BR><BD>Nao percebe?<BR>Voce nunca vencera!<BR><f3>{f6:29},TRADUZIDO,ate v6
+main1,230,0x63799,56,MINHA MISSAO...<BR><BD>...E...<BR><BD>PROTEGER...<BR><BD>ESTA CIDADE.,TRADUZIDO,ate v6
+main1,231,0x637d2,46,{fc:64002738c6}DEVO PROTEGER...<BR><BD>PROTEGER...<BR>{fe:6400},TRADUZIDO,ate v6
+main1,232,0x63801,37,{fc:63002738c6}TODOS FUGIRAM<BR>EM SEGURANCA?<BR>{fe:6300},TRADUZIDO,ate v6
+main1,233,0x63827,15,...GGGG..G.G...,TRADUZIDO,ate v6
+main1,234,0x63837,0,,SEM TEXTO,
+main1,235,0x63838,61,Bem-vindo a <B>Eygus<B>!<BR>Ha muito nao vejo<BR>alguem do continente.,TRADUZIDO,ate v6
+main1,236,0x63876,53,"Veio do continente?<BR><BD>As cidades de la<BR>sao lindas, nao?",TRADUZIDO,ate v6
+main1,237,0x638ac,63,Veio mesmo do<BR>continente?<BR><BD>Conte como e la!<BR>Tenho curiosidade.,TRADUZIDO,ate v6
+main1,238,0x638ec,218,"Viu as ruinas de<BR><B>Melenam<B>?<BR><BD>Ha <B>5000<B> anos, uma grande<BR>civilizacao viveu la.<BR><BD>Quando a paz virou<BR>rotina, criaram armas<BR>e destruiram tudo.<BR><BD>Por fim, dizem que<BR>afundou no oceano.",TRADUZIDO,ate v6
+main1,239,0x639c7,62,Somos descendentes<BR>dos que fugiram de<BR><B>Melenam<B> para ca.,TRADUZIDO,ate v6
+main1,240,0x63a06,75,"{fb:6900523ac6}Essa e a <B>Runa do Vento<B>?<BR><BD>Com ela, pode ir<BR>a qualquer lugar<BR>num instante.",TRADUZIDO,v7 - revisado
+main1,241,0x63a52,153,"Dizem que a <B>Runa do<BR>Vento<B> esta na <B>Caverna<BR>de Melenam<B>.<BR><BD>Ha muito tempo, <B>SARO<B><BR>a usou contra o mal.<BR><BD>Ela permite viajar<BR>imediatamente para<BR>qualquer lugar!",TRADUZIDO,ate v6
+main1,242,0x63aec,85,"{fc:6900423bc6}Vai precisar da<BR><B>Runa do Vento<B>, de<BR><B>Melenam<B>.<BR><BD>Procure-a.",TRADUZIDO,ate v6
+main1,243,0x63b42,48,Leve a <B>Runa do Vento<B><BR>ao sabio.<BR>Ele vai ajuda-lo.,TRADUZIDO,ate v6
+main1,244,0x63b73,45,"Quero ir ao continente,<BR>mas o sabio nao<BR>permite.",TRADUZIDO,ate v6
+main1,245,0x63ba1,53,{fc:7e000100c6}{fc:6900d73bc6}Cuide de sua vida<BR>e deixe o povo em paz.,TRADUZIDO,ate v6
+main1,246,0x63bd7,38,{fb:7e000100c6}{fc:7e00fe3bc6}A <B>Runa do Vento<B>!<BR>{fb:0a00fe3bc6},TRADUZIDO,ate v6
+main1,247,0x63bfe,147,Voce deve ter uma<BR>missao importante.<BR><BD>E melhor se apressar.<BR><BD>Nos fundos ha uma<BR>passagem pela caverna<BR>ate o continente.<BR><BD>Por favor!{fc:7e000200c6}{fe:7e00}<f3>{f6:22},TRADUZIDO,ate v6
+main1,248,0x63c92,98,Nossos antepassados<BR>temiam reconstruir<BR>uma civilizacao tao<BR>perigosa.<BR><BD>Decidiram viver<BR>em paz nesta ilha.,TRADUZIDO,ate v6
+main1,249,0x63cf5,27,<B>Pell<B> e a cidade da agua.,TRADUZIDO,ate v6
+main1,250,0x63d11,70,Uma <B>Runa<B>?<BR><BD>Converse com o dono<BR>da taverna.<BR>Talvez ele saiba.,TRADUZIDO,ate v6
+main1,251,0x63d58,115,"Uma <B>Runa<B>?<BR><BD>Uma tribo ao sul tinha<BR>a <B>Runa da Agua<B>.<BR><BD>Se for ate la, cuidado.<BR>Sao muito violentos.",TRADUZIDO,ate v6
+main1,252,0x63dcc,87,{fc:16000100c6}{fc:1700243ec6}Sou o <B>melhor escavador<B><f5>l<BR>da vila<f5>l...<BR><BD>Vou cantar.<f5>l<BR><BD>Que voz!<BR>Adoro meu canto.,TRADUZIDO,ate v6
+main1,253,0x63e24,167,"Sim! Sou <B>Quose<B>,<BR>o escavador.<BR><BD>Precisa de algo?<BR>{fb:0000f13ec6}Quer que eu procure<BR><B>agua subterranea<B>?<BR>{fb:0000f13ec6}Hum... Vou pensar.<BR>Esta bem, eu vou.<BR>Por onde comecamos?<BR><f3>{ff:cc3ec6}",TRADUZIDO,ate v6
+main1,254,0x63ecc,36,<B>Quose<B> se uniu.<BR>{f6:0a}{fe:4e00}{fe:1600}{fe:6600}{f6:1a}{f6:04},TRADUZIDO,ate v6
+main1,255,0x63ef1,29,"Falo serio!<BR>Se nao, va embora!",TRADUZIDO,ate v6
+main1,256,0x63f0f,134,"{fc:1800e73fc6}{fc:6600963fc6}Meu <B>marido<B> passa o dia<BR>cantando na taverna.<BR><BD>Antes o chamavam de<BR><B>Quose, o Escavador<B>.<BR><BD>Agora nao trabalha mais.<BR>Estou muito infeliz.",TRADUZIDO,ate v6
+main1,257,0x63f96,80,Meu marido!<BR><BD>O que faz com estranhos?<BR>Para onde vai?<BR><BD>Va aonde quiser!<BR>Eu desisto.,TRADUZIDO,ate v6
+main1,258,0x63fe7,25,Para onde levou<BR>meu <B>marido<B>?,TRADUZIDO,v7 - revisado
+main1,259,0x64001,73,"Viajei muito pela<BR><B>Runa da Agua<B>, mas<BR>um velho teimoso<BR>nao a entrega.",TRADUZIDO,ate v6
+main1,260,0x6404b,22,Nada da certo agora.,TRADUZIDO,ate v6
+main1,261,0x64062,58,"Conhece <B>Eygus<B>?<BR><BD>Sou de la, mas nao<BR>conte a ninguem.",TRADUZIDO,ate v6
+main1,262,0x6409d,80,"Sabia que havia um<BR>continente ao norte?<BR><BD>Chamava-se <B>Melenam<B>,<BR>mas afundou no mar.",TRADUZIDO,ate v6
+main1,263,0x640ee,109,Voce estudou com<BR>o <B>Rei Lemele<B>?<BR><BD>Ele me salvou quando<BR>eu era crianca.<BR><BD>Que bom saber que<BR>ele esta bem.,TRADUZIDO,ate v6
+main1,264,0x6415c,76,{fc:65000100c6}Sabe algo de <B>Melenam<B>?<BR>{fc:0000a941c6}Dizem que ha<BR><B>tesouros<B> por la.,TRADUZIDO,ate v6
+main1,265,0x641a9,66,{fe:6500}Voce a encontrou?!<BR><BD>Perdi 25 anos<BR>procurando!,TRADUZIDO,ate v6
+main1,266,0x641ec,87,Antes havia navios<BR>para <B>Bonro<B> e outras<BR>cidades.<BR><BD>Agora os monstros<BR>impedem as viagens.,TRADUZIDO,ate v6
+main1,267,0x64244,11,Umpa! Umpa!,TRADUZIDO,ate v6
+main1,268,0x64250,10,{fc:1e006948c6}Uga!,TRADUZIDO,ate v6
+main1,269,0x6425b,26,Este e o pais<BR>de <B>Guntz<B>.,TRADUZIDO,ate v6
+main1,270,0x64276,31,Esta cidade nao<BR>precisa de armas.,TRADUZIDO,v7 - revisado
+main1,271,0x64296,100,{fc:1800fb42c6}Ha meses nao chove.<BR>As plantacoes estao<BR>morrendo.<BR><BD>Nem podemos cavar<BR>pocos: a terra e dura.,TRADUZIDO,v7 - revisado
+main1,272,0x642fb,57,"Volte um dia a esta<BR>aldeia, para podermos<BR>lhe retribuir.",TRADUZIDO,ate v6
+main1,273,0x64335,43,{fc:18006143c6}Vi alguem pedir<BR>uma <B>Runa<B> ao sabio.,TRADUZIDO,ate v6
+main1,274,0x64361,36,Agradecemos por<BR>salvar a aldeia.,TRADUZIDO,ate v6
+main1,275,0x64386,60,{fc:1800c343c6}O sabio e teimoso.<BR><BD>Tenha paciencia<BR>com ele.,TRADUZIDO,ate v6
+main1,276,0x643c3,49,O sabio mudou muito.<BR>Ja nao e tao teimoso.,TRADUZIDO,v7 - revisado
+main1,277,0x643f5,66,{fc:18003844c6}Nao chove ha tempo.<BR>A <B>Runa da Agua<B> parece<BR>perder o poder.,TRADUZIDO,ate v6
+main1,278,0x64438,65,"Precisamos de novas<BR>tecnicas, sem depender<BR>da <B>Runa da Agua<B>.",TRADUZIDO,ate v6
+main1,279,0x6447a,138,{fc:1900e747c6}{fc:d7002e47c6}{fc:1c006546c6}{fc:17000545c6}{fc:57007c49c6}{fc:56007449c6}{fc:55006249c6}{fc:54004349c6}{fc:53001549c6}{fc:5200d648c6}{fc:5100b248c6}{fe:5100}Quer a <B>Runa da Agua<B>?<BR><BD>Nunca a entregarei.<BR>Ela nos protege!,TRADUZIDO,ate v6
+main1,280,0x64505,125,"Que insistencia!<BR>Esta bem, faremos<BR>um trato.<BR><BD>Se conseguir agua<BR>para nossas plantacoes<BR>sem chover, entregarei<BR>a <B>Runa da Agua<B>.",TRADUZIDO,ate v6
+main1,281,0x64583,78,{fb:4e000100c6}{fc:1c006546c6}{fd:4e00}Voce de novo?<BR><BD>Quem e esse homem?<BR>O que fara com ele?<BR><f3>{f6:23}{f6:59}{fb:0a00d245c6},TRADUZIDO,ate v6
+main1,282,0x645d2,29,Agua! Encontramos agua!<BR>{fb:0a00f045c6},TRADUZIDO,v7 - revisado
+main1,283,0x645f0,36,Salvou nossa aldeia.<BR>Obrigado!<BR>{fb:1c001546c6},TRADUZIDO,ate v6
+main1,284,0x64615,38,"Como prometi,<BR>eis a <B>Runa da Agua<B>.<BR><f3>{ff:3c46c6}",TRADUZIDO,ate v6
+main1,285,0x6463c,40,<B><MC><B>:<BR><B>Runa da Agua<B>.<BR>{f6:0a}{fe:1800}{fd:6600}{f6:0d}{f6:04}<f3>{ff:6546c6},TRADUZIDO,ate v6
+main1,286,0x64665,179,"Essa <B>Runa<B> restaura<BR>a energia perdida<BR>durante as batalhas.<BR><BD>Ouvi falar de outra<BR><B>Runa<B> em <B>Patrof<B>,<BR>a leste. Va ate la.{fc:1e001947c6}{fc:1c000200c6}{fe:1c00}{f6:5b}",TRADUZIDO,ate v6
+main1,287,0x64719,20,,PENDENTE,
+main1,288,0x6472e,157,Bem-vindo de volta!<BR>Obrigado por trazer<BR>aquele homem.<BR><BD>Ele achou <B>agua pura<B>.<BR>Estamos prosperando!<BR><BD>Aceite este presente<BR>como agradecimento.<BR><f3>{ff:cc47c6},TRADUZIDO,ate v6
+main1,289,0x647cc,26,{f6:51}{fe:1900}<B><MC><B> tem <B>5000<B> G.<BR>{f6:0a}{f6:04},TRADUZIDO,ate v6
+main1,290,0x647e7,33,"A aldeia mudou<BR>muito, nao acha?",TRADUZIDO,ate v6
+main1,291,0x64809,40,Deu muito trabalho!<BR>Eu me esforcei.<BR>{fb:0a003248c6},TRADUZIDO,ate v6
+main1,292,0x64832,54,{fb:18000100c6}{fc:d7007448c6}Quero ficar um tempo<BR>para ajudar o povo.,TRADUZIDO,ate v6
+main1,293,0x64869,10,O... la...,TRADUZIDO,ate v6
+main1,294,0x64874,61,"Sou genial! Ja achei<BR>agua antes, mas desta<BR>vez e <B>agua pura<B>!",TRADUZIDO,v7 - revisado
+main1,295,0x648b2,35,Esta perdendo tempo.<BR>Va embora!<BR>{fe:5200},TRADUZIDO,ate v6
+main1,296,0x648d6,62,Nao me incomode!<BR><BD>Nao darei a <B>Runa<BR>da Agua<B> a um estranho.<BR>{fe:5300},TRADUZIDO,ate v6
+main1,297,0x64915,45,Ja falei! Esqueca<BR>isso e va embora!<BR>{fe:5400},TRADUZIDO,ate v6
+main1,298,0x64943,30,Vai me deixar furioso!<BR>{fe:5500},TRADUZIDO,ate v6
+main1,299,0x64962,17,. . . . . . .<BR>{fe:5600},TRADUZIDO,ate v6
+main1,300,0x64974,7,...<BR>{fe:5700},TRADUZIDO,ate v6
+main1,301,0x6497c,19,Fique calado!<BR>{fe:1700},TRADUZIDO,ate v6
+main1,302,0x64990,0,,SEM TEXTO,
+main1,303,0x64991,83,{fc:1e00e549c6}{fc:9f00b350c6}Algo horrivel acontece<BR>em <B>Patrof<B>.<BR>Saia antes que<BR>alguem o capture.,TRADUZIDO,ate v6
+main1,304,0x649e5,129,"Obrigado por salvar<BR>a cidade!<BR><BD>Se seguir a costa<BR>para o norte, chegara<BR>a <B>Bone<B>.<BR><BD>Vale a pena explorar.",TRADUZIDO,ate v6
+main1,305,0x64a67,56,{fc:1e00a04ac6}{fc:9f00b350c6}E melhor sair daqui<BR>antes de se machucar.,TRADUZIDO,ate v6
+main1,306,0x64aa0,46,Falarao de voce<BR>por muitas geracoes.,TRADUZIDO,v7 - revisado
+main1,307,0x64acf,69,{fc:1e00154bc6}{fc:9f00b350c6}O reino era rico<BR>e pacifico.<BR>Agora e uma prisao.,TRADUZIDO,ate v6
+main1,308,0x64b15,36,Obrigado! A paz<BR>voltou a cidade.,TRADUZIDO,ate v6
+main1,309,0x64b3a,91,{fc:1e005a4cc6}{fc:9f00b350c6}Ninguem mais pode<BR>lutar contra ele.<BR><BD>Fuja antes que o veja.,TRADUZIDO,ate v6
+main1,310,0x64b96,195,"{fc:1e005a4cc6}{fc:9f00b350c6}Um dia, ele atacou<BR>o castelo e roubou<BR>a <B>Runa da Estrela<B><BR>do rei.<BR><BD>Matou o rei e todos<BR>os guerreiros leais.<BR><BD>Desde entao, governa<BR>o pais do castelo.",TRADUZIDO,ate v6
+main1,311,0x64c5a,15,Nosso heroi!,TRADUZIDO,ate v6
+main1,312,0x64c6a,41,{fc:1e00944cc6}{fc:9f00b350c6}Muitos morreram<BR>por culpa dele.,TRADUZIDO,ate v6
+main1,313,0x64c94,73,Os que deram a vida<BR>agora podem descansar.<BR>Foram vingados.,TRADUZIDO,ate v6
+main1,314,0x64cde,62,{fc:1e001d4dc6}{fc:9f00b350c6}Era cruel e matava<BR>quem tentasse fugir.,TRADUZIDO,ate v6
+main1,315,0x64d1d,50,Vamos reconstruir<BR>nosso pais do zero!,TRADUZIDO,ate v6
+main1,316,0x64d50,139,{fc:1e00a04ac6}{fc:9f00b350c6}O castelo e muito bem<BR>vigiado. Ninguem chega<BR>perto dele.<BD>Mas me contaram que<BR>ha uma passagem secreta<BR>da cidade ate la.,TRADUZIDO,ate v6
+main1,317,0x64ddc,141,"{fc:1e00e84dc6}{fc:9f00b350c6}A <B>Runa da Estrela<B><BR>dobra a defesa de quem<BR>a usa em combate.<BD>Por isso, ninguem<BR>conseguia vence-lo.",TRADUZIDO,ate v6
+main1,318,0x64e6a,227,"{fc:1e000100c6}{fc:1d00bc4fc6}{fc:1f004e4fc6}<B><MC><B>, eu esperava<BR>por voce.<BD>Sabia que viria um dia.<BD>Ainda busca as <B>Runas<B>?<BD>Esqueca isso. Junte-se<BR>a mim e teremos poder<BR>para fazer tudo!<BR>{fb:0000834fc6}{fe:1f00}{fe:9f00}Otimo! Vamos dividir<BR>poder e riquezas.",TRADUZIDO,ate v6
+main1,319,0x64f4e,52,Mudou de ideia?<BR>{fc:0000834fc6}Comporte-se e nao<BR>arrume confusao.,TRADUZIDO,ate v6
+main1,320,0x64f83,56,"{fe:1d00}Se disser nao, nao<BR>saira daqui com vida!<BR><f3>{f6:38}",TRADUZIDO,ate v6
+main1,321,0x64fbc,54,Nao desiste? Sera nossa<BR>ultima vez!<BR><f3>{f6:38},TRADUZIDO,ate v6
+main1,322,0x64ff3,44,<B><MC><B>:<BR><B>Runa Estrela<B>.<BR>{fd:8302}{fe:9f00}{f6:0a}{f6:04}{fc:1c002050c6}{fb:0a00cc32c7},TRADUZIDO,v7 - revisado
+main1,323,0x65020,9,,PENDENTE,
+main1,324,0x6502a,15,Jaz Mishiro.,TRADUZIDO,ate v6
+main1,325,0x6503a,12,Jaz Leo.,TRADUZIDO,ate v6
+main1,326,0x65047,26,Inscricao ilegivel.,TRADUZIDO,ate v6
+main1,327,0x65062,15,Jaz Macota.,TRADUZIDO,ate v6
+main1,328,0x65072,14,Jaz Orute.,TRADUZIDO,ate v6
+main1,329,0x65081,26,<B>Nao mexa na tumba!<B>,TRADUZIDO,ate v6
+main1,330,0x6509c,22,{fc:9f000100c6}<B>Portao<B> fechado.,TRADUZIDO,ate v6
+main1,331,0x650b3,7,,PENDENTE,
+main1,332,0x650bb,0,,SEM TEXTO,
+main1,333,0x650bc,14,Ola! <B>Bone<B>!,TRADUZIDO,ate v6
+main1,334,0x650cb,93,"Veio de longe, do sul.<BR>Mas nao podera seguir<BR>para o norte.<BD>Montanhas perigosas<BR>bloqueiam o caminho.",TRADUZIDO,ate v6
+main1,335,0x65129,47,<B>Runa<B>?<BD>Outra pessoa tambem<BR>buscava isso. O que e?,TRADUZIDO,ate v6
+main1,336,0x65159,44,Vi um <B>dinossauro<B>!<BR>E verdade! Vi nadando!,TRADUZIDO,v7 - revisado
+main1,337,0x65186,67,A leste fica o <B>Lago<BR>Fles<B>. Dizem ter visto<BR>um <B>dinossauro<B> la.,TRADUZIDO,ate v6
+main1,338,0x651ca,81,Nao acredito nessa<BR>historia de dinossauro.<BD>E um boato sem sentido.<BR>Nao de importancia.,TRADUZIDO,ate v6
+main1,339,0x6521c,197,"Um historiador acha<BR>que o <B>Lago Fles<B> e o<BR><B>Lago Hargu<B> se ligam<BR>pelo fundo.<BD>Para provar isso, um<BR>homem foi a <B>Caverna<BR>de Milto<B>, junto ao lago.<BD>So um louco tentaria<BR>provar tal historia.",TRADUZIDO,ate v6
+main1,340,0x652e2,82,Ao sul fica a <B>Torre<BR>de Grime<B>.<BD>O portao esta fechado.<BR>Ninguem consegue entrar.{fc:70000200c6}{fc:02003553c6},TRADUZIDO,ate v6
+main1,341,0x65335,194,"{fc:6600f853c6}{fc:6700f853c6}{fb:1c000200c6}{fb:1e000200c6}<BD>Voce se parece tanto<BR>com meu pai que sinto<BR>que ja o conheco.<BD>Tenho um presente.<BR>Esta chave pertence a<BR>nossa familia ha eras.<BD>Nao sei onde usa-la,<BR>mas voce descobrira.<BR><f3>{ff:1c54c6}",TRADUZIDO,ate v6
+main1,342,0x653f8,35,<BD>Seu companheiro<BR>quer partir logo.,TRADUZIDO,ate v6
+main1,343,0x6541c,44,{fe:7000}Achou a <B>Chave do<BR>Brilho<B>.<BR>{f6:0a}{f6:04}{f6:50}{fc:7d000200c6}{fe:7d00}{f6:4e},TRADUZIDO,ate v6
+main1,344,0x65449,58,Magos usavam a <B>Torre<BR>de Grime<B> para viajar<BR>por magia.,TRADUZIDO,ate v6
+main1,345,0x65484,142,"Esta viajando?<BD>Na loja de itens, ha<BR>um <B>Antidoto<B> que cura<BR>a petrificacao<BR>causada por magia.<BD>E bom ter um<BR>sempre por perto.",TRADUZIDO,ate v6
+main1,346,0x65513,57,Onde fica a loja<BR>de armas?<BD>Sou novo aqui e<BR>sempre me perco.,TRADUZIDO,ate v6
+main1,347,0x6554d,57,Quem planejou esta<BR>cidade?<BR>As ruas sao confusas!,TRADUZIDO,ate v6
+main1,348,0x65587,47,Ha um dinossauro<BR>no <B>Lago Hargu<B>.,TRADUZIDO,ate v6
+main1,349,0x655b7,325,"{fb:68000100c6}{fc:6600be57c6}{fc:83004d57c6}Pensei que meu tio<BR>morasse em <B>Bonro<B>.<BD>Esta cidade e <B>Bonro<B>,<BR>certo?<BR>{fc:0000fd56c6}O que?<BR>Estou em <B>Bone<B>,<BR>nao em <B>Bonro<B>?<BD>Obrigado por me contar!<BR>Posso retribuir?<BD>Talvez...<BR>{fc:0300e357c6}{fc:0500e357c6}Encontrei isto quando<BR>me perdi na <B>Caverna<BR>de Milto<B>, a leste.<BD>Nao sei para que serve,<BR>mas parece valioso.<BD>Quero que fique com ele.<BR><f3>{ff:2157c6}",TRADUZIDO,ate v6
+main1,350,0x656fd,35,Foi o que pensei.<BR>Nao entendo.,TRADUZIDO,ate v6
+main1,351,0x65721,43,<B><MC><B> recebeu<BR>o <B>Controle Remoto<B>.<BR>{fe:8300}{f6:5a}{f6:0a}{f6:04}<BD>{ff:4d57c6},TRADUZIDO,ate v6
+main1,352,0x6574d,111,"Quando achei este<BR><B>Controle Remoto<B> na<BR><B>Caverna de Milto<B>, vi<BR>um homem estranho.<BD>Parecia ter sumido<BR>atraves da parede.",TRADUZIDO,ate v6
+main1,353,0x657bd,0,,SEM TEXTO,
+main1,354,0x657be,36,Seu companheiro<BR>esta com muita pressa.,TRADUZIDO,v7 - revisado
+main1,355,0x657e3,179,"Para chegar ao norte<BR>do continente, precisa<BR>viajar de <B>Bonro<B><BR>ate <B>Pandam<B> de navio.<BD>Meu tio trabalha num<BR>navio em <B>Bonro<B>.<BR>Posso falar com ele.<BD>Quer ir comigo ate la?<BR>{fc:00009758c6}Talvez noutra hora.",TRADUZIDO,ate v6
+main1,356,0x65897,38,Otimo! Sou <B>Perole<B>.<BR><f3>{ff:be58c6},TRADUZIDO,ate v6
+main1,357,0x658be,39,{fe:2800}{fd:6800}{fe:6700}<B>Perole<B> se uniu.<BR>{f6:0a}{f6:04}{f6:53},TRADUZIDO,ate v6
+main1,358,0x658e6,250,"{fb:28000100c6}{fc:2900e159c6}{fd:6700}{fe:2900}Ola, <B>Perole<B>!<BR>Que bom rever voce!<BD>Disse que foi voce<BR>quem o trouxe ate mim.<BR>Obrigado!<BD>Por isso, vou dar um<BR>jeito de embarcarem.<BD>O navio acaba de<BR>voltar de <B>Pandam<B>.<BD>Quer partir agora?<BR>{fc:0000205ac6}{f6:54}Avise quando<BR>estiver pronto.",TRADUZIDO,ate v6
+main1,359,0x659e1,62,Quer embarcar no<BR>proximo navio?<BR>{fc:0000205ac6}Me avise quando<BR>estiver pronto.,TRADUZIDO,ate v6
+main1,360,0x65a20,27,Por aqui!<BR><f3>{fc:7d003c5ac6}{fe:7d00}{f6:4e}{f6:2f},TRADUZIDO,ate v6
+main1,361,0x65a3c,2,,PENDENTE,
+main1,362,0x65a3f,34,{fb:29000100c6}Visite-nos. Adeus.,TRADUZIDO,ate v6
+main1,363,0x65a62,0,,SEM TEXTO,
+main1,364,0x65a63,9,Cuide-se.,TRADUZIDO,ate v6
+main1,365,0x65a6d,36,O material desta<BR>parede e diferente.,TRADUZIDO,ate v6
+main1,366,0x65a92,487,"{fc:2a007a5cc6}{fd:6800}Ah! Finalmente<BR>alguem me encontrou!<BD>Guardei um segredo<BR>por muitos anos.<BD>Mas ja que esta aqui,<BR>vou lhe mostrar.<BR>Inventei um <B>submarino<B>!<BD>O povo da cidade acha<BR>que ele e um dinossauro.<BD>Ouvi dizer que os<BR><B>Lagos Fles e Hargu<B><BR>se ligam pelo fundo.<BD>Construir o submarino<BR>foi minha maneira<BR>de investigar.<BD>E vi que era verdade!<BD>Se quiser ir para<BR>o norte das montanhas,<BR>pode viajar por baixo<BR>da agua, no submarino.<BD>Quer experimentar?<BR>{fe:2a00}{fc:0000c55cc6}Se mudar de ideia,<BR>volte quando quiser.",TRADUZIDO,ate v6
+main1,367,0x65c7a,74,Mudou de ideia<BR>sobre o passeio?<BR>{fc:0000c55cc6}Pode voltar<BR>quando quiser.,TRADUZIDO,ate v6
+main1,368,0x65cc5,45,Vamos! Vai gostar<BR>da paisagem.<BR><f3>{fc:7d00f35cc6}{fe:7d00}{f6:4e}{f6:4f},TRADUZIDO,ate v6
+main1,369,0x65cf3,2,,PENDENTE,
+main1,370,0x65cf6,16,<B>Portao<B> trancado.,TRADUZIDO,ate v6
+main1,371,0x65d07,12,,PENDENTE,
+main1,372,0x65d14,179,"Ao cruzar as montanhas<BR>rumo ao norte, achara<BR>cidades muito ricas.<BD>Talvez descubra la<BR>algo sobre a <B>Runa<B><BR>que esta procurando.<BD>O problema e encontrar<BR>um jeito de atravessar.",TRADUZIDO,ate v6
+main1,373,0x65dc8,24,Esta e <B>Dowaine<B>.,TRADUZIDO,ate v6
+main1,374,0x65de1,41,{fc:2c000b5ec6}{fc:2d004d5ec6}Precos subindo.,TRADUZIDO,ate v6
+main1,375,0x65e0b,65,<B>Belaine<B> e <B>Telaine<B><BR>entraram em guerra!<BR>O que sera de nos?,TRADUZIDO,ate v6
+main1,376,0x65e4d,47,<B>Belaine<B> e <B>Telaine<B><BR>fizeram as pazes.,TRADUZIDO,ate v6
+main1,377,0x65e7d,77,{fc:2c00cb5ec6}{fc:2d00fd5ec6}Ha falta de produtos<BR>por causa da briga<BR>entre <B>Belaine<B><BR>e <B>Telaine<B>.,TRADUZIDO,ate v6
+main1,378,0x65ecb,49,A guerra aumentou<BR>muito os precos.<BR>Nao aguento mais!,TRADUZIDO,v7 - revisado
+main1,379,0x65efd,37,Ainda bem! Os precos<BR>voltaram ao normal.,TRADUZIDO,ate v6
+main1,380,0x65f23,76,Ouviu falar do<BR>dinossauro visto no<BR><B>Lago Hargu<B>?<BD>Eu mesmo ja o vi.,TRADUZIDO,ate v6
+main1,381,0x65f70,83,"<B>Runa<B>? Nao conheco.<BD>Talvez descubra algo<BR>em <B>Belaine<B> ou <B>Telaine<B>,<BR>ao norte.",TRADUZIDO,ate v6
+main1,382,0x65fc4,33,O monstro esta mais<BR>poderoso agora.,TRADUZIDO,ate v6
+main1,383,0x65fe6,75,"Ao norte fica <B>Belaine<B>,<BR>grande fabricante<BR>de armas.",TRADUZIDO,ate v6
+main1,384,0x66032,95,"A maior cidade do<BR>continente e <B>Brush<B>,<BR>a oeste daqui.<BD>Sonho em trabalhar<BR>la um dia.",TRADUZIDO,ate v6
+main1,385,0x66092,84,"{fc:04005061c6}{fc:07005061c6}Com licenca! Tenho<BR>algo bom por <B>100<B> G.<BR>{f6:0f}{fc:0000e760c6}{f6:13}Ah, que pena!",TRADUZIDO,ate v6
+main1,386,0x660e7,2,,PENDENTE,
+main1,387,0x660ea,64,"<B><IT><B> e seu.<BD>Se achar algo raro,<BR>eu aviso.<BR>{f6:13}",TRADUZIDO,ate v6
+main1,388,0x6612b,36,Devia ter dito que<BR>estava sem dinheiro.<BR>{f6:13},TRADUZIDO,ate v6
+main1,389,0x66150,44,Ele me assusta.<BR>Vou me afastar.,TRADUZIDO,ate v6
+main1,390,0x6617d,36,Meu filho so traz<BR>coisas esquisitas.,TRADUZIDO,v7 - revisado
+main1,391,0x661a2,127,"JA CONHECI MUITOS<BR>TETUJINS, MAS NENHUM<BR>RECORDA SEU PASSADO.<BD>PARECE QUE PERDEMOS<BR>AS MEMORIAS ANTIGAS<BR>AO FORMAR NOVAS.",TRADUZIDO,ate v6
+main1,392,0x66222,0,,SEM TEXTO,
+main1,393,0x66223,34,Este e o reino<BR>industrial de <B>Belaine<B>.,TRADUZIDO,ate v6
+main1,394,0x66246,33,Criamos muitas armas<BR>e armaduras.,TRADUZIDO,ate v6
+main1,395,0x66268,49,Vendemos nossas armas<BR>pelo mundo todo.,TRADUZIDO,ate v6
+main1,396,0x6629a,87,{fc:2c00f262c6}{fc:2d000f63c6}Tudo ficou mais caro<BR>porque <B>Telaine<B> elevou<BR>o preco do <B>minerio<B>.,TRADUZIDO,ate v6
+main1,397,0x662f2,28,A guerra trara caos<BR>ao mundo.,TRADUZIDO,ate v6
+main1,398,0x6630f,34,Os precos estao<BR>normais. Que bom!,TRADUZIDO,ate v6
+main1,399,0x66332,92,"{fc:2c008f63c6}{fc:2d00ad63c6}Antes tinhamos boas<BR>relacoes com <B>Telaine<B>,<BR>no continente ao norte.<BD>Agora ha um problema.",TRADUZIDO,ate v6
+main1,400,0x6638f,29,Nao esperava<BR>uma guerra.,TRADUZIDO,ate v6
+main1,401,0x663ad,21,A paz voltou!,TRADUZIDO,ate v6
+main1,402,0x663c3,78,{fc:2c001264c6}{fc:2d004764c6}Sou ferreiro. Forjo<BR><B>espadas<B> e <B>armaduras<B><BR>com minerio de <B>Telaine<B>.,TRADUZIDO,ate v6
+main1,403,0x66412,52,"Mesmo sendo ferreiro,<BR>nunca desejei a guerra.",TRADUZIDO,ate v6
+main1,404,0x66447,89,O <B>minerio<B> voltou<BR>ao preco normal.<BD>Vou trabalhar e forjar<BR>uma <B>espada poderosa<B>.,TRADUZIDO,ate v6
+main1,405,0x664a1,70,Temos muitos mestres<BR>ferreiros neste pais.<BD>Procure um deles para<BR>forjar sua espada.,TRADUZIDO,ate v6
+main1,406,0x664e8,78,"Quando crescer, serei<BR>ferreiro como meu pai.<BD>Vou criar a <B>espada mais<BR>forte<B> do mundo!",TRADUZIDO,ate v6
+main1,407,0x66537,69,"Enviamos nossas armas<BR>e armaduras para<BR><B>Brush<B>, a oeste.",TRADUZIDO,ate v6
+main1,408,0x6657d,82,Fiz esta <B>espada<B>.<BR>Compra por <B>1000<B> G?<BR>{f6:0f}{fc:0000d065c6}{f6:13}Que pena! Tudo bem.,TRADUZIDO,ate v6
+main1,409,0x665d0,2,,PENDENTE,
+main1,410,0x665d3,45,Vou chamar esta espada<BR>de <B>Espada da Mare<B>.<BR>{f6:13},TRADUZIDO,ate v6
+main1,411,0x66601,158,Hum... Esta <B>espada<B><BR>supera todas as outras!<BD>Vou vende-la por<BR><B>4000<B> G. Quer?<BR>{f6:0f}{fc:0000a066c6}{f6:13}Nao vai se arrepender?,TRADUZIDO,ate v6
+main1,412,0x666a0,2,,PENDENTE,
+main1,413,0x666a3,28,Obrigado! Boa espada!<BR>{f6:13},TRADUZIDO,ate v6
+main1,414,0x666c0,107,Levei tres anos<BR>para forjar esta <B>espada<B>.<BR>Viu como e boa?<BR>{fc:00002c67c6}Nao? Entao voce<BR>nao entende de espadas.,TRADUZIDO,ate v6
+main1,415,0x6672c,107,Muito bem! Vou abrir<BR>uma excecao e vender<BR>por <B>5000<B> G.<BR>Tem interesse?<BR>{f6:0f}{fc:00009867c6}{f6:13}Uma pena! Era<BR>uma otima oferta.,TRADUZIDO,ate v6
+main1,416,0x66798,4,,PENDENTE,
+main1,417,0x6679d,61,Vou chamar esta espada<BR>de <B>Muramasa<B>.<BD>Cuide bem dela!<BR>{f6:13},TRADUZIDO,ate v6
+main1,418,0x667db,33,"Sem dinheiro,<BR>nao posso ajudar.<BR>{f6:13}",TRADUZIDO,ate v6
+main1,419,0x667fd,31,Sua bolsa esta cheia.<BR>{f6:13},TRADUZIDO,ate v6
+main1,420,0x6681d,39,Age feito uma crianca<BR>fazendo brinquedos.,TRADUZIDO,v7 - revisado
+main1,421,0x66845,65,"Ao norte fica <B>Telaine<B>,<BR>onde ha minerio para<BR>fabricar armas.",TRADUZIDO,ate v6
+main1,422,0x66887,6,,PENDENTE,
+main1,423,0x6688e,35,{fc:80000100c6}{fc:7f009169c6}{fc:7800b268c6}Sinto falta de casa.,TRADUZIDO,ate v6
+main1,424,0x668b2,145,"Busca a <B>Runa da Lua<B>?<BR>Eu a tenho!<BD>Se pedir ao rei que<BR>me tire daqui,<BR>ela sera sua.<BD>Vai pedir por mim?<BR>{fc:00004469c6}Nao me deixe aqui!<BR>Precisa me ajudar!",TRADUZIDO,ate v6
+main1,425,0x66944,37,Vai convencer o rei.<BR>Obrigado!<BR><f3>{ff:6a69c6},TRADUZIDO,ate v6
+main1,426,0x6696a,38,{fe:7f00}{fe:6d00}{fe:3300}{f6:10}<B><MC><B>:<BR><B>Runa da Lua<B>.<BR>{f6:0a}{f6:04}{f6:5b},TRADUZIDO,v7 - revisado
+main1,427,0x66991,29,"Por favor, fale<BR>com o rei agora.",TRADUZIDO,ate v6
+main1,428,0x669af,107,"{fb:80000100c6}Com sua ajuda, enfim<BR>sai da prisao.<BR>Muito obrigado!<BD>Juro ser bom cidadao<BR>e nunca mais violar<BR>nenhuma lei.",TRADUZIDO,ate v6
+main1,429,0x66a1b,25,Este e o <B>Castelo<BR>de Belaine<B>.,TRADUZIDO,ate v6
+main1,430,0x66a35,60,{fc:2c00726ac6}{fc:2d008a6ac6}Rei furioso: <B>Telaine<B><BR>subiu preco do minerio.,TRADUZIDO,ate v6
+main1,431,0x66a72,23,Luto pelo meu pais.,TRADUZIDO,ate v6
+main1,432,0x66a8a,42,Foi um alivio evitar<BR>uma guerra demorada.,TRADUZIDO,v7 - revisado
+main1,433,0x66ab5,84,"{fc:2c000a6bc6}{fc:2d00236bc6}Se nada mudar logo,<BR>havera guerra<BR>contra <B>Telaine<B>.",TRADUZIDO,ate v6
+main1,434,0x66b0a,24,Vamos entrar em guerra?,TRADUZIDO,ate v6
+main1,435,0x66b23,34,Bom evitar mortes.,TRADUZIDO,ate v6
+main1,436,0x66b46,36,Nossas armas sao boas.,TRADUZIDO,ate v6
+main1,437,0x66b6b,46,Aqui e facil encontrar<BR>uma boa arma.,TRADUZIDO,ate v6
+main1,438,0x66b9a,20,O rei esta no interior.,TRADUZIDO,v7 - revisado
+main1,439,0x66baf,36,Voce nao parece<BR>um soldado comum.,TRADUZIDO,ate v6
+main1,440,0x66bd4,77,"Para ser <B>soldado<B>,<BR>e melhor treinar em<BR><B>Padal<B>. Eu fiz isso.",TRADUZIDO,ate v6
+main1,441,0x66c22,45,"Seguindo a noroeste,<BR>chegara a <B>Padal<B>.",TRADUZIDO,ate v6
+main1,442,0x66c50,104,"Conhece o homem daqui?<BR>Ele sabe forjar a<BR><B>Muramasa<B>, uma espada<BR>usada ate por magos.",TRADUZIDO,ate v6
+main1,443,0x66cb9,29,Sua Majestade<BR>vai recebe-lo.,TRADUZIDO,ate v6
+main1,444,0x66cd7,70,{fc:8000556dc6}{fc:7f00b66dc6}{fc:2c001e6dc6}{fc:2d00556dc6}Por que estao<BR>elevando tanto<BR>o preco do <B>minerio<B>?,TRADUZIDO,ate v6
+main1,445,0x66d1e,54,Sei que decidi bem.<BD>A guerra era certa.,TRADUZIDO,ate v6
+main1,446,0x66d55,96,Agora podemos cuidar<BR>da paz e da riqueza<BR>do nosso reino.<BD>Gracas ao minerio que<BR>encontrou. Obrigado!,TRADUZIDO,ate v6
+main1,447,0x66db6,110,"Quer libertar<BR>o prisioneiro?<BD>A fianca custa<BR><B>2000<B> G. Vai pagar?<BR>{f6:0f}{fc:0000256ec6}{f6:13}Sem fianca, nao<BR>posso solta-lo.",TRADUZIDO,ate v6
+main1,448,0x66e25,2,,PENDENTE,
+main1,449,0x66e28,4,,PENDENTE,
+main1,450,0x66e2d,26,{fe:8000}<B><MC><B> deu <B>2000<B> G.<BR><f3>{ff:486ec6},TRADUZIDO,ate v6
+main1,451,0x66e48,27,Certo. Soltem o homem!<BR>{f6:70}{f6:13},TRADUZIDO,ate v6
+main1,452,0x66e64,26,Nao tem dinheiro.<BR>{f6:13},TRADUZIDO,ate v6
+main1,453,0x66e7f,0,,SEM TEXTO,
+main1,454,0x66e80,40,<B>Telaine<B> e rica<BR>em recursos naturais.,TRADUZIDO,ate v6
+main1,455,0x66ea9,68,So aqui existe<BR>o <B>minerio<B> usado<BR>para fabricar armas<BR>e armaduras.,TRADUZIDO,ate v6
+main1,456,0x66eee,174,"{fc:2d007f70c6}<B>Belaine<B> reagiu ao<BR>aumento do <B>minerio<B>.<BD>Nao tinhamos escolha:<BR>nossas reservas<BR>estao se esgotando.<BD>Para eles, so<BR>importam seus proprios<BR>interesses.",TRADUZIDO,ate v6
+main1,457,0x66f9d,43,{fc:2c00c96fc6}{fc:2d00f36fc6}Ha menos <B>minerio<B><BR>ultimamente.,TRADUZIDO,ate v6
+main1,458,0x66fc9,41,A crise piorou tanto<BR>que a guerra comecou.,TRADUZIDO,ate v6
+main1,459,0x66ff3,38,Voltei a vida normal.<BR>Obrigado!,TRADUZIDO,ate v6
+main1,460,0x6701a,69,{fc:2c006070c6}{fc:2d007f70c6}Nossas minas secam.<BR>Precisamos de outra.,TRADUZIDO,ate v6
+main1,461,0x67060,30,Guerra por <B>minerio<B>?<BR>Que tolice!,TRADUZIDO,ate v6
+main1,462,0x6707f,25,Evitamos a guerra.,TRADUZIDO,ate v6
+main1,463,0x67099,109,"{fc:2c000771c6}{fc:2d002471c6}A guerra e inevitavel.<BD>Quando comecar, a<BR>economia de todo o<BR>continente sofrera.<BD>Compre suprimentos<BR>e se prepare.",TRADUZIDO,ate v6
+main1,464,0x67107,28,Quando esta guerra<BR>vai terminar?,TRADUZIDO,ate v6
+main1,465,0x67124,41,A paz voltou e os<BR>precos se normalizaram.,TRADUZIDO,ate v6
+main1,466,0x6714e,31,{fc:2c006e71c6}{fc:2d009671c6}Nao havera guerra.,TRADUZIDO,ate v6
+main1,467,0x6716e,39,Inacreditavel!<BR>Vamos mesmo lutar?,TRADUZIDO,ate v6
+main1,468,0x67196,41,"A guerra nao seria<BR>tao grave, eu disse.",TRADUZIDO,ate v6
+main1,469,0x671c0,225,"O povo de <B>Luze<B>,<BR>civilizacao antiga,<BR>venerava a <B>Runa do Ceu<B><BR>guardada no palacio.<BD>Ate que um <B>Dragao<B><BR>destruiu toda a regiao.<BD>As ruinas do palacio<BR>ficam nas <B>Ilhas Beore<B>,<BR>a sudeste.<BD>Dizem que o <B>Dragao<B><BR>ainda vive la.",TRADUZIDO,ate v6
+main1,470,0x672a2,67,"Apos atravessar a<BR><B>Caverna de Orka<B>,<BR>chegara as <B>Ilhas Beore<B>.",TRADUZIDO,ate v6
+main1,471,0x672e6,15,Estou de folga.,TRADUZIDO,ate v6
+main1,472,0x672f6,52,O castelo esta sempre<BR>limpo e bonito.<BR>Tenho orgulho disso.,TRADUZIDO,ate v6
+main1,473,0x6732b,21,Procuro emprego.,TRADUZIDO,ate v6
+main1,474,0x67341,25,Este e o <B>Castelo<BR>de Telaine<B>.,TRADUZIDO,ate v6
+main1,475,0x6735b,37,Soldados vieram<BR>de <B>Padal<B>.,TRADUZIDO,ate v6
+main1,476,0x67381,22,Lutarei pelo rei.,TRADUZIDO,ate v6
+main1,477,0x67398,41,{fc:2c00c273c6}{fc:2d00ea73c6}Ser soldado e ruim.,TRADUZIDO,ate v6
+main1,478,0x673c2,39,Eu devia ter escolhido<BR>outra profissao.,TRADUZIDO,ate v6
+main1,479,0x673ea,41,"Ufa, foi por pouco!<BR>Ainda bem que acabou.",TRADUZIDO,ate v6
+main1,480,0x67414,31,Alto! Nao pode entrar<BR>no castelo.,TRADUZIDO,v7 - revisado
+main1,481,0x67434,36,Este e um pais<BR>pacifico e ordeiro.,TRADUZIDO,ate v6
+main1,482,0x67459,22,Treinei em <B>Padal<B>.,TRADUZIDO,ate v6
+main1,483,0x67470,64,{fc:2c00b174c6}{fc:2d00d874c6}Nao pensei que o rei<BR>de <B>Belaine<B> fosse<BR>tao irracional.<BR>{f6:58},TRADUZIDO,ate v6
+main1,484,0x674b1,38,Sera que tomei<BR>a decisao certa?,TRADUZIDO,ate v6
+main1,485,0x674d8,33,Voce salvou o pais.<BR>Muito obrigado.,TRADUZIDO,ate v6
+main1,486,0x674fa,21,,PENDENTE,
+main1,487,0x67510,30,Roubaram a<BR><B>Runa do Ceu<B>!<BR>{f6:6f},TRADUZIDO,ate v6
+main1,488,0x6752f,35,{fe:2b00}<B><MC><B> pegou o<BR><B>Cristal da Paz<B>.,TRADUZIDO,ate v6
+main1,489,0x67553,261,"Deixe-me ver seu<BR><B>Cristal da Paz<B>!<BR>{fb:00007676c6}{fe:2d00}Isto e <B>minerio<B>!<BR>Onde encontrou?<BD>Nas <B>Ilhas Beore<B>?<BR>Podemos abrir<BR>uma mina la!<BD>{f6:70}Com essa mina nova,<BR>podemos evitar a guerra!<BD>Os precos das armas<BR>devem baixar.<BR>Muito obrigado!<BR>{fc:23005976c6}{fe:7300}{fe:7100}{fb:88000200c6}{fd:8800}{fe:8700}",TRADUZIDO,ate v6
+main1,490,0x67659,21,,PENDENTE,
+main1,491,0x6766f,6,,PENDENTE,
+main1,492,0x67676,94,{fe:2c00}Nao vou obriga-lo.<BD>Vamos lutar contra<BR><B>Belaine<B>. Saia antes<BR>que seja tarde.<BR>{f6:6f},TRADUZIDO,ate v6
+main1,493,0x676d5,0,,SEM TEXTO,
+main1,494,0x676d6,0,,SEM TEXTO,
+main1,495,0x676d7,30,"Este e o reino dos<BR>anoes, <B>Pang<B>.",TRADUZIDO,ate v6
+main1,496,0x676f6,78,{fc:02004577c6}{fc:64026077c6}Faz cinco anos que<BR>meu sobrinho saiu<BR>do reino.<BR>Espero que esteja bem.,TRADUZIDO,ate v6
+main1,497,0x67745,379,"{fc:3600c178c6}<B><MC><B>! E voce!<BR>{fb:0a007877c6}{fc:3600c178c6}<B>Olvan<B>! E voce!<BR>Sou seu tio, <B>Olgan<B>!<BD>Parece estar bem.<BR>Fiquei preocupado<BR>desde que partiu.<BD>O que? Busca uma <B>Runa<B>?<BR>Para que?<BD>Se e o que quer...<BR>Mas volte para casa.<BD>Se leva a busca a serio,<BR>fale com meu amigo<BR>na taverna.<BR>Ele sabe muitas coisas.<BD>Diga que e meu sobrinho<BR>e que eu o enviei.<BR>{fe:3600}",TRADUZIDO,ate v6
+main1,498,0x678c1,17,Volte em seguranca.,TRADUZIDO,ate v6
+main1,499,0x678d3,43,{fc:3600ff78c6}Sei a lenda do<BR>Tesouro Dourado de cor.,TRADUZIDO,ate v6
+main1,500,0x678ff,305,{fe:a000}Voce e sobrinho<BR>de <B>Olgan<B>?<BD>Entao ouca uma historia.<BD>Um viajante falou de<BR>uma <B>Caverna de Laosu<B><BR>em algum ponto daqui.<BD>La existe um grande<BR>tesouro escondido.<BR>So entra quem souber<BR>uma frase secreta.<BD>A frase e:<BR><B>Macaco de bunda<BR>rubra.<B><BD>Mas nao contou onde<BR>fica a caverna.,TRADUZIDO,ate v6
+main1,501,0x67a31,63,{fc:a8000100c6}{fc:a000717ac6}Uma forca misteriosa<BR>me impede de avancar.,TRADUZIDO,ate v6
+main1,502,0x67a71,28,{fe:a800}<B><MC><B> murmurou.<BR><f3>{ff:8e7ac6},TRADUZIDO,ate v6
+main1,503,0x67a8e,26,<B>Macaco de bunda<BR>rubra.<B>{f6:70},TRADUZIDO,ate v6
+main1,504,0x67aa9,51,Ha muitas ervas nesta<BR>cidade. Procure algumas.,TRADUZIDO,ate v6
+main1,505,0x67add,43,{fc:0300097bc6}Procura as lendarias<BR><B>Sete Runas<B>?,TRADUZIDO,ate v6
+main1,506,0x67b09,42,Que gracinha! Quero<BR>que conheca meu filho.,TRADUZIDO,ate v6
+main1,507,0x67b34,56,{fc:02006d7bc6}Vejo nos seus olhos<BR>que tem uma mente clara.,TRADUZIDO,ate v6
+main1,508,0x67b6d,45,"<B><MC><B>, sabia que<BR><B>Olgan<B> se preocupa<BR>muito com voce?",TRADUZIDO,ate v6
+main1,509,0x67b9b,98,A economia depende de<BR><B>Belaine<B> e <B>Telaine<B>.<BD>Nao queremos guerra.,TRADUZIDO,ate v6
+main1,510,0x67bfe,33,Todos aqui sao<BR>muito gentis.,TRADUZIDO,ate v6
+main1,511,0x67c20,110,"Antes mineravamos<BR>pedras preciosas.<BR>Agora nao achamos mais.<BD>Estamos pobres, pois<BR>so ganhamos dinheiro<BR>com a venda de ervas.",TRADUZIDO,ate v6
+main1,512,0x67c8f,75,Meu pai foi guerreiro<BR>em <B>Telaine<B>.<BD>Tenho orgulho dele!<BR>Mas vivia longe de casa.,TRADUZIDO,ate v6
+main1,513,0x67cdb,33,Nao entre sem<BR>minha permissao.,TRADUZIDO,ate v6
+main1,514,0x67cfd,64,"Quando havia minas,<BR>muitas pessoas<BR>vinham nos visitar.",TRADUZIDO,ate v6
+main1,515,0x67d3e,42,"Ja fomos tao ricos<BR>como <B>Telaine<B>, ao norte.",TRADUZIDO,ate v6
+main1,516,0x67d69,33,"Esta e <B>Padal<B>,<BR>terra dos guerreiros.",TRADUZIDO,ate v6
+main1,517,0x67d8b,42,Somos famosos por<BR>treinar bons guerreiros.,TRADUZIDO,ate v6
+main1,518,0x67db6,45,Um dia serei famoso<BR>como <B>Prosa<B>.,TRADUZIDO,ate v6
+main1,519,0x67de4,23,Quer ser soldado?,TRADUZIDO,ate v6
+main1,520,0x67dfc,45,{fc:79000100c6}{fe:7900}Trabalho naquela loja.<BR>Va me visitar.,TRADUZIDO,ate v6
+main1,521,0x67e2a,59,{fb:79000100c6}Que bom que veio!<BD>Sente-se e tome<BR>um cha comigo.,TRADUZIDO,ate v6
+main1,522,0x67e66,33,EU SIRVO PARA SER<BR><B>SOLDADO<B>?,TRADUZIDO,ate v6
+main1,523,0x67e88,52,"Queria ser soldado,<BR>mas mandaram voltar<BR>daqui a dez anos.",TRADUZIDO,ate v6
+main1,524,0x67ebd,104,"A <B>Runa<B>?<BD>Pode ser a <B>Runa da Lua<B><BR>de <B>Prosa<B>.<BD>Para ver o comandante,<BR>va a casa de treino.",TRADUZIDO,ate v6
+main1,525,0x67f26,29,Voce ja treinou<BR>o bastante.,TRADUZIDO,ate v6
+main1,526,0x67f44,12,Nao perturbe.,TRADUZIDO,ate v6
+main1,527,0x67f51,6,,PENDENTE,
+main1,528,0x67f58,30,Sua entrada e proibida.<BR>Saia!,TRADUZIDO,ate v6
+main1,529,0x67f77,23,O treino e muito duro.,TRADUZIDO,ate v6
+main1,530,0x67f8f,27,Quer se alistar?<BR>Suba.,TRADUZIDO,ate v6
+main1,531,0x67fab,68,Quer entrar no exercito?<BR>{fc:0000f07fc6}Nao entre na sala<BR>de treinamento.,TRADUZIDO,ate v6
+main1,532,0x67ff0,39,"Desculpe, nao estamos<BR>aceitando candidatos.",TRADUZIDO,ate v6
+main1,533,0x68018,18,Cuidado! Um soldado!,TRADUZIDO,ate v6
+main1,534,0x6802b,62,O comandante me disse<BR>que a <B>Runa da Lua<B><BR>dobra a forca de ataque.,TRADUZIDO,ate v6
+main1,535,0x6806a,25,Sala do comandante.,TRADUZIDO,ate v6
+main1,536,0x68084,36,{fc:2d00a980c6}<B>Telaine<B> chamou<BR>os soldados.,TRADUZIDO,ate v6
+main1,537,0x680a9,70,Que bom que nao houve<BR>guerra!<BD>Nao viemos aqui<BR>para guerrear.,TRADUZIDO,ate v6
+main1,538,0x680f0,70,"{fc:33008081c6}{fc:72003781c6}{fc:73005c81c6}Algo preocupa o<BR>comandante, mas ele<BR>nao diz o que e.",TRADUZIDO,ate v6
+main1,539,0x68137,36,"O comandante foi<BR>a <B>Telaine<B>, no leste.",TRADUZIDO,ate v6
+main1,540,0x6815c,35,Comandante voltou<BR>a <B>Polasu<B>.,TRADUZIDO,ate v6
+main1,541,0x68180,41,Tomou a <B>Runa da Lua<B><BR>do monstro.,TRADUZIDO,ate v6
+main1,542,0x681aa,293,"{fc:71000100c6}{fc:78006c87c6}{fc:33009d83c6}{fc:7700eb82c6}{fc:75001885c6}{fc:2300eb82c6}{fe:7400}Sei que deseja meu<BR>tesouro, a <B>Runa da Lua<B>.<BD>Talvez a entregue<BR>se fizer algo por mim.<BD>A feiticeira <B>Serpent<B><BR>sequestra criancas<BR>de minha cidade, <B>Polasu<B>.<BD>Queria ir pessoalmente,<BR>mas nao posso sair.<BD>Vai ate la salvar<BR>as criancas de <B>Serpent<B>?<BR>{fc:0000d082c6}Lamento ouvir isso.",TRADUZIDO,ate v6
+main1,543,0x682d0,26,Contei com voce!,TRADUZIDO,ate v6
+main1,544,0x682eb,141,Sou muito grato<BR>pelo que fez.<BD>Aqui esta a <B>Runa da Lua<B><BR>que prometi.<BD>Sua magia misteriosa<BR>dobra o ataque<BR>durante as lutas.<BR><f3>{ff:7983c6},TRADUZIDO,ate v6
+main1,545,0x68379,35,<B><MC><B>:<BR><B>Runa da Lua<B>.<BR>{f6:0a}{fe:6d00}{fe:3300}{f6:04}{f6:10}{f6:5b},TRADUZIDO,v7 - revisado
+main1,546,0x6839d,96,Devo tudo a<BR><B>Runa da Lua<B>.<BD>Ela mostrou um<BR>poder misterioso.<BD>Que mais fara?<BR>Quem a criou?,TRADUZIDO,ate v6
+main1,547,0x683fe,38,{fb:72000100c6}Somos soldados<BR>do comandante <B>Prosa<B>.,TRADUZIDO,ate v6
+main1,548,0x68425,229,"{fb:72000100c6}{fc:33009d83c6}{fc:7700eb82c6}{fc:74000b85c6}{fe:7500}Busca a <B>Runa da Lua<B>?<BD>Eu a tenho, mas nao<BR>vou entrega-la antes<BR>de encontrar <B>Pegim<B>.<BD>Precisamos dele aqui.<BD>Ele partiu atras de<BR>umas <B>ruinas<B> e sumiu.<BR>Ninguem sabe onde esta.",TRADUZIDO,ate v6
+main1,549,0x6850b,12,,PENDENTE,
+main1,550,0x68518,68,"Encontrou <B>Pegim<B>?<BD>Evitamos a guerra,<BR>mas precisamos dele.",TRADUZIDO,ate v6
+main1,551,0x6855d,12,,PENDENTE,
+main1,552,0x6856a,12,,PENDENTE,
+main1,553,0x68577,131,Entregou a mensagem<BR>de <B>Prosa<B> a mim?<BD>Obrigado!<BD>Agora sei que meu<BR>destino e viver como<BR>um guerreiro.,TRADUZIDO,ate v6
+main1,554,0x685fb,0,,SEM TEXTO,
+main1,555,0x685fc,144,{fb:73000100c6}{fc:33008d86c6}{fc:2300eb82c6}{fe:7600}{fc:7400d786c6}Quer minha <B>Runa da Lua<B>?<BD>Salve as criancas<BR>de <B>Serpent<B> e sera sua.<BD>Nao tenho forcas<BR>para enfrentar a bruxa.,TRADUZIDO,ate v6
+main1,556,0x6868d,73,Minha familia vem<BR>em primeiro lugar.<BD>Vou protege-la a<BR>todo custo. Obrigado.,TRADUZIDO,ate v6
+main1,557,0x686d7,148,"Sou <B>Prosa<B>. Lembra<BR>de mim, em <B>Padal<B>?<BD>Como nao houve guerra,<BR>voltei a <B>Polasu<B>.<BD>Mas <B>Serpent<B> e forte<BR>demais para mim.<BD>Ajude a salvar<BR>as criancas!",TRADUZIDO,ate v6
+main1,558,0x6876c,159,"Busca a <B>Runa da Lua<B>?<BD>Queria da-la a voce,<BR>mas foi roubada!<BD>Voce e digno dela.<BR>Por favor, guarde<BR>isso em segredo.",TRADUZIDO,ate v6
+main1,559,0x6880c,90,Treine por cinco anos<BR>em <B>Telaine<B>.<BD>O rei lhe dara um titulo<BR>e sera um guerreiro!,TRADUZIDO,ate v6
+main1,560,0x68867,27,Esta e <B>Polasu<B>.,TRADUZIDO,ate v6
+main1,561,0x68883,28,{fc:2300a088c6}Salve minha filha!,TRADUZIDO,ate v6
+main1,562,0x688a0,39,{fe:8b00}Salvou nossas criancas!<BR>Muito obrigado!,TRADUZIDO,ate v6
+main1,563,0x688c8,194,"{fc:23008b89c6}Muitas criancas sumiram.<BD>Uma bruxa, <B>Serpent<B>,<BR>levou-as ao <B>Castelo<BR>de Baran<B>.<BD>Ela era boa ate<BR>perder seu filho.<BD>Enlouqueceu de dor<BR>e comecou a raptar<BR>as criancas da vila.",TRADUZIDO,ate v6
+main1,564,0x6898b,43,"{fe:8b00}Felizmente, as criancas<BR>nao foram feridas.",TRADUZIDO,ate v6
+main1,565,0x689b7,78,{fc:23002f8ac6}Vai ao <B>Castelo<BR>de Baran<B>?<BR>{fb:0000068ac6}Siga para o sul<BR>e vai encontra-lo.,TRADUZIDO,ate v6
+main1,566,0x68a06,40,"Se nao for, teremos<BR>de deixar as criancas.",TRADUZIDO,ate v6
+main1,567,0x68a2f,45,{fe:8b00}As criancas voltaram!<BR>Estamos muito felizes.,TRADUZIDO,ate v6
+main1,568,0x68a5d,98,"{fc:2300c08ac6}O <B>Rei de Tiffana<B>,<BR>ao sul, oferece premio<BR>por <B>Serpent<B>.<BD>Fale com o rei<BR>se aceitar o desafio.",TRADUZIDO,ate v6
+main1,569,0x68ac0,21,{fe:8b00}Ela se foi!,TRADUZIDO,ate v6
+main1,570,0x68ad6,58,{fc:2300118bc6}Nem a equipe de busca<BR>voltou do <B>Castelo<BR>de Baran<B>.,TRADUZIDO,ate v6
+main1,571,0x68b11,25,{fe:8b00}Minha filha voltou!,TRADUZIDO,ate v6
+main1,572,0x68b2b,37,{fc:2300518bc6}Queria estar<BR>no lugar delas.,TRADUZIDO,ate v6
+main1,573,0x68b51,37,{fe:8b00}Criancas salvas!<BR>Que alivio!,TRADUZIDO,ate v6
+main1,574,0x68b77,34,{fc:23009a8bc6}Tomara que estejam<BR>a salvo.,TRADUZIDO,ate v6
+main1,575,0x68b9a,26,{fe:8b00}Elas voltaram!,TRADUZIDO,ate v6
+main1,576,0x68bb5,34,{fc:2300118bc6}Filha... Salve-a!,TRADUZIDO,ate v6
+main1,577,0x68bd8,71,{fc:2300208cc6}Maldita <B>Serpent<B>!<BR>Levou meu filho.<BD>Nao suporto ficar<BR>sem poder fazer nada!,TRADUZIDO,ate v6
+main1,578,0x68c20,26,{fe:8b00}Meu filho voltou bem!,TRADUZIDO,ate v6
+main1,579,0x68c3b,53,"{fb:23000100c6}Quando crescer, vou<BR>a <B>Padal<B> ser cavaleiro.",TRADUZIDO,ate v6
+main1,580,0x68c71,44,{fc:23009e8cc6}Dizem que <B>Serpent<B><BR>devora pessoas.,TRADUZIDO,ate v6
+main1,581,0x68c9e,54,Era absurdo dizer<BR>que <B>Serpent<B><BR>devorava pessoas!,TRADUZIDO,ate v6
+main1,582,0x68cd5,55,{fc:2300268dc6}{fc:73000d8dc6}Levaram minha filha.<BD>Meu marido esta fora.,TRADUZIDO,ate v6
+main1,583,0x68d0d,24,Vai me ajudar<BR>a resgata-la?,TRADUZIDO,ate v6
+main1,584,0x68d26,50,{fe:8b00}Obrigado! Nunca vou<BR>esquecer o que fez.,TRADUZIDO,ate v6
+main1,585,0x68d59,43,{fb:23000100c6}{fe:8b00}Fiz muitos amigos<BR>no castelo.,TRADUZIDO,ate v6
+main1,586,0x68d85,28,{fb:23000100c6}{fe:8b00}Foi bom no castelo.,TRADUZIDO,ate v6
+main1,587,0x68da2,40,{fb:23000100c6}{fe:8b00}Quero visitar<BR>o castelo novamente.,TRADUZIDO,ate v6
+main1,588,0x68dcb,0,,SEM TEXTO,
+main1,589,0x68dcc,90,{fc:23000100c6}Ha ha ha! Veio levar<BR>minhas criancas?<BD>Voce levou meu filho!<BR>Vai morrer!<BR><f3>{f6:35},TRADUZIDO,ate v6
+main1,590,0x68e27,38,<B>Serpent<B> perdeu o poder.<BR>{f6:70}{fc:2d004e8ec6}{fe:7100}{fe:7200},TRADUZIDO,ate v6
+main1,591,0x68e4e,21,,PENDENTE,
+main1,592,0x68e64,22,{fc:23000100c6}<B>Portao<B> fechado!,TRADUZIDO,ate v6
+main1,593,0x68e7b,27,{fc:8b000100c6}{fe:8b00}Ja e hora de ir?,TRADUZIDO,ate v6
+main1,594,0x68e97,37,{fc:8b000100c6}{fe:8b00}Brincamos esse<BR>tempo todo?,TRADUZIDO,ate v6
+main1,595,0x68ebd,30,{fc:8b000100c6}{fe:8b00}Temos que ir?,TRADUZIDO,ate v6
+main1,596,0x68edc,47,{fc:8b000100c6}{fe:8b00}Minha mae deve estar<BR>preocupada. Vou voltar!,TRADUZIDO,ate v6
+main1,597,0x68f0c,22,{fc:8b000100c6}{fe:8b00}Foi otimo!,TRADUZIDO,ate v6
+main1,598,0x68f23,39,{fc:8b000100c6}{fe:8b00}Onde esta a mulher?,TRADUZIDO,ate v6
+main1,599,0x68f4b,25,{fc:8b000100c6}{fe:8b00}Vamos brincar?,TRADUZIDO,ate v6
+main1,600,0x68f65,35,{fc:8b000100c6}{fe:8b00}Ficamos tanto aqui?,TRADUZIDO,ate v6
+main1,601,0x68f89,0,,SEM TEXTO,
+main1,602,0x68f8a,0,,SEM TEXTO,
+main1,603,0x68f8b,25,Este e o reino<BR>de <B>Tiffana<B>.,TRADUZIDO,ate v6
+main1,604,0x68fa5,60,{fc:2300e28fc6}Ha uma crise no reino!<BR>Roubam nossas criancas<BR>uma a uma!,TRADUZIDO,ate v6
+main1,605,0x68fe2,44,{fe:8b00}Celebramos a volta<BR>das criancas perdidas!,TRADUZIDO,ate v6
+main1,606,0x6900f,25,{fc:23002990c6}Viu minha filha?,TRADUZIDO,ate v6
+main1,607,0x69029,34,{fe:8b00}As criancas<BR>voltaram salvas.,TRADUZIDO,ate v6
+main1,608,0x6904c,90,"{fc:23008791c6}Em <B>Polasu<B>, ao norte,<BR>ocorre a mesma crise.<BD>Parece obra daquela<BR>terrivel <B>Serpent<B>.",TRADUZIDO,ate v6
+main1,609,0x690a7,49,{fc:2300d990c6}A princesa foi raptada.<BR>O rei esta desesperado.,TRADUZIDO,ate v6
+main1,610,0x690d9,33,{fe:8b00}A princesa voltou!<BR>Que bom!,TRADUZIDO,ate v6
+main1,611,0x690fb,139,{fc:23008791c6}Sabia que o rei oferece<BR><B>5000<B> G a quem salvar<BR>a princesa?<BD>O aviso foi divulgado<BR>por todo o reino.<BD>Mas quem se arriscaria?<BR><B>Serpent<B> e poderosa!,TRADUZIDO,ate v6
+main1,612,0x69187,66,{fe:8b00}Quem venceu <B>Serpent<B>?<BD>Voce?!<BR>Esta brincando?,TRADUZIDO,ate v6
+main1,613,0x691ca,20,{fc:2300df91c6}Bruxa maldita!,TRADUZIDO,ate v6
+main1,614,0x691df,23,{fe:8b00}Bom ve-los de volta!,TRADUZIDO,ate v6
+main1,615,0x691f7,63,"{fc:23003792c6}Muitos guerreiros foram<BR>salva-la, mas nenhum<BR>retornou.",TRADUZIDO,ate v6
+main1,616,0x69237,31,{fe:8b00}Acabou a aflicao.<BR>Obrigado!,TRADUZIDO,ate v6
+main1,617,0x69257,25,Este e o <B>Castelo<BR>de Tiffana<B>.,TRADUZIDO,ate v6
+main1,618,0x69271,35,{fc:2300d990c6}O rei teme<BR>pela princesa.,TRADUZIDO,ate v6
+main1,619,0x69295,57,{fc:23003792c6}O <B>Castelo de Baran<B><BR>fica a nordeste daqui.,TRADUZIDO,ate v6
+main1,620,0x692cf,37,{fc:2300d990c6}Que a princesa<BR>esteja bem.,TRADUZIDO,ate v6
+main1,621,0x692f5,22,{fc:23003792c6}Tenho pena do rei.,TRADUZIDO,ate v6
+main1,622,0x6930c,20,O rei esta la dentro.,TRADUZIDO,ate v6
+main1,623,0x69321,52,Perdemos soldados.<BD>Antes havia muitos aqui.,TRADUZIDO,ate v6
+main1,624,0x69356,34,{fc:23007993c6}Minha filha tambem<BR>foi levada.,TRADUZIDO,ate v6
+main1,625,0x69379,21,Minha filha voltou!,TRADUZIDO,ate v6
+main1,626,0x6938f,17,A princesa e boa.,TRADUZIDO,ate v6
+main1,627,0x693a1,6,,PENDENTE,
+main1,628,0x693a8,115,{fc:23004d95c6}{fc:2200a894c6}{fc:24004f94c6}{fe:2400}Ouvi falar de voce.<BR>Pode salvar a princesa?<BR>{fc:00001c94c6}Nao quero sua ajuda.<BR>Saia imediatamente!,TRADUZIDO,ate v6
+main1,629,0x6941c,50,"{fe:2200}Obrigado! Se vencer,<BR>ganhara <B>5000<B> G.",TRADUZIDO,ate v6
+main1,630,0x6944f,88,Mudou de ideia?<BR>Vai salvar a princesa?<BR>{fc:00001c94c6}Nao quero sua ajuda.<BR>Saia imediatamente!,TRADUZIDO,ate v6
+main1,631,0x694a8,18,Va logo! Depressa!,TRADUZIDO,ate v6
+main1,632,0x694bb,86,"{fe:8b00}{fc:21003095c6}<B><MC><B>, parabens!<BR>Minha filha voltou.<BD>Como prometi, tome<BR>sua recompensa.<BR><f3>{ff:1295c6}",TRADUZIDO,ate v6
+main1,633,0x69512,29,<B><MC><B> ganhou <B>5000<B> G.<BR>{fe:2100}{f6:0a}{f6:51}{f6:04},TRADUZIDO,ate v6
+main1,634,0x69530,28,Obrigado por salvar<BR>a princesa.,TRADUZIDO,ate v6
+main1,635,0x6954d,32,{fc:2200bb94c6}Hora de comemorar!,TRADUZIDO,ate v6
+main1,636,0x6956e,42,{fb:23000100c6}{fe:8b00}Estou bem. Obrigado<BR>por me salvar.,TRADUZIDO,ate v6
+main1,637,0x69599,0,,SEM TEXTO,
+main1,638,0x6959a,37,"{fc:2000c095c6}Aqui e <B>Bilthem<B>,<BR>reino de <B>Doros<B>.",TRADUZIDO,ate v6
+main1,639,0x695c0,34,Este e o pacifico<BR>reino de <B>Bilthem<B>.,TRADUZIDO,ate v6
+main1,640,0x695e3,39,{fc:20000b96c6}Nao posso desobedecer<BR><B>Doros<B>.,TRADUZIDO,ate v6
+main1,641,0x6960b,28,O que fiz?<BR>Nao lembro.,TRADUZIDO,ate v6
+main1,642,0x69628,34,{fc:20004b96c6}Juro lealdade a <B>Doros<B>.,TRADUZIDO,ate v6
+main1,643,0x6964b,38,Deve ter sido um<BR>pesadelo. Ja passou.,TRADUZIDO,ate v6
+main1,644,0x69672,18,{fc:20008596c6}Viva <B>Doros<B>!,TRADUZIDO,ate v6
+main1,645,0x69685,112,"Venceu <B>Doros<B>.<BR>Obrigado.<BD>Ele tinha a<BR><B>Runa da Luz<B>, nao?<BD>Ela eleva seu poder<BR>magico por um tempo<BR>em combate.",TRADUZIDO,ate v6
+main1,646,0x696f6,25,{fc:20001097c6}<B>Doros<B> e o senhor.,TRADUZIDO,ate v6
+main1,647,0x69710,42,Parece que passei<BR>anos dormindo.,TRADUZIDO,ate v6
+main1,648,0x6973b,35,{fc:20005f97c6}Darei minha vida<BR>por <B>Doros<B>.,TRADUZIDO,ate v6
+main1,649,0x6975f,18,O que faco aqui?,TRADUZIDO,ate v6
+main1,650,0x69772,31,{fc:20001097c6}So obedece a <B>Doros<B>.,TRADUZIDO,ate v6
+main1,651,0x69792,30,{fc:2000b197c6}Este e o <B>Castelo<BR>de Doros<B>.,TRADUZIDO,ate v6
+main1,652,0x697b1,66,Vim lutar com <B>Doros<B>.<BD>Nao lembro de nada<BR>apos chegar aqui.,TRADUZIDO,ate v6
+main1,653,0x697f4,32,{fc:20001598c6}<B>Doros<B> esta no castelo.,TRADUZIDO,ate v6
+main1,654,0x69815,31,<B>Doros<B>! Onde esta?<BR>Onde...?,TRADUZIDO,ate v6
+main1,655,0x69835,13,,PENDENTE,
+main1,656,0x69843,61,Ele surgiu do nada<BR>e tomou o castelo.<BR>Fiquei apavorado.,TRADUZIDO,ate v6
+main1,657,0x69881,13,,PENDENTE,
+main1,658,0x6988f,53,Algo terrivel<BR>ameaca o continente<BR>ocidental.,TRADUZIDO,ate v6
+main1,659,0x698c5,34,{fc:2000e898c6}Juro lealdade a <B>Doros<B>.,TRADUZIDO,ate v6
+main1,660,0x698e8,38,<B>Doros<B> usou um feitico.<BR>Mas...,TRADUZIDO,ate v6
+main1,661,0x6990f,25,{fc:20002999c6}So <B>Doros<B> e rei!,TRADUZIDO,ate v6
+main1,662,0x69929,97,"Um feitico me prendeu<BR>por muito tempo.<BD>Minha irma me espera<BR>em <B>Pandam<B>, ao sul.",TRADUZIDO,ate v6
+main1,663,0x6998b,13,,PENDENTE,
+main1,664,0x69999,15,Estou otimo!,TRADUZIDO,ate v6
+main1,665,0x699a9,49,{fc:20000300c6}Nao vendo nada sem<BR>a permissao de <B>Doros<B>.,TRADUZIDO,ate v6
+main1,666,0x699db,33,{fc:20008805c6}Nao hospedo<BR>estrangeiros.,TRADUZIDO,ate v6
+main1,667,0x699fd,29,{fc:20002d00c6}So vendo para <B>Doros<B>.,TRADUZIDO,ate v6
+main1,668,0x69a1b,45,{fc:20005a00c6}Precisa da autorizacao<BR>de <B>Doros<B>.,TRADUZIDO,ate v6
+main1,669,0x69a49,38,{fc:20004707c6}Jure lealdade a <B>Doros<B>.,TRADUZIDO,ate v6
+main1,670,0x69a70,102,{fc:20000100c6}{fe:3700}Quem e voce?<BR>Quer lutar COMIGO?!<BD>Que tolice pensar que<BR>pode me vencer!<BR>{fc:2500d79ac6}Nao tem chance!<BR><f3>{f6:27},TRADUZIDO,ate v6
+main1,671,0x69ad7,55,...!!<BD>Isso e a <B>Estrela<B>!<BR>Seu canalha!<BR>Como a conseguiu?<BR><f3>{f6:27},TRADUZIDO,ate v6
+main1,672,0x69b0f,37,O poder de <B>Doros<B><BR>desapareceu.<BR><f3>{ff:359bc6},TRADUZIDO,ate v6
+main1,673,0x69b35,32,<B><MC><B> tem a<BR><B>Runa Luz<B>.<BR>{f6:0a}{f6:04}{f6:11}{f6:5b},TRADUZIDO,ate v6
+main1,674,0x69b56,9,Trancado.,TRADUZIDO,ate v6
+main1,675,0x69b60,22,<B><MC><B>:<BR><B>Chave da Cela<B>.,TRADUZIDO,v7 - revisado
+main1,676,0x69b77,55,{fc:2000af9bc6}Perdi a <B>Chave da Cela<B>.<BR><B>Doros<B> vai me punir!,TRADUZIDO,ate v6
+main1,677,0x69baf,33,O velho nao sai<BR>da prisao.,TRADUZIDO,ate v6
+main1,678,0x69bd1,103,{fc:2000949cc6}{fc:2500799cc6}Pretende derrubar<BR><B>Doros<B>?<BR>{fb:0000539cc6}Entao tome isto.<BR>Um dia sera util.<BR><f3>{ff:399cc6},TRADUZIDO,ate v6
+main1,679,0x69c39,25,<B><MC><B> tem <B>Estrela<B>.<BR>{fe:2500}{f6:14}{f6:0a}{f6:04},TRADUZIDO,ate v6
+main1,680,0x69c53,37,Saia logo da cidade.,TRADUZIDO,ate v6
+main1,681,0x69c79,26,A <B>Estrela<B> salva vidas.,TRADUZIDO,ate v6
+main1,682,0x69c94,373,"Sim, <B>Doros<B> morreu.<BD>Era meu filho.<BD>Foi um sabio mago.<BR>Mas caiu sob o poder<BR>do Mundo das Trevas.<BD>Ele guardou essa<BR>magia na <B>Estrela<B>.<BD>Busquei a<BR>Estrela<BR>para destruir a magia.<BD>Mas isso mataria<BR>meu filho!<BD>Encontrei a Estrela,<BR>mas nao tive coragem.<BD>Voce o impediu de<BR>cometer mais crimes.<BR>Eu agradeco.<BD>Sei que tudo acabou,<BR>mas desejo ficar.<BR>Este e nosso lugar.<BR>Adeus.",TRADUZIDO,ate v6
+main1,683,0x69e0a,22,{fc:20000100c6}<B>Portao<B> fechado.,TRADUZIDO,ate v6
+main1,684,0x69e21,0,,SEM TEXTO,
+main1,685,0x69e22,50,"Bem-vindo a <B>Pandam<B>,<BR>maior porto da regiao!",TRADUZIDO,ate v6
+main1,686,0x69e55,173,{fc:2000039fc6}Ao norte fica <B>Bilthem<B>.<BD>O rei <B>Doros<B> domina<BR>o poder das Trevas.<BD>Dizem que o ganhou<BR>ao achar a<BR><B>Runa da Luz<B>.,TRADUZIDO,ate v6
+main1,687,0x69f03,43,O povo de <B>Bilthem<B><BR>e ate gentil.,TRADUZIDO,ate v6
+main1,688,0x69f2f,30,{fc:20004e9fc6}O povo de <B>Bilthem<B><BR>assusta,TRADUZIDO,ate v6
+main1,689,0x69f4e,44,<B>Bilthem<B> estava sob<BR>um feitico maligno.,TRADUZIDO,ate v6
+main1,690,0x69f7b,37,{fc:2000a19fc6}<B>Bilthem<B> e maldita.<BR>Nao va la.,TRADUZIDO,ate v6
+main1,691,0x69fa1,64,Dizem que <B>Bilthem<B><BR>tem armas excelentes.<BR>Vale a visita.,TRADUZIDO,ate v6
+main1,692,0x69fe2,88,"{fc:2d003ba0c6}Tudo esta carissimo<BR>pela disputa entre<BR><B>Belaine<B> e <B>Telaine<B>,<BR>a nordeste.",TRADUZIDO,ate v6
+main1,693,0x6a03b,42,Que bom ver <B>Belaine<B><BR>e <B>Telaine<B> em paz!,TRADUZIDO,ate v6
+main1,694,0x6a066,60,"Em <B>Bilthem<B> ha armas<BR>e armaduras otimas,<BR>mas caras.",TRADUZIDO,ate v6
+main1,695,0x6a0a3,94,{fc:200002a1c6}Ha dois anos nao ouco<BR>nada de meu irmao<BR>em <B>Bilthem<B>.<BD>Algo deve ter ocorrido.,TRADUZIDO,ate v6
+main1,696,0x6a102,73,Recebi uma carta<BR>do meu irmao em <B>Bilthem<B>.<BD>Mal posso esperar<BR>para encontra-lo!,TRADUZIDO,ate v6
+main1,697,0x6a14c,42,A noroeste fica<BR>a grande cidade de<BR><B>Brush<B>.,TRADUZIDO,ate v6
+main1,698,0x6a177,30,Conheci <B>Rei Lemele<B><BR>ha anos.,TRADUZIDO,ate v6
+main1,699,0x6a196,95,A passagem para <B>Bonro<B><BR>custa <B>100<B> G. Quer ir?<BR>{f6:0f}{fc:0000f6a1c6}{f6:13}Viajar de navio<BR>e muito bom.,TRADUZIDO,ate v6
+main1,700,0x6a1f6,4,,PENDENTE,
+main1,701,0x6a1fb,17,Por aqui.,TRADUZIDO,ate v6
+main1,702,0x6a20d,27,Falta dinheiro.,TRADUZIDO,ate v6
+main1,703,0x6a229,59,Vim de navio de <B>Bonro<B>.<BR>Esta cidade e enorme!,TRADUZIDO,ate v6
+main1,704,0x6a265,58,"Recebemos armas e<BR>armaduras de <B>Brush<B>,<BR>a noroeste.",TRADUZIDO,ate v6
+main1,705,0x6a2a0,139,"Antes havia navios<BR>para varios portos<BR>do continente.<BD>Mas, com tantos<BR>monstros, quase todos<BR>pararam de navegar.<BD>So um navio ainda<BR>se arrisca. Vai para<BR><B>Bonro<B>.",TRADUZIDO,ate v6
+main1,706,0x6a32c,0,,SEM TEXTO,
+main1,707,0x6a32d,34,"Esta e <B>Brush<B>,<BR>centro do comercio.",TRADUZIDO,ate v6
+main1,708,0x6a350,91,{fc:2c00aca3c6}{fc:2d00e1a3c6}A disputa entre<BR><B>Belaine<B> e <B>Telaine<B><BR>causou esta inflacao.<BR>Tudo custa caro!,TRADUZIDO,ate v6
+main1,709,0x6a3ac,52,A guerra de <B>Belaine<B><BR>e <B>Telaine<B> prejudica<BR>nosso comercio.,TRADUZIDO,ate v6
+main1,710,0x6a3e1,40,<B>Belaine<B> e <B>Telaine<B><BR>estao em guerra?,TRADUZIDO,ate v6
+main1,711,0x6a40a,83,Parece que esta<BR>passando dificuldades.<BD>Procure a vidente<BR><B>Rarsa<B> se precisar<BR>de orientacao.,TRADUZIDO,ate v6
+main1,712,0x6a45e,31,Conhece <B>Brantu<B>?<BR>{fc:00007ea4c6}Nao?,TRADUZIDO,ate v6
+main1,713,0x6a47e,45,<B>Brantu<B>?<BR>Ele trabalha no<BR>laboratorio adiante.,TRADUZIDO,ate v6
+main1,714,0x6a4ac,47,O mal cresce no<BR>continente ocidental.,TRADUZIDO,ate v6
+main1,715,0x6a4dc,49,Disseram que <B>Brantu<B><BR>achou as ruinas de<BR><B>Melenam<B>.,TRADUZIDO,ate v6
+main1,716,0x6a50e,36,"Desde que voltou,<BR>ele nao sai do quarto.",TRADUZIDO,ate v6
+main1,717,0x6a533,39,Maior mercado<BR>do continente.,TRADUZIDO,ate v6
+main1,718,0x6a55b,105,"Compro e vendo armas<BR>e armaduras.<BD>Trago produtos de<BR><B>Belaine<B>, no leste,<BR>e vendo para outros<BR>reinos.",TRADUZIDO,ate v6
+main1,719,0x6a5c5,132,"Ha eras, <B>GORSIA<B><BR>quis dominar esta terra.<BD>Em <B>Barluca<B> ha mais<BR>informacoes sobre isso.<BD>Ninguem vai la hoje.<BR>Nenhum navio se arrisca.",TRADUZIDO,ate v6
+main1,720,0x6a64a,59,A casa do velho fica<BR>alem de uma passagem<BR>subterranea secreta.,TRADUZIDO,ate v6
+main1,721,0x6a686,118,Algo terrivel se<BR>aproxima! Nunca vi<BR>tantos monstros.<BD>O Mundo das Trevas<BR>deve estar preparando<BR>algum plano maligno.,TRADUZIDO,ate v6
+main1,722,0x6a6fd,64,Nao ligue para<BR>meu marido.<BD>Ele anda estranho<BR>ultimamente.,TRADUZIDO,ate v6
+main1,723,0x6a73e,73,"Aqui mora <B>Rarsa<B>, uma<BR>excelente vidente.<BD>Suas previsoes<BR>sempre se realizam.",TRADUZIDO,ate v6
+main1,724,0x6a788,57,"<B>Brantu<B> disse que o<BR>planeta tem 5,1 bilhoes<BR>de anos.",TRADUZIDO,ate v6
+main1,725,0x6a7c2,97,"Meu filho foi a <B>Padal<B>,<BR>a nordeste, para virar<BR>guerreiro.<BD>Ainda nao voltou.<BR>Sera que esta bem?",TRADUZIDO,ate v6
+main1,726,0x6a824,87,"O <B>Castelo de Tiffana<B><BR>a nordeste e lindo.<BD>Se casar com a princesa,<BR>ele pode ser seu!",TRADUZIDO,ate v6
+main1,727,0x6a87c,188,"Sou <B>Rarsa<B>, a vidente.<BR>Por <B>100<B> G, eu prevejo<BR>seu futuro. Quer tentar?<BR>{f6:0f}{fb:00006ba9c6}{f6:3a}Esta carta mostra<BR>o que voce deve fazer.<BD>{f6:13}... ... ...<BD>{fb:6d009faac6}{fb:2000fda9c6}{fb:6c009faac6}{fb:69009faac6}{fb:6a009faac6}{fb:6b009faac6}{fb:6e009faac6}{fb:0a0007acc6}",TRADUZIDO,ate v6
+main1,728,0x6a939,49,Nao tem dinheiro<BR>suficiente.<BD>Talvez outra hora.<BR>{f6:13},TRADUZIDO,ate v6
+main1,729,0x6a96b,33,{f6:13}Volte quando precisar<BR>de ajuda.,TRADUZIDO,ate v6
+main1,730,0x6a98d,57,"{fb:2300c7a9c6}Va a <B>Padal<B>, no norte.<BD>O sucesso o espera.",TRADUZIDO,ate v6
+main1,731,0x6a9c7,52,"Va a <B>Tiffana<B>, ao norte.<BD>O sucesso o espera.",TRADUZIDO,ate v6
+main1,732,0x6a9fc,0,,SEM TEXTO,
+main1,733,0x6a9fd,56,{fc:370036aac6}Venca o governante<BR>de <B>Bilthem<B> e ganhara<BR>um novo poder.,TRADUZIDO,v7 - revisado
+main1,734,0x6aa36,104,Visite o velho preso<BR>nas masmorras do<BR><B>Castelo de Bilthem<B>.<BD>Mas antes precisa<BR>encontrar outra coisa.,TRADUZIDO,ate v6
+main1,735,0x6aa9f,170,{fb:33008da9c6}{fb:8a004aabc6}Outro viajante tem<BR>o item que procura.<BD>Ele vai de cidade<BR>em cidade.<BD>A <B>Bola de Cristal<B><BR>podera localiza-lo.,TRADUZIDO,ate v6
+main1,736,0x6ab4a,186,"Quem tem o item buscado<BR>vive isolado, treinando<BR>para ser guerreiro.<BD>Adquira experiencia<BR>antes de enfrenta-lo.<BD>Voces ainda vao se<BR>encontrar.",TRADUZIDO,ate v6
+main1,737,0x6ac05,0,,SEM TEXTO,
+main1,738,0x6ac06,0,,SEM TEXTO,
+main1,739,0x6ac07,116,{fe:8b00}{fe:3000}O ultimo item esta<BR>no continente a oeste.<BD>Mas sinto um poder<BR>terrivel por la.<BD>Ir pode ser perigoso.,TRADUZIDO,ate v6
+main1,740,0x6ac7c,31,{fc:31000100c6}Parece o<BR><B>Mecha-Glider<B>.,TRADUZIDO,ate v6
+main1,741,0x6ac9c,233,{fc:7a000100c6}{fb:7700b7acc6}{fe:8800}{fc:7100b7acc6}{fd:8800}{fe:8700}{fc:300040aec6}{fc:2f0086adc6}{fe:2f00}Ola! E voce...<BD>Lembra-se de me levar<BR>a <B>Melenam<B>? Sou <B>Brantu<B>.<BD>Ainda sou grato<BR>pelo que fez.<BD><B>Melenam<B> tem uma<BR>tecnologia incrivel!<BD>Estou quase terminando<BR>uma grande invencao!,TRADUZIDO,ate v6
+main1,742,0x6ad86,185,"Ainda nao terminei.<BR>Volte depois.<BD>Enquanto isso, procure<BR>a vidente <B>Rarsa<B>.<BD>Talvez ela saiba algo<BR>sobre o que procura.",TRADUZIDO,ate v6
+main1,743,0x6ae40,59,"{fb:2f007caec6}<B><MC><B>, ficou pronto!<BD>Venha comigo<BR>que vou lhe mostrar.<BR><f3>{f6:45}",TRADUZIDO,ate v6
+main1,744,0x6ae7c,198,Ola! Lembra de mim?<BR>Sou <B>Brantu<B>.<BD>Voce me levou a<BR><B>Melenam<B>. Obrigado!<BD>Encontrei uma tecnologia<BR>extraordinaria la.<BD>Estou prestes a concluir<BR>uma grande invencao!<BR><f3>{f6:45},TRADUZIDO,ate v6
+main1,745,0x6af43,235,"O que acha?<BD>Construí a maquina com<BR>pecas encontradas<BR>nas ruinas de <B>Melenam<B>.<BD>E uma aeronave chamada<BR><B>Mecha-Glider<B>.<BD>Com ela, pode chegar ao<BR>continente ocidental.<BD>Quer experimentar agora?<BR>{fe:7a00}{fb:00002fb0c6}{fe:3100}Entao vamos!<BR><f3>{f6:01}{f6:46}",TRADUZIDO,ate v6
+main1,746,0x6b02f,25,Avise quando<BR>precisar dela.,TRADUZIDO,ate v6
+main1,747,0x6b049,77,{fb:7a000100c6}{fc:310097b0c6}Quer voar para o<BR>continente ocidental?<BR>{fb:00002fb0c6}Entao vamos!<BR><f3>{fe:3100}{f6:01}{f6:46},TRADUZIDO,ate v6
+main1,748,0x6b097,60,Gostou do voo no<BR><B>Mecha-Glider<B>?<BD>Queria ter ido tambem.,TRADUZIDO,ate v6
+main1,749,0x6b0d4,0,,SEM TEXTO,
+main1,750,0x6b0d5,32,O <B>Mecha-Glider<B><BR>foi destruido.,TRADUZIDO,ate v6
+main1,751,0x6b0f6,25,Esta e a cidade<BR>de <B>Valenca<B>.,TRADUZIDO,ate v6
+main1,752,0x6b110,51,Nao acreditei quando<BR>vi voce cair do ceu!,TRADUZIDO,ate v6
+main1,753,0x6b144,52,"Poderia ter morrido!<BR>Da proxima vez, cuidado!",TRADUZIDO,ate v6
+main1,754,0x6b179,35,Sua maquina voadora<BR>ficou em pedacos.,TRADUZIDO,ate v6
+main1,755,0x6b19d,102,"Quer uma aventura?<BD>Depois de atravessar<BR><B>Kapel<B>, encontrara<BR>uma cidade interessante.",TRADUZIDO,ate v6
+main1,756,0x6b204,59,MINHA MISSAO E<BR>PROTEGER O POVO<BR>DESTA CIDADE.,TRADUZIDO,ate v6
+main1,757,0x6b240,39,Voce e <B><MC><B>?<BR>{fb:000068b2c6}Alguem procurava voce.,TRADUZIDO,ate v6
+main1,758,0x6b268,37,Achei que fosse voce...<BR>Mas me enganei.,TRADUZIDO,ate v6
+main1,759,0x6b28e,196,Vejo um sinal terrivel.<BR>O mal das Trevas<BR>esta prestes a renascer.<BD>Nenhum guerreiro que<BR>foi a <B>Gorfun<B> voltou.<BD>Foram impedir o mal.<BR>Talvez seja tarde.,TRADUZIDO,ate v6
+main1,760,0x6b353,93,Algo terrivel esta<BR>prestes a acontecer.<BD>Todos sentimos isso.<BR>Fale com o povo daqui.,TRADUZIDO,ate v6
+main1,761,0x6b3b1,149,"Antes, ate viajantes<BR>do continente oriental<BR>vinham nos visitar.<BD>Agora ninguem quer vir<BR>por causa deste frio.<BD>Nao sei o que esta<BR>acontecendo no mundo.",TRADUZIDO,ate v6
+main1,762,0x6b447,22,Faz frio demais<BR>la fora.,TRADUZIDO,ate v6
+main1,763,0x6b45e,27,O profeta pede ajuda.,TRADUZIDO,ate v6
+main1,764,0x6b47a,22,O profeta quer ve-lo.,TRADUZIDO,ate v6
+main1,765,0x6b491,24,O profeta esta atras.,TRADUZIDO,ate v6
+main1,766,0x6b4aa,27,Tenho um mau<BR>pressentimento.,TRADUZIDO,ate v6
+main1,767,0x6b4c6,75,Soube que voce treinou<BR>com o <B>Rei Lemele<B>.<BD>Ele e muito conhecido<BR>neste continente.,TRADUZIDO,ate v6
+main1,768,0x6b512,500,"{fc:380107b7c6}Voce veio do continente<BR>a leste, certo?<BD>O mal se espalha por la.<BR>E tudo obra de <B>Gariso<B>.<BD>Ha cerca de cem anos,<BR>o <B>Rei Lemele<B> o derrotou<BR>e o baniu para<BR>o Mundo das Trevas.<BD><B>Gariso<B> havia tentado<BR>invocar monstros<BR>das Trevas.<BD>Com o poder do<BR><B>Luar<B>, <B>Lemele<B> impediu<BR>o ritual maligno.<BD>Mas <B>Gariso<B> voltou<BR>a este mundo.<BD>Disseram que voce foi<BR>treinado por <B>Lemele<B>.<BD>Busque o <B>Luar<B> e use-o<BR>para mandar <B>Gariso<B><BR>de volta as Trevas!",TRADUZIDO,ate v6
+main1,769,0x6b707,181,"O <B>Luar<B> sera muito util.<BD><B>Gariso<B> esta na<BR><B>Caverna de Baron<B>,<BR>nos confins da terra,<BR>alem do continente.<BD>So podemos torcer<BR>por sua seguranca.<BR>Boa sorte!",TRADUZIDO,ate v6
+main1,770,0x6b7bd,0,,SEM TEXTO,
+main1,771,0x6b7be,26,{fe:3a00}{fe:3c00}{fe:4d00}Que dor!<BR>{f6:6f},TRADUZIDO,ate v6
+main1,772,0x6b7d9,18,Esta e <B>Bugask<B>.,TRADUZIDO,ate v6
+main1,773,0x6b7ec,48,{fb:3a0034b9c6}Esta palido.<BR>Procure <B>Tonoka<B>.,TRADUZIDO,ate v6
+main1,774,0x6b81d,278,"{fb:3a0034b9c6}{fc:960043b9c6}Voce esta mal. Deixe-me<BR>examina-lo.<BD>Hum... Sei...<BD>Ah! Ja entendi!<BD>Parece que alguem<BR>lancou uma maldicao,<BR>impedindo sua magia.<BD>Sabe quem poderia<BR>ter feito isso?<BD>Talvez o povo de<BR><B>Guanta<B> tenha algo<BR>a ver com isso.<BD>Va a <B>Guanta<B> para<BR>descobrir a verdade.",TRADUZIDO,ate v6
+main1,775,0x6b934,14,Melhorou?,TRADUZIDO,ate v6
+main1,776,0x6b943,98,Sera que o sabio<BR>de <B>Guanta<B> o amaldicoou?<BD>Ele nao faria isso.<BR>Deve ser algum engano.,TRADUZIDO,ate v6
+main1,777,0x6b9a6,22,<B>Tonoka<B> cura tudo.,TRADUZIDO,ate v6
+main1,778,0x6b9bd,57,Ha algo muito errado.<BR>Os monstros agora<BR>estao por toda parte!,TRADUZIDO,ate v6
+main1,779,0x6b9f7,65,"Em <B>Guanta<B>, ainda se<BR>contam lendas antigas.<BR>Va ate la.",TRADUZIDO,ate v6
+main1,780,0x6ba39,60,O ar esta gelado.<BD>Jamais vi tanta neve<BR>por aqui em minha vida.,TRADUZIDO,v7 - revisado
+main1,781,0x6ba76,81,Guerreiros e magos<BR>chegaram recentemente.<BD>O que acontece<BR>por aqui?,TRADUZIDO,ate v6
+main1,782,0x6bac8,0,,SEM TEXTO,
+main1,783,0x6bac9,22,Veio a <B>Guanta<B>?,TRADUZIDO,ate v6
+main1,784,0x6bae0,65,Muitos guerreiros<BR>consultam nosso sabio.<BR>Veio pelo mesmo motivo?,TRADUZIDO,ate v6
+main1,785,0x6bb22,262,"{fb:3a0036bdc6}{fc:380129bcc6}{fe:9600}Enfim chegou!<BR>Eu o amaldicoei.<BD>Uma visao mostrou<BR>que voce ameacaria<BR>o mundo.<BD>Por isso, tirei<BR>seu poder.<BD>Estranho... Nao sinto<BR>maldade em voce.<BR>So uma energia bondosa.<BD>Estou confuso.<BR>Mas a visao me impede<BR>de retirar a maldicao.<BR>Perdoe-me.",TRADUZIDO,ate v6
+main1,786,0x6bc29,247,E o <B>Luar<B>!<BD>Entao vai mesmo<BR>enfrentar <B>Gariso<B>.<BD>Talvez eu tenha<BR>entendido mal a visao.<BR>Perdoe-me. Vou tirar<BR>sua maldicao.<BD>Abracadabra...<BD>Luz do dia...<BD>Leve essa...<BD>Maldita...<BD>Maldicao...<BD>PARA LONGE!<BR><f3>{ff:fcbcc6}{fd:3a00}{fd:3c00}Seu poder magico<BR>voltou.<BR>{f6:70}<f3>{ff:21bdc6},TRADUZIDO,ate v6
+main1,787,0x6bd21,20,Sem maldicao!<BD>{fb:0a0036bdc6},TRADUZIDO,ate v6
+main1,788,0x6bd36,285,"Perdoe-me. Para me<BR>desculpar, conto o que<BR>sei sobre a <B>Runa<B>.<BD>Ha <B>5000<B> anos, as<BR><B>Sete Runas<B> selaram o<BR>poder maligno de <B>GORSIA<B>.<BD>A ultima <B>Runa<B> que<BR>busca deve estar<BR>com <B>Gariso<B>.<BD>Contei tudo que sei.<BR>Voce precisa vence-lo.<BR>Boa sorte!",TRADUZIDO,ate v6
+main1,789,0x6be54,310,"{fc:38018bbfc6}Tambem deseja lutar<BR>contra <B>Gariso<B>?<BD>Muitos guerreiros foram<BR>para <B>Gorfun<B>, mas nenhum<BR>retornou.<BD>Eles nao tinham o<BR><B>Luar<B> que <B>Lemele<B> usou<BR>contra <B>Gariso<B>.<BD>Talvez por isso tenham<BR>sido derrotados.<BD>Outros foram buscar<BR>o <B>Luar<B> na<BR><B>Caverna do Silencio<B><BR>e tambem sumiram.<BD>Agora os monstros<BR>se espalham por tudo.",TRADUZIDO,ate v6
+main1,790,0x6bf8b,183,"Voce encontrou o <B>Luar<B>.<BD>Agora pode enfrentar<BR><B>Gariso<B>!<BD><B><MC><B>, conto com voce!<BD>Ele esta em <B>Gorfun<B>,<BR>no fundo da<BR><B>Caverna de Baron<B>,<BR>a noroeste.<BD>Va, mas tenha cuidado!",TRADUZIDO,ate v6
+main1,791,0x6c043,67,Dizem que <B>SARO<B> e<BR><B>GORSIA<B> lutaram<BR>ha <B>5000<B> anos.,TRADUZIDO,ate v6
+main1,792,0x6c087,25,Casa soterrada!,TRADUZIDO,ate v6
+main1,793,0x6c0a1,53,Dizem que a batalha<BR>quase destruiu<BR>o planeta inteiro.,TRADUZIDO,ate v6
+main1,794,0x6c0d7,43,Brrr... Que frio!<BR>Nao aguento mais!,TRADUZIDO,ate v6
+main1,795,0x6c103,0,,SEM TEXTO,
+main1,796,0x6c104,21,{fc:59001ac1c6}Aqui jaz <B><MC><B>.<BR>{f6:6f},TRADUZIDO,v7 - revisado
+main1,797,0x6c11a,20,Tumulo de <B>Metal-Pison<B>.,TRADUZIDO,ate v6
+main1,798,0x6c12f,174,"{fc:59000100c6}{fc:3900dec1c6}{fe:3900}He, he, he...<BD>Eu sabia que voce<BR>acabaria vindo.<BD>Nao me reconhece?<BR>Sou <B>Pison<B>!<BR>{f6:6f}<BD>Agora renasci como<BR><B>Metal-Pison<B>!<BD>Me preparei para<BR>manda-lo ao<BR>Mundo das Trevas.<BD>{fb:0a00dec1c6}",TRADUZIDO,ate v6
+main1,799,0x6c1de,52,Voce nao me vence!<BR>O mal me da poder!<BR><f3>{f6:2a},TRADUZIDO,ate v6
+main1,800,0x6c213,137,"{fe:5900}Isto ainda nao acabou.<BD>Vai se arrepender<BR>do que fez.<BD>Ha, ha, ha!<BD>Quero ver sua cara<BR>quando acontecer.<BD>He, he, he...<BR>Ha, ha, ha!",TRADUZIDO,ate v6
+main1,801,0x6c29d,18,{fc:35000100c6}Grrrrrr!<BR><f3>{f6:63},TRADUZIDO,ate v6
+main1,802,0x6c2b0,0,,SEM TEXTO,
+main1,803,0x6c2b1,135,"{fc:27000100c6}{fc:840039c3c6}Voce e <B><MC><B>?<BR>Chegou tao longe!<BD>Eu honraria sua coragem,<BR>mas vou acabar<BR>com voce agora!<BR><f3>{fe:8400}{f6:36}",TRADUZIDO,ate v6
+main1,804,0x6c339,51,Idiota! Nao aprendeu?<BD>Voce nunca vai vencer!<BR><f3>{f6:36},TRADUZIDO,ate v6
+main1,805,0x6c36d,41,<B><MC><B> tem a<BR><B>Runa Mago<B>.<BR>{fd:3a00}{fd:3c00}{f6:0a}{f6:04}{f6:01}{f6:01}{ff:97c3c6},TRADUZIDO,ate v6
+main1,806,0x6c397,61,"He, he, he...<BD>Trouxe de volta<BR><B>todas as Runas<B>.<BR>Muito bem!<BR><f3>{f6:43}",TRADUZIDO,ate v6
+main1,807,0x6c3d5,40,<B>Todas as Runas<B><BR>se quebraram.<BR>{f6:71}<f3>{ff:fec3c6},TRADUZIDO,ate v6
+main1,808,0x6c3fe,388,"Meu poder finalmente<BR>voltou! Estou livre<BR>das <B>Runas<B>!<BD>He, he, he...<BR>Nao entende, nao e?<BR>Eu treinei todos voces!<BR>{f6:01}{f6:41}{f6:01}<BD><B>Lemele<B> morreu<BR>ha cinco anos.<BR>Eu o matei ao chegar.<BD>Vim do passado por<BR>um tunel temporal.<BR>Meu verdadeiro nome e<BR><B>GORSIA<B>!<BD>Gracas a voces,<BR>recuperei meu poder.<BR>Agora me vingarei<BR>do meu exilio!<BD>Nao preciso de voce.<BR>Vou bani-lo para<BR>as trevas!<BD>{f6:42}",TRADUZIDO,ate v6
+main1,809,0x6c583,83,"<B>SARO<B>, vou acabar<BR>com voce. Prepare-se!<BR>{f6:01}{f6:01}Ha, ha, ha!<BR>{f6:01}Ha, ha, ha!<BR>{f6:01}{f6:01}{f6:03}{f6:01}{f6:02}",TRADUZIDO,ate v6
+main1,810,0x6c5d7,0,,SEM TEXTO,
+main1,811,0x6c5d8,40,Ele esta inconsciente<BR>ha sete dias.<BR><f3>{ff:01c6c6},TRADUZIDO,ate v6
+main1,812,0x6c601,36,As feridas ja saram.<BR><f3>{ff:26c6c6},TRADUZIDO,v7 - revisado
+main1,813,0x6c626,148,{f6:56}Acordou?<BD>Voce ficou sete dias<BR>desacordado. Que susto!<BD>Nao sei o que ocorreu.<BR>Nos o encontramos<BR>ferido e desacordado.<BR><f3>{f6:57},TRADUZIDO,ate v6
+main1,814,0x6c6bb,9,Cuide-se.,TRADUZIDO,ate v6
+main1,815,0x6c6c5,33,Ja fui assim<BR>na juventude.,TRADUZIDO,ate v6
+main1,816,0x6c6e7,47,O nome desta cidade?<BD>E <B>Pharano<B>.<BD>De onde voce veio?,TRADUZIDO,ate v6
+main1,817,0x6c717,35,Voce e novo aqui.<BR>De onde veio?,TRADUZIDO,ate v6
+main1,818,0x6c73b,82,Que bom que sarou.<BD>Nunca ouvi falar das<BR>cidades que mencionou.<BR>De onde voce veio?,TRADUZIDO,ate v6
+main1,819,0x6c78e,93,Os mundos da Luz e<BR>das Trevas estao em<BR>guerra. E terrivel.<BD>Nada podemos fazer.,TRADUZIDO,ate v6
+main1,820,0x6c7ec,52,Ouvi que <B>SARO<B><BR>derrotou <B>GORSIA<B>!<BD>Estamos salvos.,TRADUZIDO,v7 - revisado
+main1,821,0x6c821,57,"Sem <B>GORSIA<B>, os monstros<BR>voltarao as Trevas.",TRADUZIDO,ate v6
+main1,822,0x6c85b,42,Os dois mundos<BR>voltaram a colidir.,TRADUZIDO,ate v6
+main1,823,0x6c886,76,Ao sul fica a cidade<BR>de <B>Pasanda<B>.<BD>A viagem e longa.,TRADUZIDO,ate v6
+main1,824,0x6c8d3,68,Soube que <B>SARO<B> venceu<BR><B>GORSIA<B>.<BD>A paz e a fartura<BR>vao voltar!,TRADUZIDO,v7 - revisado
+main1,825,0x6c918,72,Fui eu que o achei!<BD>Voce estava no lugar<BR>onde caiu um raio.<BR>Fiquei assustado!,TRADUZIDO,ate v6
+main1,826,0x6c961,0,,SEM TEXTO,
+main1,827,0x6c962,40,Muitos jovens artistas<BR>vao para <B>Pasanda<B>.,TRADUZIDO,ate v6
+main1,828,0x6c98b,41,Nossa cidade e famosa<BR>pela arte.,TRADUZIDO,ate v6
+main1,829,0x6c9b5,50,Um dia serei famoso!<BR>Vou pintar <B>SARO<B>.,TRADUZIDO,ate v6
+main1,830,0x6c9e8,53,Vou pintar um <B>retrato<BR>de SARO<B> para o futuro.,TRADUZIDO,v7 - revisado
+main1,831,0x6ca1e,51,Componho uma <B>musica<B><BR>para dar coragem<BR>ao povo.,TRADUZIDO,ate v6
+main1,832,0x6ca52,81,<B>Belma<B> veio de <B>Ligena<B><BR>com noticias estranhas.<BD>Ouca na taverna.,TRADUZIDO,ate v6
+main1,833,0x6caa4,141,"E verdade! Em <B>Ligena<B><BR>dizem que <B>GORSIA<B><BR>derrotou <B>SARO<B>.<BD>Va a <B>Ligena<B>, perto do<BR>rio a oeste, e confira.",TRADUZIDO,ate v6
+main1,834,0x6cb32,40,Que absurdo! <B>SARO<B><BR>nao pode ser vencido.,TRADUZIDO,ate v6
+main1,835,0x6cb5b,48,Dizem que o artista<BR><B>Abico<B> adorava a sidra<BR>daqui.,TRADUZIDO,ate v6
+main1,836,0x6cb8c,41,<B>SARO<B> foi derrotado?<BR>Nao consigo acreditar!,TRADUZIDO,v7 - revisado
+main1,837,0x6cbb6,60,Esta sidra tem um<BR>sabor perfeito.<BD>E uma das minhas<BR>preferidas.,TRADUZIDO,ate v6
+main1,838,0x6cbf3,72,Sabe o nome deste<BR>planeta? <B>Ticondera<B>.<BD>Quem criou este mundo?,TRADUZIDO,v7 - revisado
+main1,839,0x6cc3c,79,Trabalho duro ha<BR>17 anos e sou um nada.<BD>Sera que tenho talento?,TRADUZIDO,ate v6
+main1,840,0x6cc8c,106,Senti uma dor terrivel<BR>ha tres dias.<BD>Parecia que <B>SARO<B><BR>tentava me dizer<BR>de algo muito ruim.,TRADUZIDO,v7 - revisado
+main1,841,0x6ccf7,127,"Ouvi falar de <B>Melenam<B>,<BR>ao noroeste.<BD>Tem uma civilizacao<BR>muito avancada.<BD>Quero visita-la um dia.",TRADUZIDO,ate v6
+main1,842,0x6cd77,69,Tenho aulas de canto<BR>todos os dias e nao<BR>posso brincar.<BD>Nao suporto mais isso!,TRADUZIDO,v7 - revisado
+main1,843,0x6cdbd,0,,SEM TEXTO,
+main1,844,0x6cdbe,25,Este e o reino<BR>de <B>Ligena<B>.,TRADUZIDO,ate v6
+main1,845,0x6cdd8,42,O que sera de nos<BR>sem <B>SARO<B>?,TRADUZIDO,ate v6
+main1,846,0x6ce03,49,Ninguem conseguira<BR>impedir o que vem ai.,TRADUZIDO,ate v6
+main1,847,0x6ce35,36,Nao acredito que<BR><B>SARO<B> foi derrotado.,TRADUZIDO,ate v6
+main1,848,0x6ce5a,84,O mundo vai acabar!<BD>Nem <B>SARO<B> venceu<BR>aquele poder maligno.<BR>Nao temos chance!,TRADUZIDO,v7 - revisado
+main1,849,0x6ceaf,47,FUI CRIADO EM <B>MELENAM<B><BR>PARA DEFESA.,TRADUZIDO,ate v6
+main1,850,0x6cedf,33,MEU DEVER E<BR>PROTEGER O POVO.,TRADUZIDO,v7 - revisado
+main1,851,0x6cf01,70,Dizem que <B>SARO<B> foi<BR>derrotado. E verdade?<BD>O que sera de nos?,TRADUZIDO,ate v6
+main1,852,0x6cf48,14,Em quem confiar?,TRADUZIDO,ate v6
+main1,853,0x6cf57,75,{fc:38000100c6}O <B>anciao<B> sabe mais.<BR>Va ao palacio agora.,TRADUZIDO,ate v6
+main1,854,0x6cfa3,503,"{fe:3800}Voce veio do futuro.<BD>Ja deve ter percebido:<BR>viajou <B>5000<B> anos<BR>para o passado.<BD><B>GORSIA<B> tem imenso poder<BR>magico e quer conquistar<BR>o mundo.<BD>Um dia, <B>SARO<B> o venceu<BR>e selou seu poder nas<BR><B>Sete Runas<B>.<BD>Mas <B>GORSIA<B> ainda<BR>conservava alguma magia.<BD>Fugiu para o futuro,<BR>onde <B>SARO<B> nao podia<BR>alcanca-lo.<BD>Sabia que nao obteria<BR>as <B>Runas<B> sozinho,<BR>e mandou voce<BR>busca-las.<BD>Quando as entregou,<BR>ele libertou seu poder.<BD>Nao notou que cada<BR><B>Runa<B> tinha uma<BR>forca misteriosa?<BD>Aquele poder era<BR>de <B>GORSIA<B>!",TRADUZIDO,ate v6
+main1,855,0x6d19b,61,{fb:3800bfd3c6}A batalha entre <B>SARO<B><BR>e <B>GORSIA<B> quase<BR>destruiu o mundo.,TRADUZIDO,ate v6
+main1,856,0x6d1d9,238,"{fb:3800bfd3c6}Quando <B>GORSIA<B> voltou,<BR><B>SARO<B> soube que nao<BR>poderia vencer.<BD>Mesmo assim foi a<BR><B>Gorfun<B>, enfrentou<BR><B>GORSIA<B> e perdeu.<BD><B>GORSIA<B> roubou o poder<BR>de <B>SARO<B> e o trancou<BR>numa barreira.<BD>Queremos salva-lo, mas<BR>nao podemos sequer<BR>nos aproximar.",TRADUZIDO,ate v6
+main1,857,0x6d2c8,42,{fb:3800bfd3c6}Pode salvar <B>SARO<B>?<BR>Nos ajude!,TRADUZIDO,ate v6
+main1,858,0x6d2f3,103,"{fb:3800bfd3c6}O povo de <B>Melenam<B>,<BR>ao norte, tenta vencer<BR><B>GORSIA<B> pela ciencia.<BD>Quer ir ate la?",TRADUZIDO,ate v6
+main1,859,0x6d35b,99,"{fb:3800bfd3c6}Ha uma aeronave<BR>chamada <B>Aeronave<B><BR>nesta cidade.<BD>Use-a para chegar<BR>a <B>Melenam<B>, alem do mar.",TRADUZIDO,v7 - revisado
+main1,860,0x6d3bf,27,Converse primeiro<BR>com o <B>anciao<B>.,TRADUZIDO,v7 - revisado
+main1,861,0x6d3db,51,<B>Ropesu<B> comprou algo<BR>por <B>7000000<B> G!,TRADUZIDO,ate v6
+main1,862,0x6d40f,97,<B>Ropesu<B> deve comecar<BR>outro negocio.<BD>Ele compra coisas<BR>valiosas em <B>Melenam<B><BR>e as revende aqui.,TRADUZIDO,ate v6
+main1,863,0x6d471,42,Esse <B>Ropesu<B> gasta<BR>dinheiro demais!,TRADUZIDO,ate v6
+main1,864,0x6d49c,105,Ele guarda a <B>Aeronave<B>.<BR>Nem deixa voce ve-la.<BD>Talvez haja uma<BR>entrada secreta perto<BR>da casa dele.,TRADUZIDO,v7 - revisado
+main1,865,0x6d506,104,{fc:3b00a2d6c6}{fc:030096d5c6}{fc:04005dd6c6}{fc:07005dd6c6}Quer viajar na<BR><B>Aeronave<B>?<BD>Por <B>7000<B> G eu deixo<BR>voce embarcar.<BR>{f6:0f}{fb:000037d6c6}{f6:13}{f6:4b},TRADUZIDO,v7 - revisado
+main1,866,0x6d56f,38,Voce nao tem ouro.<BR>Volte depois.,TRADUZIDO,v7 - revisado
+main1,867,0x6d596,106,Interessada na <B>Aeronave<B>?<BD>Uma garota bonita como<BR>seja bem-vinda.<BD>Quer voar comigo?<BR>{fb:000037d6c6}{fb:0a001dd6c6},TRADUZIDO,v7 - revisado
+main1,868,0x6d601,27,{fe:3b00}Vamos. Siga-me.<BR><f3>{f6:17},TRADUZIDO,ate v6
+main1,869,0x6d61d,25,{fe:3b00}Vamos. Siga-me.<BR><f3>{f6:17},TRADUZIDO,ate v6
+main1,870,0x6d637,37,"{f6:13}Nao? Se mudar de ideia,<BR>estarei aqui.",TRADUZIDO,ate v6
+main1,871,0x6d65d,68,Quer dar ordens sobre<BR>meu navio?<BD>Ninguem manda em mim!<BR>Saia!,TRADUZIDO,ate v6
+main1,872,0x6d6a2,39,Quer viajar na <B>Aeronave<B>?<BR>{fb:000037d6c6}{fb:0a001dd6c6},TRADUZIDO,v7 - revisado
+main1,873,0x6d6ca,82,"Lindo, nao?<BR>Comprei em <B>Melenam<B>.<BD>O <B>piloto<B> vai levar<BR>voce para la.",TRADUZIDO,ate v6
+main1,874,0x6d71d,64,"{fc:3b005ed7c6}Pare! Sem passe,<BR>entrada proibida.<BD>Saia!<BR><f3>{f6:5f}",TRADUZIDO,v7 - revisado
+main1,875,0x6d75e,21,"<B><MC><B>, veja o piloto.",TRADUZIDO,ate v6
+main1,876,0x6d774,62,{fc:3b00b3d7c6}Vamos partir agora?<BR>{fb:0000e2d7c6}Pronto? Rumo a<BR><B>Melenam<B>!<BR><f3>{f6:01}{f6:60},TRADUZIDO,ate v6
+main1,877,0x6d7b3,46,"<B><MC><B>, <B>Ropesu<B> ja<BR>me falou de voce.<BD>Vamos!<BR><f3>{f6:01}{f6:60}",TRADUZIDO,ate v6
+main1,878,0x6d7e2,84,"Quem e voce?<BD>O que veio fazer aqui?<BD>Sem passe, nao pode<BR>entrar no navio.<BR>Saia!<BR><f3>{f6:5f}",TRADUZIDO,v7 - revisado
+main1,879,0x6d837,0,,SEM TEXTO,
+main1,880,0x6d838,24,Chegamos a <B>Ligena<B>.,TRADUZIDO,ate v6
+main1,881,0x6d851,97,"Chegamos a <B>Melenam<B>.<BD>Com tanta tecnologia,<BR>devemos achar muitos<BR>objetos valiosos.",TRADUZIDO,ate v6
+main1,882,0x6d8b3,67,"{fc:3b00f7d8c6}Sem autorizacao,<BR>entrada proibida.<BD>Saia!<BR><f3>{f6:61}",TRADUZIDO,ate v6
+main1,883,0x6d8f7,31,Entre na cabine<BR>quando estiver pronto.,TRADUZIDO,ate v6
+main1,884,0x6d917,77,{fc:3b0065d9c6}Ja quer voltar<BR>a <B>Ligena<B>?<BR>{fb:0000cfd9c6}Vamos a <B>Ligena<B>!<BR><f3>{f6:01}{f6:62},TRADUZIDO,ate v6
+main1,885,0x6d965,78,"<B><MC><B>, terminou<BR>tudo em <B>Melenam<B>?<BR>{fb:0000b4d9c6}Rumo a <B>Ligena<B>!<BR><f3>{f6:01}{f6:62}",TRADUZIDO,ate v6
+main1,886,0x6d9b4,26,Avise quando<BR>estiver pronto.,TRADUZIDO,ate v6
+main1,887,0x6d9cf,84,Ainda nao vamos partir?<BD>Quem e voce?<BD>Nao pode entrar<BR>escondido no navio!<BR>Saia ja!<BR><f3>{f6:61},TRADUZIDO,ate v6
+main1,888,0x6da24,0,,SEM TEXTO,
+main1,889,0x6da25,0,,SEM TEXTO,
+main1,890,0x6da26,0,,SEM TEXTO,
+main1,891,0x6da27,0,,SEM TEXTO,
+main1,892,0x6da28,75,"{fc:47000100c6}Bem-vindo a <B>Melenam<B>,<BR>centro de tecnologia.<BR>{fc:8500e6e7c6}",TRADUZIDO,ate v6
+main1,893,0x6da74,53,{fb:47000100c6}ENTRADA APENAS<BR>PARA PESSOAL<BR>AUTORIZADO.,TRADUZIDO,ate v6
+main1,894,0x6daaa,6,,PENDENTE,
+main1,895,0x6dab1,33,{fc:47000100c6}<B>Aeroporto<B> adiante.,TRADUZIDO,ate v6
+main1,896,0x6dad3,80,{fc:47000100c6}A elite mora aqui.<BD>Esta cidade e famosa<BR>pela alta sociedade.<BR>{fc:8500e6e7c6},TRADUZIDO,ate v6
+main1,897,0x6db24,52,NAO JOGUE LIXO.<BR>MINHA MISSAO E<BR>LIMPAR A CIDADE.,TRADUZIDO,ate v6
+main1,898,0x6db59,34,MINHA MISSAO E<BR>PROTEGER A CIDADE.,TRADUZIDO,ate v6
+main1,899,0x6db7c,90,"{fc:47000100c6}Com a tecnologia de<BR><B>Melenam<B>, nao precisamos<BR>temer <B>GORSIA<B>.<BR>{fc:8500e6e7c6}",TRADUZIDO,ate v6
+main1,900,0x6dbd7,52,"{fc:47000100c6}Com <B>SARO<B> derrotado,<BR>precisamos lutar.",TRADUZIDO,ate v6
+main1,901,0x6dc0c,98,{fc:47000100c6}Criamos uma arma<BR>especial na cidade<BR>subterranea.<BD>Ela sera capaz de<BR>vencer <B>GORSIA<B>.,TRADUZIDO,ate v6
+main1,902,0x6dc6f,31,{fc:47000100c6}Meu pai e cientista!,TRADUZIDO,ate v6
+main1,903,0x6dc8f,119,"{fc:47000100c6}{fb:050079ddc6}{fc:3d0059ddc6}Voce esta enferrujado.<BD>Precisa de ajustes.<BR>Quer que eu conserte?<BR>{fc:000007ddc6}Tudo bem, mas volte<BR>logo para um ajuste.",TRADUZIDO,ate v6
+main1,904,0x6dd07,2,,PENDENTE,
+main1,905,0x6dd0a,78,{fe:3d00}Tudo certo! Voce esta<BR>em otimo estado.<BD>Seu <B>Poder<B> aumentou <B>1<B>.,TRADUZIDO,ate v6
+main1,906,0x6dd59,31,"Esta se sentindo<BR>bem melhor, certo?",TRADUZIDO,ate v6
+main1,907,0x6dd79,39,Criar um <B>TETUJIN<B> e<BR>meu sonho de vida.,TRADUZIDO,ate v6
+main1,908,0x6dda1,39,{fc:47000100c6}EM CONSTRUCAO.<BR>EM CONSTRUCAO.,TRADUZIDO,ate v6
+main1,909,0x6ddc9,15,{fc:47000100c6}Ggggg...,TRADUZIDO,ate v6
+main1,910,0x6ddd9,14,{fc:47000100c6}EU...,TRADUZIDO,ate v6
+main1,911,0x6dde8,9,,PENDENTE,
+main1,912,0x6ddf2,17,{fc:47000100c6}O...<BR><BD>LA...,TRADUZIDO,ate v6
+main1,913,0x6de04,13,{fc:47000100c6}Gggg...,TRADUZIDO,ate v6
+main1,914,0x6de12,93,{fc:47000100c6}Temos um laboratorio<BR>sob esta cidade.<BD>Varios cientistas<BR>trabalham em projetos.,TRADUZIDO,ate v6
+main1,915,0x6de70,54,{fc:47000100c6}Os cientistas criam<BR>uma <B>arma<B> para vencer<BR><B>GORSIA<B>.,TRADUZIDO,ate v6
+main1,916,0x6dea7,43,{fc:47000100c6}Os cientistas querem<BR>derrotar <B>GORSIA<B>.,TRADUZIDO,ate v6
+main1,917,0x6ded3,63,{fc:47000100c6}Cientistas e engenheiros<BR>discutem como criar<BR>a <B>arma<B>.,TRADUZIDO,ate v6
+main1,918,0x6df13,180,"{fc:47000100c6}Os cientistas estao<BR>ocupados demais para<BR>limpar o laboratorio.<BD>Eu cuidava de tudo,<BR>mas nao poderei mais.<BD>Vou me casar em <B>Palsu<B><BR>e deixar este lugar.",TRADUZIDO,ate v6
+main1,919,0x6dfc8,126,"{fc:48000100c6}{fc:3f0049e1c6}{fc:3e0047e0c6}Nao sei se devo<BR>apoiar o plano.<BD>Quando fraquejo,<BR>penso em minha cidade<BR>natal, <B>Palsu<B>.",TRADUZIDO,ate v6
+main1,920,0x6e047,62,{fe:3f00}Trouxe uma <B>Carta<B><BR>da minha mae!<BR>Obrigado pela entrega.<BR><f3>{ff:86e0c6},TRADUZIDO,v7 - revisado
+main1,921,0x6e086,35,{f6:4d}<B><MC><B> deu a <B>Carta<B><BR>a <B>Tafuro<B>.<BR><f3>{ff:aae0c6},TRADUZIDO,ate v6
+main1,922,0x6e0aa,116,Nao sei como pagar<BR>esse favor.<BD>Talvez queira conhecer<BR>nosso novo projeto.<BD>Deseja ve-lo?<BR>{fc:00006ce1c6}{fb:0a001fe1c6},TRADUZIDO,ate v6
+main1,923,0x6e11f,41,Nao? Queria muito<BR>sua opiniao.,TRADUZIDO,ate v6
+main1,924,0x6e149,34,Ja mudou de ideia?<BR>{fc:00006ce1c6}{fb:0a001fe1c6},TRADUZIDO,v7 - revisado
+main1,925,0x6e16c,33,{fe:4900}{fe:4800}Vamos ao laboratorio.<BR><f3>{f6:1f},TRADUZIDO,ate v6
+main1,926,0x6e18e,13,Trancada!,TRADUZIDO,ate v6
+main1,927,0x6e19c,13,Trancada!,TRADUZIDO,ate v6
+main1,928,0x6e1aa,74,{fc:47000100c6}{fe:4000}Sou totalmente contra!<BR>Essa maquina e perigosa!,TRADUZIDO,v7 - revisado
+main1,929,0x6e1f5,31,{fc:47000100c6}{fe:4100}E muito arriscado.,TRADUZIDO,ate v6
+main1,930,0x6e215,31,{fc:47000100c6}{fe:4200}E nossa unica opcao.,TRADUZIDO,ate v6
+main1,931,0x6e235,82,"{fc:47000100c6}{fe:4300}Se der certo, provaremos<BR>que nosso poder<BR>supera o de <B>SARO<B>.",TRADUZIDO,ate v6
+main1,932,0x6e288,54,{fc:47000100c6}{fe:4400}Nao temos tempo.<BR><B>SARO<B> foi derrotado.,TRADUZIDO,ate v6
+main1,933,0x6e2bf,63,{fc:47000100c6}{fe:4500}Nossa tecnologia<BR>talvez permita isso.,TRADUZIDO,ate v6
+main1,934,0x6e2ff,185,"{fc:47000100c6}{fe:4600}Este <B>TETUJIN<B> e unico.<BD>Consegue invocar o poder<BR>maligno das Trevas<BR>e usa-lo por nos.<BD>Nos o chamamos <B>Foma<B>.<BD>Quer saber mais?<BR>Pergunte ao <B>Dr. Fail<B>,<BR>na sala dos fundos.",TRADUZIDO,ate v6
+main1,935,0x6e3b9,78,{fc:49000100c6}{fb:400008e4c6}{fb:410008e4c6}{fb:420008e4c6}{fb:430008e4c6}{fb:440008e4c6}{fb:450008e4c6}{fb:460008e4c6}{fe:4900}Veja o <B>Dr. Fail<B>.<BR><f3>{f6:20},TRADUZIDO,ate v6
+main1,936,0x6e408,56,{fd:4900}{fe:af00}Ouca os demais<BR>primeiro. Depois procure<BR>o <B>Dr. Fail<B>.,TRADUZIDO,v7 - revisado
+main1,937,0x6e441,54,"{fb:85000100c6}{fe:b000}Este e o <B>Dr. Fail<B>,<BR>chefe do projeto.",TRADUZIDO,ate v6
+main1,938,0x6e478,361,"{fc:47000100c6}{fe:8500}Viu o <B>TETUJIN<B> que criei?<BD>Talvez este projeto<BR>seja perigoso demais.<BD>Deveriamos deixar<BR>as Trevas em paz.<BD>Podemos derrotar<BR><B>GORSIA<B> usando seu poder,<BR>mas nao sabemos se<BR>podemos controla-lo.<BD><B>Foma<B> pode se tornar<BR>um inimigo ainda pior<BR>que <B>GORSIA<B>.<BD>Por isso quero encerrar<BR>o projeto e esperar<BR>pelo proximo <B>SARO<B>.",TRADUZIDO,ate v6
+main1,939,0x6e5e2,60,{fb:47000100c6}ALERTA! <B>Foma<B> se moveu!<BR>Esta fora de controle!,TRADUZIDO,ate v6
+main1,940,0x6e61f,66,{fb:47000100c6}<B>Foma<B> bloqueia<BR>o laboratorio.<BD>Os cientistas estao<BR>la dentro!,TRADUZIDO,v7 - revisado
+main1,941,0x6e662,91,{fb:47000100c6}Algo ativou <B>Foma<B>!<BR>Perdemos o controle.<BD>Nao deviamos usar<BR>o poder das Trevas...,TRADUZIDO,ate v6
+main1,942,0x6e6be,152,{fb:47000100c6}<B>Foma<B> suga toda a<BR>energia de <B>Melenam<B>.<BR>Nem a <B>Aeronave<B> funciona!<BD>Logo destruira<BR>o planeta inteiro!<BD>Temos que para-lo<BR>antes que seja tarde!,TRADUZIDO,v7 - revisado
+main1,943,0x6e757,142,ALERTA! ALERTA!<BR>FALHA NO CAMPO<BR>DE ENERGIA!<BD>EVACUEM AGORA!<BD>O CAMPO DE ENERGIA<BR>DE MELENAM VAI EXPLODIR!<BD>EVACUEM!<BR>{f6:03}{f6:01}{f6:6c},TRADUZIDO,ate v6
+main1,944,0x6e7e6,3,,PENDENTE,
+main1,945,0x6e7ea,0,,SEM TEXTO,
+main1,946,0x6e7eb,22,"{fc:47000100c6}Ola, <B>Palsu<B>!",TRADUZIDO,ate v6
+main1,947,0x6e802,126,"{fc:47000100c6}Muita gente veio<BR>visitar <B>Melenam<B>, mas<BR>ficou presa aqui<BR>devido aos monstros.<BD>Nao tenho noticias<BR>do meu pai em <B>Melenam<B>.",TRADUZIDO,ate v6
+main1,948,0x6e881,53,{fc:47000100c6}Dizem que <B>Melenam<B><BR>e muito avancada.,TRADUZIDO,ate v6
+main1,949,0x6e8b7,63,{fc:47000100c6}Muitos jovens brilhantes<BR>daqui trabalham<BR>em <B>Melenam<B>.,TRADUZIDO,ate v6
+main1,950,0x6e8f7,77,Os jovens foram para<BR><B>Melenam<B>. So ficaram<BR>idosos e criancas.,TRADUZIDO,ate v6
+main1,951,0x6e945,169,"{fc:47000100c6}{fc:3e003deac6}Veio de <B>Melenam<B>?<BD>Meu filho <B>Tafuro<B><BR>trabalha la.<BD>Se voltar a cidade,<BR>leve esta <B>Carta<B> a ele?<BR>{fc:0000efe9c6}Tudo bem. Talvez nao<BR>tenha tempo.",TRADUZIDO,ate v6
+main1,952,0x6e9ef,50,Muito obrigado!<BR>Meu filho ficara feliz!<BR><f3>{ff:22eac6},TRADUZIDO,ate v6
+main1,953,0x6ea22,26,{fe:3e00}{f6:4c}<B><MC><B> recebeu<BR>a <B>Carta<B>.,TRADUZIDO,ate v6
+main1,954,0x6ea3d,45,Muito obrigado.<BR>Meu filho ficara feliz!,TRADUZIDO,ate v6
+main1,955,0x6ea6b,0,,SEM TEXTO,
+main1,956,0x6ea6c,38,Todos escapamos.<BR>Obrigado pela ajuda.,TRADUZIDO,ate v6
+main1,957,0x6ea93,113,"Evitamos um erro fatal.<BR>Obrigado.<BD>Perdemos o continente,<BR>mas o planeta<BR>inteiro foi salvo.",TRADUZIDO,ate v6
+main1,958,0x6eb05,82,"Tudo acabou bem.<BD>Se ainda vivessemos<BR>em <B>Melenam<B>,<BR>teriamos criado<BR>mais <B>Foma<B>.",TRADUZIDO,ate v6
+main1,959,0x6eb58,21,Descanse por enquanto.,TRADUZIDO,ate v6
+main1,960,0x6eb6e,63,Fizemos um pouso forçado<BR>em <B>Barluca<B> por falha<BR>no motor.,TRADUZIDO,v7 - revisado
+main1,961,0x6ebae,38,<B>GORSIA<B> esta<BR>em <B>Barluca<B>.,TRADUZIDO,ate v6
+main1,962,0x6ebd5,96,{fc:860036ecc6}Sinto que <B>SARO<B><BR>esta neste continente.<BD>Seu poder diminui.<BR>Precisamos nos apressar.,TRADUZIDO,ate v6
+main1,963,0x6ec36,33,Vi seu poder<BR>passar a outro ser.,TRADUZIDO,ate v6
+main1,964,0x6ec58,60,{fc:860095ecc6}Uma mulher afirma poder<BR>falar com <B>SARO<B>.,TRADUZIDO,v7 - revisado
+main1,965,0x6ec95,33,Que bom te ver de volta!,TRADUZIDO,ate v6
+main1,966,0x6ecb7,93,Todos sairam do<BR>continente na <B>Aeronave<B>.<BD>Devem estar procurando<BR>um novo lar.,TRADUZIDO,v7 - revisado
+main1,967,0x6ed15,75,Temos comida e<BR>combustivel para<BR>mais de um ano.,TRADUZIDO,ate v6
+main1,968,0x6ed61,92,{fc:8600beedc6}Precisamos achar <B>SARO<B>.<BR>Pode nos ajudar?<BD>Enviamos <B>TETUJIN<B> para<BR>procura-lo.,TRADUZIDO,ate v6
+main1,969,0x6edbe,119,Os <B>TETUJIN<B> enviados<BR>a <B>Gorfun<B> contra <B>GORSIA<B><BR>nao voltaram.<BD>Talvez nao sejam<BR>fortes para vence-lo.,TRADUZIDO,ate v6
+main1,970,0x6ee36,0,,SEM TEXTO,
+main1,971,0x6ee37,98,"{fc:86000100c6}Somos servos de <B>SARO<B>.<BD>Quando <B>GORSIA<B> voltou,<BR><B>SARO<B> nos deixou aqui<BR>e partiu para <B>Gorfun<B>.",TRADUZIDO,ate v6
+main1,972,0x6ee9a,67,{fc:86000100c6}Nao sinto mais<BR>a vida de <B>SARO<B>.<BD>Talvez <B>GORSIA<B> tenha<BR>vencido.,TRADUZIDO,ate v6
+main1,973,0x6eede,92,{fc:86000100c6}<B>GORSIA<B> parece<BR>cada vez mais forte.<BD>Talvez nao consigamos<BR>vence-lo agora.,TRADUZIDO,ate v6
+main1,974,0x6ef3b,220,"{fc:86000100c6}No passado, <B>SARO<B> usou<BR>as <B>Runas<B> para derrotar<BR><B>GORSIA<B> e sela-lo.<BD>Mas, quando retornou,<BR><B>GORSIA<B> amaldicoou<BR>as <B>Runas<B>.<BD>Assim <B>SARO<B> nao poderia<BR>usa-las contra ele.<BR>Teve de lutar sozinho.",TRADUZIDO,ate v6
+main1,975,0x6f018,64,{fc:86000100c6}Talvez nao possamos<BR>vencer <B>GORSIA<B><BR>sem as <B>Runas<B>.,TRADUZIDO,ate v6
+main1,976,0x6f059,98,{fc:8600bcf0c6}Sinto o poder fraco<BR>de <B>SARO<B> a oeste.<BD>Ele ainda esta vivo.<BR>Precisamos salva-lo!,TRADUZIDO,v7 - revisado
+main1,977,0x6f0bc,69,<B>Runa Agua<B> corta<BR>pela metade o poder<BR>sombrio de <B>GORSIA<B>.{fc:6b020200c6}{fe:6b02}<f3>{ff:8af4c6},TRADUZIDO,ate v6
+main1,978,0x6f102,80,{fc:7002fcf1c6}{fc:860053f1c6}<B>SARO<B> sabia que nao<BR>venceria desta vez.<BD>Por isso partiu sozinho.,TRADUZIDO,v7 - revisado
+main1,979,0x6f153,168,Sentimos sua morte.<BD>Sua alma tocou as<BR><B>Runas<B> e tirou a<BR>maldicao de <B>GORSIA<B>.<BD>Ele sabia que voce era<BR>nossa ultima esperanca.<BD>Leve as <B>Runas<B><BR>e atenda ao chamado.<BD>{fb:0a00fcf1c6},TRADUZIDO,ate v6
+main1,980,0x6f1fc,116,A <B>Runa do Mago<B> vai<BR>bloquear o poder de<BR><B>GORSIA<B> por pouco tempo.<BD>Ele saira das sombras.{fc:70020200c6}{fe:7002}<f3>{ff:00f5c6},TRADUZIDO,v7 - revisado
+main1,981,0x6f271,73,{fb:86000100c6}<B>Runa Vento<B> reduz<BR>agilidade de <B>GORSIA<B>.<BD>Boa sorte!{fc:6a020200c6}{fe:6a02}<f3>{ff:52f4c6},TRADUZIDO,ate v6
+main1,982,0x6f2bb,80,{fb:86000100c6}A <B>Runa da Lua<B> reduz<BR>o ataque de <B>GORSIA<B><BR>pela metade.{fc:6c020200c6}{fe:6c02}<f3>{ff:a8f4c6},TRADUZIDO,v7 - revisado
+main1,983,0x6f30c,96,{fb:86000100c6}A <B>Runa do Ceu<B> reduz<BR>a magia de <B>GORSIA<B>.<BD>Conte com nossa ajuda!{fc:6d020200c6}{fe:6d02}<f3>{ff:6ef4c6},TRADUZIDO,v7 - revisado
+main1,984,0x6f36d,151,{fb:86000100c6}A <B>Runa da Luz<B> pode<BR>refletir magias e<BR>ajuda-lo a atacar.<BD>Faremos o possivel<BR>para ajudar. Boa sorte!{fc:6e020200c6}{fe:6e02}<f3>{ff:c4f4c6},TRADUZIDO,ate v6
+main1,985,0x6f405,73,{fb:86000100c6}A <B>Runa da Estrela<B><BR>reduz pela metade<BR>a defesa de <B>GORSIA<B>.{fc:6f020200c6}{fe:6f02}<f3>{ff:e3f4c6},TRADUZIDO,ate v6
+main1,986,0x6f44f,0,,SEM TEXTO,
+main1,987,0x6f450,0,,SEM TEXTO,
+main1,988,0x6f451,0,,SEM TEXTO,
+main1,989,0x6f452,27,<B><MC><B>: <B>Runa Vento<B>.<BR>{f6:0a}{f6:04}{f6:7a},TRADUZIDO,ate v6
+main1,990,0x6f46e,27,<B><MC><B>:<BR><B>Runa do Ceu<B>.<BR>{f6:0a}{f6:04}{f6:7e},TRADUZIDO,v7 - revisado
+main1,991,0x6f48a,29,<B><MC><B>:<BR><B>Runa da Agua<B>.<BR>{f6:0a}{f6:04}{f6:79},TRADUZIDO,v7 - revisado
+main1,992,0x6f4a8,27,<B><MC><B>:<BR><B>Runa da Lua<B>.<BR>{f6:0a}{f6:04}{f6:7c},TRADUZIDO,v7 - revisado
+main1,993,0x6f4c4,30,<B><MC><B> tem a<BR><B>Runa Luz<B>.<BR>{f6:0a}{f6:04}{f6:7d},TRADUZIDO,ate v6
+main1,994,0x6f4e3,28,<B><MC><B>:<BR><B>Runa da Estrela<B>.<BR>{f6:0a}{f6:04}{f6:7b},TRADUZIDO,v7 - revisado
+main1,995,0x6f500,29,<B><MC><B> tem a<BR><B>Runa Mago<B>.<BR>{f6:0a}{f6:04}{f6:7f},TRADUZIDO,ate v6
+main1,996,0x6f51e,33,<B>SARO<B> ESTA NA SALA<BR>DOS FUNDOS.,TRADUZIDO,ate v6
+main1,997,0x6f540,33,MAGIA DE <B>GORSIA<B><BR>NOS ENFRAQUECE.,TRADUZIDO,ate v6
+main1,998,0x6f562,41,DRENARAM TODA<BR>MINHA ENERGIA.,TRADUZIDO,v7 - revisado
+main1,999,0x6f58c,8,BZZZZ...,TRADUZIDO,ate v6
+main1,1000,0x6f595,3,,PENDENTE,
+main1,1001,0x6f599,71,"{fc:94000100c6}Perturbou meu descanso,<BR>idiota! Vou manda-lo<BR>as Trevas!<BR><f3>{f6:65}",TRADUZIDO,ate v6
+main1,1002,0x6f5e1,91,"{fc:95000100c6}<B>GORSIA<B> ordenou que<BR>ninguem passasse.<BD>Para seguir adiante,<BR>tera que me vencer!<BR><f3>{f6:66}",TRADUZIDO,ate v6
+main1,1003,0x6f63d,428,"{fc:86000100c6}{fe:8600}<B><MC><B>, eu sabia que<BR>voce viria.<BD><B>GORSIA<B> roubou todo<BR>o meu poder.<BD>Mal sinto a luz do sol<BR>sobre meu corpo.<BD>Nao posso mais proteger<BR>este povo.<BD>Mas tirei a maldicao<BR>de <B>GORSIA<B> das <B>Runas<B>.<BD>Ao usa-las, voce tera<BR>poder para enfrenta-lo.<BD><B><MC><B>, confio em voce.<BR>Venca <B>GORSIA<B> pelo povo!<BD>Estou perdendo forcas.<BR>Nao se preocupe comigo.<BD>Meu corpo vai perecer,<BR>mas renascerei um dia.<BR>{f6:01}{f6:70}{f6:03}{f6:01}{f6:6a}",TRADUZIDO,ate v6
+main1,1004,0x6f7ea,59,ESTE EDIFICIO ESTRANHO<BR>CONFUNDE OS SENTIDOS.,TRADUZIDO,ate v6
+main1,1005,0x6f826,86,VOU MARCAR O SEGUNDO<BR>ANDAR. PROCURE A ESCADA<BR>PARA O PROXIMO PISO.,TRADUZIDO,ate v6
+main1,1006,0x6f87d,8,Grrrr...,TRADUZIDO,v7 - revisado
+main1,1007,0x6f886,0,,SEM TEXTO,
+main1,1008,0x6f887,177,"Subestimei voce,<BR>mortal tolo!<BR>Mas vou deteve-lo!<BD>Deveria ter ficado<BR>no futuro.<BD>La saberia que sou<BR>o unico poder deste<BR>planeta!<BD>Ha! Ha! Ha!<BR>Va para as Trevas!<BR><f3>{f6:37}",TRADUZIDO,ate v6
+main1,1009,0x6f939,133,"Voce...<BD>Vai pagar, <B><8f><B>!<BD>Se eu cair, vou<BR>leva-lo comigo!<BR>{f6:55}{f6:01}<BD>Voce nao vencera!<BR>Eu voltarei!<BD><B>SARO<B>, ainda<BR>nos veremos!<BR><f3>{f6:03}{f6:01}{f6:01}{f6:5d}",TRADUZIDO,ate v6
+main1,1010,0x6f9bf,5,Fim.,TRADUZIDO,ate v6
+main1,1011,0x6f9c5,194,"<B><8f><B>, obrigado.<BR>Voce atendeu meu pedido.<BD>Salvou nosso povo.<BD><B>GORSIA<B> destruiu seu<BR>corpo, mas vou salva-lo.<BD>Eu lhe darei meu corpo.<BR>Renascera como<BR>meu descendente.<BR><f3>{f6:03}{f6:01}{f6:01}{f6:01}{f6:5e}",TRADUZIDO,ate v6
+main1,1012,0x6fa88,0,,SEM TEXTO,
+main1,1013,0x6fa89,0,,SEM TEXTO,
+main1,1014,0x6fa8a,51,Que milagre!<BD>Uma crianca aparece<BR>de dentro da luz!<BR><f3>{ff:befac6},TRADUZIDO,v7 - revisado
+main1,1015,0x6fabe,33,<B>SARO<B> nos envia<BR>seu filho!<BR><f3>{ff:e0fac6},TRADUZIDO,ate v6
+main1,1016,0x6fae0,163,"Vamos chama-lo <B>Lemele<B>.<BD>Devemos registrar<BR>esta historia na pedra.<BD>Assim, quando as Trevas<BR>voltarem, a crianca<BR>nao se deixara dominar.<BR><f3>{f6:03}{f6:01}{f6:01}{f6:69}",TRADUZIDO,ate v6
+main1,1017,0x6fb84,0,,SEM TEXTO,
+main1,1018,0x6fb85,0,,SEM TEXTO,
+main1,1019,0x6fb86,0,,SEM TEXTO,
+main1,1020,0x6fb87,135,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Kamil<B><BR>{fc:8d009902c7}{fc:6f008930c7}{fc:97007801c7}{fc:6a00bc01c7}<B><MC><B>, ambos<BR>passamos dificuldades.<BD>Vamos unir forcas?<BR>{fc:00005001c7}Nao? Que pena.",TRADUZIDO,ate v6
+main1,1021,0x6fc0f,188,{fc:0b00e531c7}{fc:0c00e831c7}<B>Kamil<B><BR>{fc:8d009902c7}{fc:6f008930c7}{fc:97007801c7}{fc:6a00bc01c7}Sou <B>Kamil<B>.<BD>Procurava voce!<BD>Quero que se junte<BR>a mim. Aceita?<BR>{fc:00005001c7}Tem certeza?<BR>{fb:00005001c7}Entendo. Desisto.,TRADUZIDO,ate v6
+main1,1022,0x6fccc,110,{fc:0b00e531c7}{fc:0c00e831c7}<B>Kamil<B><BR>{fc:8d005803c7}{fc:97007801c7}{fc:6f008930c7}Tenho um problema.<BD>Preciso resolve-lo.<BR>Falamos depois.,TRADUZIDO,ate v6
+main1,1023,0x6fd3b,163,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Kamil<B><BR>{fc:8d005803c7}{fc:97007801c7}{fc:6f008930c7}<B><MC><B>, bom reve-lo.<BR>Voce ficou mais forte,<BR>mas precisa de pratica.<BD>Vamos falar quando<BR>ganhar mais experiencia.",TRADUZIDO,ate v6
+main2,0,0x70000,245,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Kamil<B><BR>{fc:8d005803c7}{fc:6f008930c7}{fc:97007801c7}<B><MC><B>, voce parece bem.<BR>Como vai seu treino?<BR><BD>Quer provar sua forca?<BR>Entao lute comigo!<BR><BD>Mas, se eu vencer,<BR>ficarei com seus<BR>itens preciosos.<BR>{fc:00009a01c7}Tem razao. Talvez<BR>seja melhor nao lutar.",TRADUZIDO,ate v6
+main2,1,0x700f6,89,{fc:0b00e531c7}{fc:0c00e831c7}<B>Kamil<B><BR>{fc:8d005803c7}{fc:6f008930c7}{fc:97007801c7}{fc:6a002c02c7}Nao posso ajudar.<BR><BD>Peca a outro.,TRADUZIDO,ate v6
+main2,2,0x70150,39,{fc:6f00e803c7}Venha comigo!<BR><f3>{fd:8d00}{f6:1d}{ff:0a04c7},TRADUZIDO,v7 - revisado
+main2,3,0x70178,33,Nosso destino e lutar.<BR><f3>{f6:48},TRADUZIDO,ate v6
+main2,4,0x7019a,27,"Vamos la, <B><MC><B>!<BR><f3>{fe:9700}{fc:8d00b601c7}{f6:48}",TRADUZIDO,ate v6
+main2,5,0x701b6,5,,PENDENTE,
+main2,6,0x701bc,111,Voce tem uma <B>Runa<B>!<BR><BD>Quero ver seu poder<BR>bem de perto.<BR>Posso me unir a voce?<BR><BD>{fc:00005001c7}Nao? Que pena.,TRADUZIDO,ate v6
+main2,7,0x7022c,108,Voce tem a <B>Runa<B>!<BR>Nem acredito...<BR><BD>Nao permitirei que<BR>encontre as outras.<BR><BD>Vou tomar essa<BR>de voce agora!<BR><f3>{fe:9700}{f6:48},TRADUZIDO,ate v6
+main2,8,0x70299,190,{fc:a1007801c7}{fc:97005803c7}Finalmente consegui<BR>a <B>Runa do Ceu<B>.<BR><BD>Que tal trabalharmos<BR>juntos e descobrirmos<BR>o segredo das <B>Runas<B>?<BR>{fc:00005001c7}Vai tentar tomar<BR>esta <B>Runa<B> a forca?<BR>{fc:00009a01c7}Eu tambem nao quero<BR>lutar com voce.,TRADUZIDO,ate v6
+main2,9,0x70358,143,{fc:a1007801c7}Sei que procura<BR>a <B>Runa do Ceu<B>.<BR><BD>Mas nao vou entrega-la.<BR><BD>Vai ter que tira-la<BR>de mim.<BR>{fc:00009a01c7}Tambem nao quero<BR>lutar com voce.,TRADUZIDO,ate v6
+main2,10,0x703e8,33,Primeiro ajude<BR>seus amigos.,TRADUZIDO,v7 - revisado
+main2,11,0x7040a,24,<B>Kamil<B> se uniu.<BR>{f6:0a}{f6:04},TRADUZIDO,ate v6
+main2,12,0x70423,173,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Olvan<B><BR>{fc:8e00e508c7}{fc:6f00b830c7}{fc:9800d707c7}{fc:6a009a08c7}Ha quanto tempo!<BR>Como vai voce?<BR><BD>Quer viajar comigo<BR>se nao tiver planos?<BR>{fc:0000a807c7}Tudo bem.<BR>Se mudar de ideia,<BR>me avise.",TRADUZIDO,ate v6
+main2,13,0x704d1,160,{fc:0b00e531c7}{fc:0c00e831c7}<B>Olvan<B><BR>{fc:8e00e508c7}{fc:6f00b830c7}{fc:9800d707c7}{fc:6a003308c7}Que bom ver voce!<BR><BD>Estava a sua procura.<BR><BD>Quer ser meu parceiro<BR>nesta jornada?<BR>{fc:0000a807c7}Tem certeza?<BR>{fb:0000a807c7}Talvez outra hora.,TRADUZIDO,ate v6
+main2,14,0x70572,103,{fc:0b00e531c7}{fc:0c00e831c7}<B>Olvan<B><BR>{fc:8e00e508c7}{fc:6f00b830c7}{fc:9800d707c7}{fc:6a003308c7}Prefiro viajar sozinho.<BR><BD>Ate nos vermos de novo.,TRADUZIDO,ate v6
+main2,15,0x705da,138,{fc:0b00e531c7}{fc:0c00e831c7}<B>Olvan<B><BR>{fc:8e008d09c7}{fc:6f00b830c7}{fc:9800d707c7}{fc:6a009a08c7}Minhas costas doem<BR>demais para viajar.<BR><BD>Volte a me convidar<BR>depois de lutar um pouco<BR>e ganhar experiencia.,TRADUZIDO,ate v6
+main2,16,0x70665,195,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Olvan<B><BR>{fc:8e008d09c7}{fc:6f00b830c7}{fc:9800d707c7}<B><MC><B>, como vai?<BR><BD>Voce ficou bem forte.<BR><BD>Acha que ja pode<BR>me vencer agora?<BR>{fc:0000470ac7}Vamos ver quem<BR>e o mais forte!<BR>{fc:00001908c7}Foi tolice minha<BR>propor um duelo.",TRADUZIDO,ate v6
+main2,17,0x70729,126,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Olvan<B><BR>{fc:8e008d09c7}{fc:6f00b830c7}{fc:9800d707c7}{fc:6a009a08c7}<B><MC><B>, que bom<BR>ver voce!<BR><BD>Temos metas diferentes.<BR>Melhor seguir caminhos<BR>separados.",TRADUZIDO,ate v6
+main2,18,0x707a8,46,{fc:6f00550ac7}Nosso sonho vai<BR>se realizar!<BR><f3>{fd:8e00}{f6:1d}{ff:810ac7},TRADUZIDO,v7 - revisado
+main2,19,0x707d7,65,"<B><MC><B>, ja nos vimos<BR>varias vezes.<BR><BD>Agora vamos acertar<BR>as contas!<BR><f3>{f6:48}",TRADUZIDO,ate v6
+main2,20,0x70819,19,Venha!<BR><f3>{fe:9800}{fc:8e002d08c7}{f6:48},TRADUZIDO,ate v6
+main2,21,0x7082d,5,,PENDENTE,
+main2,22,0x70833,102,"<B><MC><B>, como vai?<BR><BD>O que? Conseguiu<BR>uma <B>Runa<B>?<BR><BD>Que maravilha!<BR>Posso ir com voce?<BR>{fc:0000a807c7}Uma pena...",TRADUZIDO,v7 - revisado
+main2,23,0x7089a,74,Voce tinha uma <B>Runa<B>?<BR><BD>Nao vou permitir que<BR>encontre as outras!<BR>{fb:0a001908c7},TRADUZIDO,ate v6
+main2,24,0x708e5,167,"{fc:a200d707c7}{fc:98008d09c7}<B><MC><B>, enfim achei<BR>a <B>Runa do Ceu<B>.<BR><BD>Que tal viajarmos<BR>juntos agora?<BR>{fc:0000a807c7}Nao?<BR>Quer tomar minha<BR><B>Runa<B> a forca?<BR>{fc:00001908c7}Concordo. Lutar nao<BR>e a solucao.",TRADUZIDO,ate v6
+main2,25,0x7098d,185,"{fc:a200d707c7}<B><MC><B>, como vai?<BR>Encontrei a <B>Runa do Ceu<B><BR>depois da ultima vez.<BR><BD>Sei que tambem a queria,<BR>mas agora e minha.<BR><BD>So vai consegui-la<BR>se me vencer.<BR>Quer lutar?<BR>{fc:00001908c7}Nunca vai consegui-la!",TRADUZIDO,ate v6
+main2,26,0x70a47,13,Eu sabia.,TRADUZIDO,ate v6
+main2,27,0x70a55,43,"Antes de me unir,<BR>va ajudar seu amigo<BR>desaparecido.",TRADUZIDO,v7 - revisado
+main2,28,0x70a81,23,<B>Olvan<B> se uniu.<BR>{f6:0a}{f6:04},TRADUZIDO,ate v6
+main2,29,0x70a99,236,{fc:0b00e531c7}{fc:0c00e831c7}<B>Esuna<B><BR>{fc:8f004910c7}{fc:6f00d630c7}{fc:9900d20ec7}{fc:6a003f0fc7}Ola! Lembra de mim?<BR><BD>Sou <B>Esuna<B>.<BR><BD>Surpreendente como<BR>nos dois chegamos longe!<BR><BD>Que tal nos ajudarmos?<BR>Quer tentar?<BR>{fc:0000a40ec7}Tudo bem.<BR>Ha outros companheiros.,TRADUZIDO,ate v6
+main2,30,0x70b86,243,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Esuna<B><BR>{fc:8f004910c7}{fc:6f00d630c7}{fc:9900d20ec7}{fc:6a003f0fc7}<B><MC><B>, procurei voce!<BR><BD>Descobri que viajar so<BR>nao e tao bom assim.<BR><BD>Que tal me ajudar?<BR>Tem interesse?<BR>{fc:0000a40ec7}Nao vai reconsiderar?<BR>{fb:0000a40ec7}Nao acha que presto?<BR>Obrigado por nada!",TRADUZIDO,ate v6
+main2,31,0x70c7a,85,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Esuna<B><BR>{fc:8f005e11c7}{fc:6f00d630c7}{fc:9900d20ec7}{fc:6a00f20fc7}Desculpe, mas prefiro<BR>viajar sozinha.",TRADUZIDO,ate v6
+main2,32,0x70cd0,184,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Esuna<B><BR>{fc:8f005e11c7}{fc:6f00d630c7}{fc:9900d20ec7}<B><MC><B>, voce por aqui?<BR><BD>Estou meio desanimada.<BR><BD>Esta jornada mostrou<BR>que sei muito pouco.<BR><BD>Preciso recomecar<BR>desde o inicio.",TRADUZIDO,ate v6
+main2,33,0x70d89,191,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Esuna<B><BR>{fc:8f005e11c7}{fc:6f00d630c7}{fc:9900d20ec7}{fc:6a00f20fc7}<B><MC><B>, como vai?<BR>Parece bem mais forte.<BR><BD>Eu tambem melhorei<BR>desde que nos vimos.<BR><BD>Vamos lutar e ver<BR>quem esta mais forte?<BR>{fc:0000050fc7}Voce nao quer?<BR>Que surpresa!",TRADUZIDO,ate v6
+main2,34,0x70e49,90,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Esuna<B><BR>{fc:8f005e11c7}{fc:6f00d630c7}{fc:9900d20ec7}{fc:6a00f20fc7}<B><MC><B>, ola!<BR><BD>Preciso ir logo.",TRADUZIDO,ate v6
+main2,35,0x70ea4,45,{fc:6f002312c7}Claro! Vamos juntos!<BR><f3>{fd:8f00}{f6:1d}{ff:4712c7},TRADUZIDO,v7 - revisado
+main2,36,0x70ed2,50,Parece que chegou<BR>a hora do duelo final.<BR><f3>{f6:48},TRADUZIDO,ate v6
+main2,37,0x70f05,51,Preciso lutar com voce!<BR><f3>{fe:9900}{fc:8f00390fc7}{f6:48},TRADUZIDO,ate v6
+main2,38,0x70f39,5,,PENDENTE,
+main2,39,0x70f3f,178,"<B><MC><B>, soube que<BR>achou uma <B>Runa<B>.<BR><BD>Fiquei com sentimentos<BR>misturados ao saber.<BR><BD>Mas quer que eu<BR>entre no seu grupo?<BR>{fc:0000a40ec7}Entendo. Que pena!<BR>Seria uma otima aliada.",TRADUZIDO,ate v6
+main2,40,0x70ff2,86,Voce tem a <B>Runa<B>!<BR><BD>Ela deveria ser minha.<BR>Vou toma-la a forca!<BR><f3>{fe:9900}{f6:48},TRADUZIDO,ate v6
+main2,41,0x71049,276,"{fc:a300d20ec7}{fc:99005e11c7}<B><MC><B>, olhe!<BR>Finalmente consegui<BR>a <B>Runa do Ceu<B>!<BR><BD>Agora quer me ajudar<BR>a buscar as outras?<BR>{fc:0000a40ec7}Voce quer tirar<BR>minha <B>Runa<B> de mim?<BR><BD>Nao acredito nisso!<BR>Sabe o que esta dizendo?<BR>{fc:0000050fc7}Decida-se logo!<BR>Odeio indecisao.",TRADUZIDO,ate v6
+main2,42,0x7115e,196,"{fc:a300d20ec7}<B><MC><B>, enfim achei<BR>a <B>Runa do Ceu<B>.<BR><BD>E minha e nao pretendo<BR>dividi-la com ninguem.<BR><BD>Se quiser, tera<BR>que lutar por ela.<BR><BD>Tem coragem?<BR>Vai me enfrentar?<BR>{fc:0000050fc7}Voce nao merece.",TRADUZIDO,ate v6
+main2,43,0x71223,35,Ajude seu amigo<BR>antes de me chamar.,TRADUZIDO,v7 - revisado
+main2,44,0x71247,24,<B>Esuna<B> se uniu.<BR>{f6:0a}{f6:04},TRADUZIDO,ate v6
+main2,45,0x71260,180,{fc:0b00e531c7}{fc:0c00e831c7}<B>Wilme<B><BR>{fc:90006c17c7}{fc:6f00f430c7}{fc:9a000716c7}{fc:6a00b516c7}Ola!<BR>Ja nos vimos antes.<BR>Lembra de mim?<BD>Talvez seja o destino.<BD>Quer viajar comigo?<BR>{fc:0000cb15c7}Entendo.<BR>Nos veremos de novo.,TRADUZIDO,ate v6
+main2,46,0x71315,212,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Wilme<B><BR>{fc:9000f116c7}{fc:6f00f430c7}{fc:9a000716c7}{fc:6a005516c7}<B><MC><B>, procurava voce.<BD>Viajar sozinho pode<BR>ser complicado.<BD>Por isso busco alguem<BR>para me acompanhar.<BR>Tem interesse?<BR>{fc:0000cb15c7}Vai recusar?<BR>{fb:0000cb15c7}Tudo bem. Entendi.",TRADUZIDO,ate v6
+main2,47,0x713ea,75,{fc:0b00e531c7}{fc:0c00e831c7}<B>Wilme<B><BR>{fc:90006c17c7}{fc:6f00f430c7}{fc:9a000716c7}{fc:6a00b516c7}Estou de mau humor.<BR>Nao se aproxime.,TRADUZIDO,ate v6
+main2,48,0x71436,89,{fc:0b00e531c7}{fc:0c00e831c7}<B>Wilme<B><BR>{fc:90006c17c7}{fc:6f00f430c7}{fc:9a000716c7}{fc:6a00b516c7}Viajaria com voce<BR>se fosse mais forte.,TRADUZIDO,ate v6
+main2,49,0x71490,175,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Wilme<B><BR>{fc:90006c17c7}{fc:6f00f430c7}{fc:9a000716c7}{fc:6a00b516c7}Soube que sua busca<BR>esta dando certo.<BD>Se confia tanto em si,<BR>mostre como luta comigo!<BR>{fc:00003816c7}Entao era tudo fachada?",TRADUZIDO,ate v6
+main2,50,0x71540,138,{fc:0b00e531c7}{fc:0c00e831c7}<B>Wilme<B><BR>{fc:90006c17c7}{fc:6f00f430c7}{fc:9a000716c7}{fc:6a00b516c7}Ja nos conhecemos e<BR>nao nos damos bem.<BD>Prefiro que nao apareca<BR>por algum tempo.,TRADUZIDO,ate v6
+main2,51,0x715cb,59,{fc:6f00e803c7}A viagem sera mais<BR>facil. Conte comigo.<BR><f3>{fd:9000}{f6:1d}{ff:d317c7},TRADUZIDO,ate v6
+main2,52,0x71607,48,Quero enfrenta-lo<BR>mais uma vez.<BR>Prepare-se!<BR><f3>{f6:48},TRADUZIDO,ate v6
+main2,53,0x71638,22,Prepare-se!<BR><f3>{fe:9a00}{fc:90004f16c7}{f6:48},TRADUZIDO,ate v6
+main2,54,0x7164f,5,,PENDENTE,
+main2,55,0x71655,95,"Soube que achou uma<BR><B>Runa<B>. Parabens!<BD>Se precisar de ajuda,<BR>pode contar comigo.<BR>{f6:1d}",TRADUZIDO,ate v6
+main2,56,0x716b5,59,Voce tinha uma <B>Runa<B>?!<BD>Ela sera minha.<BR>Entregue-a!<BR><f3>{fe:9a00}{f6:48},TRADUZIDO,ate v6
+main2,57,0x716f1,122,{fc:a4000716c7}{fc:9a006c17c7}Veja! Enfim achei<BR>uma <B>Runa<B>!<BD>Posso deixa-lo entrar<BR>em meu grupo.<BR>{fc:0000cb15c7}Que ingrato!<BR><f3>{fe:9a00}{fe:a400}{f6:48},TRADUZIDO,ate v6
+main2,58,0x7176c,102,{fc:a4000716c7}Olhe minha <B>Runa<B>!<BD>Quer ficar com ela?<BR>Entao tera que<BR>toma-la de mim!<BR>{fc:00003816c7}Que fraqueza!,TRADUZIDO,ate v6
+main2,59,0x717d3,23,<B>Wilme<B> se uniu.<BR>{f6:0a}{f6:04},TRADUZIDO,ate v6
+main2,60,0x717eb,175,"{fc:0b00e531c7}{fc:0c00e831c7}<B>LUX<B><BR>{fc:9100961cc7}{fc:6f003931c7}{fc:9b00531bc7}{fc:6a00a11bc7}SOU <B>LUX<B>. E BOM<BR>REVER VOCE.<BD>SE ME DEIXAR ENTRAR<BR>NO GRUPO, SEREI UTIL.<BD>ACEITA?<BR>{fc:0000121bc7}SEM PROBLEMA.",TRADUZIDO,ate v6
+main2,61,0x7189b,182,"{fc:0b00e531c7}{fc:0c00e831c7}<B>LUX<B><BR>{fc:9100961cc7}{fc:6f003931c7}{fc:9b00531bc7}{fc:6a00a11bc7}<B><MC><B>, COMO VAI?<BD>PRECISO DE SUA AJUDA.<BD>ACEITA VIAJAR COMIGO?<BR>{fc:0000121bc7}QUE PENA.<BR>MAS COMPREENDO.",TRADUZIDO,ate v6
+main2,62,0x71952,119,{fc:0b00e531c7}{fc:0c00e831c7}<B>LUX<B><BR>{fc:9100a31dc7}{fc:6f003931c7}{fc:9b00531bc7}MEU SISTEMA CENTRAL...<BD>...MEU CEREBRO...<BD>...ESTA COM DEFEITO.<BD>GI... GI... GI...,TRADUZIDO,ate v6
+main2,63,0x719ca,74,{fc:0b00e531c7}{fc:0c00e831c7}<B>LUX<B><BR>{fc:9100a31dc7}{fc:6f003931c7}{fc:9b00531bc7}COMPUTADOR COM DEFEITO.<BR>AGUARDE.,TRADUZIDO,ate v6
+main2,64,0x71a15,186,{fc:0b00e531c7}{fc:0c00e831c7}<B>LUX<B><BR>{fc:9100961cc7}{fc:6f003931c7}{fc:9b00531bc7}{fc:6a00a11bc7}SEMPRE RESPEITEI<BR>SUA FORCA.<BD>DESEJO ENFRENTA-LO<BR>PARA TESTAR A MINHA.<BD>ACEITA O DESAFIO?<BR>{fc:0000811bc7}DEVE TER SUAS RAZOES.,TRADUZIDO,ate v6
+main2,65,0x71ad0,65,{fc:0b00e531c7}{fc:0c00e831c7}<B>LUX<B><BR>{fc:9100a31dc7}{fc:6f003931c7}{fc:9b00531bc7}{fc:6a00321cc7}NAO ENTENDO VOCE.,TRADUZIDO,ate v6
+main2,66,0x71b12,64,{fc:6f00321ec7}OBRIGADO.<BR>DIGA O QUE DEVO FAZER.<BR><f3>{fd:9100}{f6:1d}{ff:551ec7},TRADUZIDO,ate v6
+main2,67,0x71b53,45,VOU DESAFIA-LO<BR>QUANDO NOS REVERMOS.<BR><f3>{f6:48},TRADUZIDO,ate v6
+main2,68,0x71b81,25,VAMOS!<BR><f3>{fe:9b00}{fc:91009b1bc7}{f6:48},TRADUZIDO,ate v6
+main2,69,0x71b9b,5,,PENDENTE,
+main2,70,0x71ba1,144,ACHEI QUE TIVESSE<BR>ENCONTRADO A <B>RUNA<B>.<BD>POSSO AJUDA-LO?<BD>ACEITA MINHA COMPANHIA?<BR>{fc:0000121bc7}QUE DECEPCAO.,TRADUZIDO,ate v6
+main2,71,0x71c32,99,ATENCAO! ATENCAO!<BD>PRECISO DA <B>RUNA<B><BR>QUE VOCE CARREGA<BR>PARA CUMPRIR A MISSAO.<BR><f3>{fe:9b00}{f6:48},TRADUZIDO,ate v6
+main2,72,0x71c96,268,{fc:a500531bc7}{fc:9b00a31dc7}TAMBEM ENCONTREI<BR>UMA DAS <B>RUNAS<B>.<BD>GOSTARIA DE BUSCAR<BR>AS OUTRAS COM VOCE.<BD>ACEITA VIR COMIGO?<BR>{fc:0000121bc7}MAS SO TERA ESTA<BR><B>RUNA<B> SE ME DESTRUIR.<BD>E ISSO QUE DESEJA?<BR>{fc:0000811bc7}PRECISO DE ALGUEM<BR>PARA PARTILHAR A VIDA.,TRADUZIDO,ate v6
+main2,73,0x71da3,142,{fc:a500531bc7}AJUDE SEU COMPANHEIRO<BR>PRIMEIRO.<BD>ALERTA! ALERTA!<BR>MEU COMPUTADOR INDICA<BR>QUE QUER ROUBAR A <B>RUNA<B>.<BD>ATIVANDO DEFESA!<BR><f3>{fe:9b00}{fe:a500}{f6:48},TRADUZIDO,ate v6
+main2,74,0x71e32,34,AJUDE SEU COMPANHEIRO<BR>PRIMEIRO.,TRADUZIDO,ate v6
+main2,75,0x71e55,22,<B>LUX<B> se uniu.<BR>{f6:0a}{f6:04},TRADUZIDO,ate v6
+main2,76,0x71e6c,128,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Valsu<B><BR>{fc:92009923c7}{fc:6f005331c7}{fc:9c001b22c7}{fc:6a00a622c7}<B><MC><B>, que bom<BR>rever voce!<BD>Queria convida-lo<BR>para meu grupo.<BR>{fc:0000e621c7}Tudo bem.",TRADUZIDO,ate v6
+main2,77,0x71eed,243,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Valsu<B><BR>{fc:92009923c7}{fc:6f005331c7}{fc:9c001b22c7}{fc:6a00a622c7}<B><MC><B>, enfim o achei.<BD>Preciso de sua ajuda<BR>para cumprir a missao.<BD>Quer vir comigo?<BR>{fc:0000e621c7}Tem algo contra mim?<BR>{fb:0000e621c7}Entendo...<BR>Desisto do convite.",TRADUZIDO,ate v6
+main2,78,0x71fe1,114,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Valsu<B><BR>{fc:9200b924c7}{fc:6f005331c7}{fc:9c001b22c7}Comeco a duvidar<BR>do proposito da missao.<BD>De todo modo, vou<BR>seguir minhas crencas.",TRADUZIDO,ate v6
+main2,79,0x72054,103,{fc:0b00e531c7}{fc:0c00e831c7}<B>Valsu<B><BR>{fc:9200b924c7}{fc:6f005331c7}{fc:9c001b22c7}Estou ocupado com<BR>um projeto.<BD>Pode falar comigo<BR>quando eu terminar?,TRADUZIDO,ate v6
+main2,80,0x720bc,191,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Valsu<B><BR>{fc:9200b924c7}{fc:6f005331c7}{fc:9c001b22c7}<B><MC><B>, suas habilidades<BR>melhoraram bastante.<BD>Se quiser me desafiar,<BR>aceitarei. E entao?<BR>{fc:00007322c7}Tem razao.<BR>Amigos nao devem lutar.",TRADUZIDO,ate v6
+main2,81,0x7217c,105,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Valsu<B><BR>{fc:9200b924c7}{fc:6f005331c7}{fc:9c001b22c7}{fc:6a004623c7}Desculpe, nao posso<BR>acompanha-lo.<BD>Nao posso confiar<BR>em voce.",TRADUZIDO,v7 - revisado
+main2,82,0x721e6,52,{fc:6f002e25c7}Que tenhamos uma<BR>viagem tranquila!<BR><f3>{fd:9200}{f6:1d}{ff:5025c7},TRADUZIDO,ate v6
+main2,83,0x7221b,87,Vamos lutar outra vez.<BD>E nosso destino.<BR>So um vencera.<BR>Vamos resolver isso!<BR><f3>{f6:48},TRADUZIDO,v7 - revisado
+main2,84,0x72273,44,Forca e lealdade!<BR><f3>{fe:9c00}{fc:9200a022c7}{f6:48},TRADUZIDO,ate v6
+main2,85,0x722a0,5,,PENDENTE,
+main2,86,0x722a6,159,Sabia que encontraria<BR>uma <B>Runa<B>.<BD>Gostaria de ajuda-lo.<BR>Voce aceita?<BR>{fc:0000e621c7}Entendo.<BR>Talvez nos vejamos<BR>outra vez. Adeus.,TRADUZIDO,ate v6
+main2,87,0x72346,82,Nao posso deixar voce<BR>usar as <B>Runas<B> em<BR>proveito proprio.<BD>Devo impedi-lo.<BR><f3>{fe:9c00}{f6:48},TRADUZIDO,ate v6
+main2,88,0x72399,287,"{fc:a6001b22c7}{fc:9c00b924c7}Olhe, <B><MC><B>.<BR>Esta e a <B>Runa do Ceu<B>.<BD>Foi dificil encontra-la.<BD>Sei que voce tambem<BR>a deseja.<BD>Nao vai rouba-la,<BR>vai?<BR>{fc:00007322c7}Eu sabia que nao.<BD>Quer viajar comigo?<BR>Seriamos bons parceiros.<BR>{fc:0000e621c7}Tudo bem.<BD>Deve ter suas razoes.<BR>Boa viagem.",TRADUZIDO,ate v6
+main2,89,0x724b9,116,"{fc:a6001b22c7}<B><MC><B>, enfim achei<BR>a <B>Runa do Ceu<B>.<BD>Nao tenho nada contra<BR>voce, mas preciso lutar.<BR><f3>{fe:9c00}{fe:a600}{f6:48}",TRADUZIDO,ate v6
+main2,90,0x7252e,33,Ajude seu companheiro<BR>primeiro.,TRADUZIDO,ate v6
+main2,91,0x72550,24,<B>Valsu<B> se uniu.<BR>{f6:0a}{f6:04},TRADUZIDO,ate v6
+main2,92,0x72569,178,{fc:0b00e531c7}{fc:0c00e831c7}<B>Lejes<B><BR>{fc:9300ea2bc7}{fc:6f00aa31c7}{fc:9d00c529c7}{fc:6a00f22ac7}Que coincidencia!<BR>Eu procurava voce.<BD>Venha comigo.<BR>Juntos seremos fortes.<BR>{fc:0000a129c7}Nao?!<BR>Vai se arrepender!,TRADUZIDO,ate v6
+main2,93,0x7261c,230,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Lejes<B><BR>{fc:93003f2bc7}{fc:6f00aa31c7}{fc:9d00c529c7}{fc:6a002b2ac7}<B><MC><B>, que surpresa!<BD>Nao achei que chegaria<BR>tao longe.<BD>Parece cansado.<BR>Esta dificil?<BD>Posso ajuda-lo.<BR>Precisa de mim?<BR>{fc:0000a129c7}Nao vou insistir.<BD>O problema e seu.",TRADUZIDO,ate v6
+main2,94,0x72703,180,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Lejes<B><BR>{fc:9300ea2bc7}{fc:6f00aa31c7}{fc:9d00c529c7}{fc:6a00f22ac7}<B><MC><B>, alguma novidade?<BD>Voce continua igual.<BD>Precisa treinar mais<BR>para competir comigo.<BD>Duvido que consiga.",TRADUZIDO,ate v6
+main2,95,0x727b8,177,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Lejes<B><BR>{fc:9300ea2bc7}{fc:6f00aa31c7}{fc:9d00c529c7}{fc:6a00f22ac7}<B><MC><B>, leva mesmo<BR>a serio essa busca<BR>pelas <B>Runas<B>?<BD>Voce nao as encontrara.<BD>E mesmo que encontre,<BR>eu vou toma-las.",TRADUZIDO,ate v6
+main2,96,0x7286a,209,"{fc:0b00e531c7}{fc:0c00e831c7}<B>Lejes<B><BR>{fc:9300ea2bc7}{fc:6f00aa31c7}{fc:9d00c529c7}{fc:6a00f22ac7}<B><MC><B>, aprendeu bastante.<BD>Mas ainda nao<BR>chega aos meus pes.<BD>Ficou ofendido?<BR>Entao me desafie!<BR>{fc:0000182ac7}Bem que eu pensei.<BR>Desista da missao.<BR>Voce nao tem chance.",TRADUZIDO,ate v6
+main2,97,0x7293c,100,{fc:0b00e531c7}{fc:0c00e831c7}<B>Lejes<B><BR>{fc:9300ea2bc7}{fc:6f00aa31c7}{fc:9d00c529c7}{fc:6a00f22ac7}Voce me irrita demais.<BD>Um dia resolveremos<BR>nossas diferencas!,TRADUZIDO,ate v6
+main2,98,0x729a1,35,{fc:6f00e803c7}Pode contar comigo!<BR><f3>{fd:9300}{f6:1d}{ff:4f2cc7},TRADUZIDO,ate v6
+main2,99,0x729c5,82,Esperava encontra-lo.<BD>Temos contas a acertar.<BR>Vamos acabar com isso!<BR><f3>{f6:48},TRADUZIDO,ate v6
+main2,100,0x72a18,18,Vai morrer!<BR><f3>{fe:9d00}{f6:48},TRADUZIDO,ate v6
+main2,101,0x72a2b,198,Surpreende-me que tenha<BR>achado uma das <B>Runas<B>.<BD>As outras nao serao<BR>faceis de conseguir.<BD>Tem algum plano?<BR>Precisa de protecao?<BD>Quer que eu acompanhe<BR>voce?<BR>{fc:0000a129c7}Nao confia em mim?<BD>Pouco me importa.<BR>O problema e seu!,TRADUZIDO,ate v6
+main2,102,0x72af2,76,Otimo! Voce poupou<BR>meu trabalho de buscar<BR>a <B>Runa<B>.<BD>Entregue-a!<BR><f3>{fe:9d00}{f6:48},TRADUZIDO,ate v6
+main2,103,0x72b3f,170,"{fc:a700c529c7}{fc:9d00ea2bc7}Procura a <B>Runa do Ceu<B>,<BR>nao e?<BD>Junte-se a mim.<BR>Seremos aliados fortes.<BR>{fc:0000a129c7}Se disser nao,<BR>morrera aqui!<BR><f3>{fe:a700}{fe:9d00}{f6:48}",TRADUZIDO,ate v6
+main2,104,0x72bea,100,"{fc:a700c529c7}Tambem achei uma <B>Runa<B>,<BR>a <B>Runa do Ceu<B>.<BD>Voce ameaca meus planos.<BR>Preciso impedi-lo.<BR><f3>{fe:a700}{fe:9d00}{f6:48}",TRADUZIDO,ate v6
+main2,105,0x72c4f,23,<B>Lejes<B> se uniu.<BR>{f6:0a}{f6:04},TRADUZIDO,ate v6
+main2,106,0x72c67,32,<B>Kamil<B><BR>Ate nos vermos de novo!,TRADUZIDO,v7 - revisado
+main2,107,0x72c88,16,<B>Olvan<B><BR>Cuide-se!,TRADUZIDO,ate v6
+main2,108,0x72c99,87,<B>Esuna<B><BR>Viajar com voce foi bom.<BD>Espero reve-lo um dia.,TRADUZIDO,v7 - revisado
+main2,109,0x72cf1,36,<B>Wilme<B><BR>Ainda sou mais forte!,TRADUZIDO,ate v6
+main2,110,0x72d16,56,"<B>LUX<B><BR>SE PRECISAR DE MIM,<BR>BASTA CHAMAR.",TRADUZIDO,ate v6
+main2,111,0x72d4f,69,<B>Valsu<B><BR>Espero que alcancemos<BR>nossos objetivos!<BD>Boa sorte!,TRADUZIDO,ate v6
+main2,112,0x72d95,49,<B>Lejes<B><BR>Quem sabe da proxima<BR>nos entendemos.<BD>Adeus!,TRADUZIDO,v7 - revisado
+main2,113,0x72dc7,52,<B><MC><B>:<BR><B>Runa do Ceu<B>!<BR>{fe:6c00}{fd:8d00}{fd:8e00}{fd:8f00}{fd:9000}{fd:9100}{fd:9200}{fd:9300}{f6:0a}{f6:04}{fd:8402},TRADUZIDO,v7 - revisado
+main2,114,0x72dfc,56,<B><MC><B>:<BR><B>Runa do Ceu<B>!<BR>{fe:6c00}{fd:8d00}{fd:8e00}{fd:8f00}{fd:9000}{fd:9100}{fd:9200}{fd:9300}{f6:0a}{f6:04}{fd:8402}{ff:cc32c7},TRADUZIDO,v7 - revisado
+main2,115,0x72e35,4,,PENDENTE,
+main2,116,0x72e3a,98,<B>Kamil<B><BR>Quero conhecer o<BR>segredo das <B>Runas<B>.<BD>Farei isso sozinho.<BD>Esta <B>Runa<B> e minha!<BR><f3>{fe:9700}{f6:5c},TRADUZIDO,ate v6
+main2,117,0x72e9d,4,,PENDENTE,
+main2,118,0x72ea2,88,<B>Olvan<B><BR>Nao pensamos igual.<BD>Seguirei sozinho.<BR>E levarei a <B>Runa<B>!<BR><f3>{fe:9800}{f6:5c},TRADUZIDO,ate v6
+main2,119,0x72efb,4,,PENDENTE,
+main2,120,0x72f00,40,"E dificil acreditar,<BR>mas tudo e possivel.",TRADUZIDO,ate v6
+main2,121,0x72f29,4,,PENDENTE,
+main2,122,0x72f2e,88,<B>Wilme<B><BR>Vamos nos separar.<BD>Eu me viro sozinho.<BR>Nao preciso de voce.<BR><f3>{fe:9a00}{f6:5c},TRADUZIDO,ate v6
+main2,123,0x72f87,4,,PENDENTE,
+main2,124,0x72f8c,47,<B>LUX<B><BR>VOCE E PERIGOSO!<BR>PRECISO REAGIR...<BR><f3>{fe:9b00}{f6:5c},TRADUZIDO,ate v6
+main2,125,0x72fbc,4,,PENDENTE,
+main2,126,0x72fc1,67,<B>Valsu<B><BR>Chega de mentir<BR>para mim mesmo.<BD>Preciso enfrenta-lo!<BR><f3>{fe:9c00}{f6:5c},TRADUZIDO,ate v6
+main2,127,0x73005,4,,PENDENTE,
+main2,128,0x7300a,123,"<B>Lejes<B><BR>Voce foi util, mas<BR>nao preciso mais<BR>de sua ajuda.<BD>Confie so em voce.<BR>Lembre-se disso no<BR><B>Mundo das Trevas<B>.<BR><f3>{fe:9d00}{f6:5c}",TRADUZIDO,ate v6
+main2,129,0x73086,0,,SEM TEXTO,
+main2,130,0x73087,0,,SEM TEXTO,
+main2,131,0x73088,0,,SEM TEXTO,
+main2,132,0x73089,46,Ajude seus amigos logo.<BR>Tenho pena deles.,TRADUZIDO,ate v6
+main2,133,0x730b8,29,Nao pretende ajudar<BR>seus amigos?,TRADUZIDO,v7 - revisado
+main2,134,0x730d6,29,Nao vai ajudar<BR>seus amigos?,TRADUZIDO,ate v6
+main2,135,0x730f4,68,"Era o que eu pensava.<BR>Se nao ajudar os amigos,<BR>ninguem ajudara voce.",TRADUZIDO,v7 - revisado
+main2,136,0x73139,25,AJUDE SEUS COMPANHEIROS.,TRADUZIDO,ate v6
+main2,137,0x73153,86,Seus amigos<BR>precisam de ajuda.<BD>Va logo a <B>Casa de Cura<B>.,TRADUZIDO,v7 - revisado
+main2,138,0x731aa,58,"Nao quer ajudar<BR>seu amigo?<BD>Bem, voce e quem sabe.",TRADUZIDO,v7 - revisado
+main2,139,0x731e5,2,,PENDENTE,
+main2,140,0x731e8,2,,PENDENTE,
+main2,141,0x731eb,0,,SEM TEXTO,
+main2,142,0x731ec,0,,SEM TEXTO,
+main2,143,0x731ed,6,,PENDENTE,
+main2,144,0x731f4,215,{fb:77021432c7}<B><MC><B> sem a<BR><B>Runa do Vento<B>!<BD>{fb:78023632c7}<B><MC><B> sem a<BR><B>Runa da Agua<B>!<BD>{fb:79025732c7}<B><MC><B> sem a<BR><B>Runa da Estrela<B>!<BD>{fb:7a027732c7}<B><MC><B> sem a<BR><B>Runa do Ceu<B>!<BD>{fb:7b029732c7}<B><MC><B> sem a<BR><B>Runa da Lua<B>!<BD>{fb:7c02b932c7}<B><MC><B> sem a<BR><B>Runa da Luz<B>!<BR>{fd:7702}{fd:7802}{fd:7902}{fd:7a02}{fd:7b02}{fd:7c02},TRADUZIDO,ate v6
+main3,0,0x741f7,300,Testar eventos?<BR>{fb:00000200c6}Retorno de Lemele<BR>{fb:00002542c7}{f6:3e}Apos vencer GORSIA<BR>{fb:00004342c7}{f6:71}{f6:3f}Voar de Mecha-Glider<BR>{fb:00005e42c7}{f6:46}Voar de aeronave<BR>{fb:00007542c7}{f6:60}Sumico de Melenam<BR>{fb:00009542c7}{f6:6b}Mudar parametros dos<BR>dialogos dos herois?<BR>{fb:0000c442c7}{f6:73}Ativar personagens<BR>inativos?<BR>{fb:0000f542c7}{f6:74}Mudar a configuracao<BR>dos personagens?<BR>{fb:00000200c6}{f6:75},TRADUZIDO,ate v6
+main3,1,0x74324,0,,SEM TEXTO,
+main3,2,0x74325,0,,SEM TEXTO,
+main3,3,0x74326,0,,SEM TEXTO,
+main3,4,0x74327,400,<B>Ativar flag de evento?<BR>{fb:00000200c6}Escolher hora atual?<BR>{fd:1a00}{fc:00007543c7}{fe:1a00}Incluir Brantu<BR>no grupo?<BR>{fb:00009b43c7}{fe:5b00}Fazer sabio abrir<BR>trilha da cidade 6?<BR>{fb:0000c743c7}{fe:0d01}Conversar com sabio<BR>8 vezes na cidade 8?<BR>{fb:0000fa43c7}{fe:1700}Encontrar Perole?<BR>{fb:00001344c7}{fe:6800}Voar de Mecha-Glider<BR>na cidade 22?<BR>{fb:00003e44c7}{fe:3000}Acelerar Foma?<BR>{fb:00006744c7}{fe:4700}{fe:4800}{fe:4900}{fe:b100}{fe:b200}Desafiar GORSIA?<BR>{fb:00009544c7}{f6:79}{f6:7a}{f6:7b}{f6:7c}{f6:7d}{f6:7e}{f6:7f}Testar codigo ASCII?<BR>{fb:00000200c6}{fb:0a004453c7},TRADUZIDO,ate v6
+main3,5,0x744b8,0,,SEM TEXTO,
+main3,6,0x744b9,20,Nada parece estranho.,TRADUZIDO,ate v6
+main3,7,0x744ce,23,Ninguem nessa<BR>direcao.,TRADUZIDO,ate v6
+main3,8,0x744e6,38,Olhar a <B>fonte<B><BR>fez voce se sentir bem.<BR>{f6:70},TRADUZIDO,ate v6
+main3,9,0x7450d,38,{fb:b6003445c7}<B><MC><B> tomou um <B>gole<BR>de agua<B>.<BR>{f6:78},TRADUZIDO,ate v6
+main3,10,0x74534,22,Ouco <B>agua correndo<B>.,TRADUZIDO,ate v6
+main3,11,0x7454b,21,Muitos <B>livros<B> aqui.,TRADUZIDO,ate v6
+main3,12,0x74561,26,Uma <B>estante<B><BR>na frente.,TRADUZIDO,ate v6
+main3,13,0x7457c,25,So uma <B>caixa<B> comum.,TRADUZIDO,ate v6
+main3,14,0x74596,10,<B>Quente<B>.,TRADUZIDO,ate v6
+main3,15,0x745a1,25,A <B>cama<B> parece<BR>confortavel.,TRADUZIDO,ate v6
+main3,16,0x745bb,34,Ha <B>armaduras<B><BR>resistentes.,TRADUZIDO,ate v6
+main3,17,0x745de,40,{fb:b600b944c7}Ha <B>armaduras<B><BR>resistentes.,TRADUZIDO,ate v6
+main3,18,0x74607,19,Ha varias <B>armas<B>.,TRADUZIDO,ate v6
+main3,19,0x7461b,25,{fb:b600b944c7}Ha varias <B>armas<B>.,TRADUZIDO,ate v6
+main3,20,0x74635,17,Ha muitos <B>jarros<B>.,TRADUZIDO,ate v6
+main3,21,0x74647,13,{fc:05005546c7}<B>Ai<B>!,TRADUZIDO,ate v6
+main3,22,0x74655,7,<B>Ai<B>!,TRADUZIDO,ate v6
+main3,23,0x7465d,22,{fc:e900a145c7}Uma <B>cama velha<B>.,TRADUZIDO,ate v6
+main3,24,0x74674,23,Ha uma <B>maquina<BR>estranha<B>.,TRADUZIDO,ate v6
+main3,25,0x7468c,26,A <B>lareira<B> se apagou.,TRADUZIDO,ate v6
+main3,26,0x746a7,24,A <B>agua<B> esta suja.,TRADUZIDO,ate v6
+main3,27,0x746c0,0,,SEM TEXTO,
+main3,28,0x746c1,23,Nao cabe mais nada.,TRADUZIDO,ate v6
+main3,29,0x746d9,58,{fc:bd020100c6}Achou <B>Opala<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:47}{fe:bd02},TRADUZIDO,ate v6
+main3,30,0x74714,65,{fc:be020100c6}Achou <B>Semente de Defesa<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:19}{fe:be02},TRADUZIDO,ate v6
+main3,31,0x74756,82,{fc:bf020100c6}Achou <B>Agua Magica<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:14}{fe:bf02},TRADUZIDO,ate v6
+main3,32,0x747a9,68,{fc:c0020100c6}Achou <B>Pocao 3<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:0d}{fe:c002},TRADUZIDO,ate v6
+main3,33,0x747ee,74,{fc:c1020100c6}Achou <B>Recuperador<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:15}{fe:c102},TRADUZIDO,ate v6
+main3,34,0x74839,67,{fc:c2020100c6}Achou <B>Topazio<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:49}{fe:c202},TRADUZIDO,ate v6
+main3,35,0x7487d,56,{fc:c3020100c6}Achou <B>Rubi<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:4a}{fe:c302},TRADUZIDO,ate v6
+main3,36,0x748b6,59,{fc:c4020100c6}Achou <B>Safira<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:4b}{fe:c402},TRADUZIDO,ate v6
+main3,37,0x748f2,66,{fc:c5020100c6}Achou <B>Esmeralda<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:4c}{fe:c502},TRADUZIDO,ate v6
+main3,38,0x74935,69,{fc:c6020100c6}Achou <B>Pocao 2<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:0c}{fe:c602},TRADUZIDO,ate v6
+main3,39,0x7497b,69,{fc:c7020100c6}Achou <B>Pocao 2<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:0c}{fe:c702},TRADUZIDO,ate v6
+main3,40,0x749c1,69,{fc:c8020100c6}Achou <B>Pocao 2<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:0c}{fe:c802},TRADUZIDO,ate v6
+main3,41,0x74a07,69,{fc:c9020100c6}Achou <B>Pocao 2<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:0c}{fe:c902},TRADUZIDO,ate v6
+main3,42,0x74a4d,69,{fc:ca020100c6}Achou <B>Pocao 2<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:0c}{fe:ca02},TRADUZIDO,ate v6
+main3,43,0x74a93,69,{fc:cb020100c6}Achou <B>Pocao 2<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:0c}{fe:cb02},TRADUZIDO,ate v6
+main3,44,0x74ad9,69,{fc:cc020100c6}Achou <B>Pocao 2<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:0c}{fe:cc02},TRADUZIDO,ate v6
+main3,45,0x74b1f,67,{fc:cd020100c6}Achou <B>Topazio<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:49}{fe:cd02},TRADUZIDO,ate v6
+main3,46,0x74b63,69,{fc:ce020100c6}Achou <B>Pocao 2<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:0c}{fe:ce02},TRADUZIDO,ate v6
+main3,47,0x74ba9,69,{fc:cf020100c6}Achou <B>Pocao 1<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:0b}{fe:cf02},TRADUZIDO,ate v6
+main3,48,0x74bef,70,{fc:d0020100c6}Achou <B>Mosquito<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:2d}{fe:d002},TRADUZIDO,ate v6
+main3,49,0x74c36,74,{fc:d1020100c6}Achou <B>Manto de Fogo<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:a2}{fe:d102},TRADUZIDO,ate v6
+main3,50,0x74c81,74,{fc:d2020100c6}Achou <B>Manto de Gelo<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:a3}{fe:d202},TRADUZIDO,ate v6
+main3,51,0x74ccc,71,{fc:d3020100c6}Achou <B>Casaco Marrom<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:b3}{fe:d302},TRADUZIDO,ate v6
+main3,52,0x74d14,68,{fc:d4020100c6}Achou <B>Amuleto<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:c1}{fe:d402},TRADUZIDO,ate v6
+main3,53,0x74d59,65,{fc:d5020100c6}Achou <B>Anel<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:c2}{fe:d502},TRADUZIDO,ate v6
+main3,54,0x74d9b,68,{fc:d6020100c6}Achou <B>Espelho<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:43}{fe:d602},TRADUZIDO,ate v6
+main3,55,0x74de0,75,{fc:d7020100c6}Achou <B>Quebra-escudo<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:39}{fe:d702},TRADUZIDO,ate v6
+main3,56,0x74e2c,69,{fc:d8020100c6}Achou <B>Bola de Vento<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:02}{fe:d802},TRADUZIDO,ate v6
+main3,57,0x74e72,75,{fc:d9020100c6}Achou <B>Frasco de Gelo<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:32}{fe:d902},TRADUZIDO,ate v6
+main3,58,0x74ebe,78,{fc:da020100c6}Achou <B>F. Agilidade<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:35}{fe:da02},TRADUZIDO,ate v6
+main3,59,0x74f0d,63,{fc:db020100c6}Achou <B>Semente de Forca<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:18}{fe:db02},TRADUZIDO,ate v6
+main3,60,0x74f4d,82,{fc:dc020100c6}Achou <B>Agua Magica<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:14}{fe:dc02},TRADUZIDO,ate v6
+main3,61,0x74fa0,78,{fc:dd020100c6}Achou <B>Frasco Fossil<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:34}{fe:dd02},TRADUZIDO,ate v6
+main3,62,0x74fef,65,{fc:de020100c6}Achou <B>Erva PM 2<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:12}{fe:de02},TRADUZIDO,ate v6
+main3,63,0x75031,68,{fc:df020100c6}Achou <B>Pocao 3<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:0d}{fe:df02},TRADUZIDO,ate v6
+main3,64,0x75076,76,{fc:e0020100c6}Achou <B>Frasco de Forca<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:29}{fe:e002},TRADUZIDO,ate v6
+main3,65,0x750c3,70,{fc:e1020100c6}Achou <B>Portal<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:01}{fe:e102},TRADUZIDO,ate v6
+main3,66,0x7510a,68,{fc:e2020100c6}Achou <B>Vacuo<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:3a}{fe:e202},TRADUZIDO,ate v6
+main3,67,0x7514f,68,{fc:e3020100c6}Achou <B>Frasco de Gelo<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:32}{fe:e302},TRADUZIDO,ate v6
+main3,68,0x75194,75,{fc:e4020100c6}Achou <B>Frasco de Fogo<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:30}{fe:e402},TRADUZIDO,ate v6
+main3,69,0x751e0,75,{fc:e5020100c6}Achou <B>Frasco de Fogo<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:30}{fe:e502},TRADUZIDO,ate v6
+main3,70,0x7522c,69,{fc:e6020100c6}Achou <B>Recuperador<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:15}{fe:e602},TRADUZIDO,ate v6
+main3,71,0x75272,60,{fc:e7020100c6}Achou <B>Harpa<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:44}{fe:e702},TRADUZIDO,ate v6
+main3,72,0x752af,82,{fc:e8020100c6}Achou <B>Agua Magica<B>.<BR>Quer pegar?<BR>{fb:00000200c6}{f6:76}{f6:14}{fe:e802},TRADUZIDO,ate v6
+misc1,0,0x733c2,6,,PENDENTE,
+misc1,1,0x733c9,7,,PENDENTE,
+misc1,2,0x733d1,5,,PENDENTE,
+misc1,3,0x733d7,6,,PENDENTE,
+misc1,4,0x733de,7,,PENDENTE,
+misc1,5,0x733e6,5,,PENDENTE,
+misc1,6,0x733ec,4,,PENDENTE,
+misc1,7,0x733f1,5,,PENDENTE,
+misc1,8,0x733f7,6,,PENDENTE,
+misc1,9,0x733fe,4,,PENDENTE,
+misc1,10,0x73403,7,,PENDENTE,
+misc1,11,0x7340b,7,,PENDENTE,
+misc1,12,0x73413,7,,PENDENTE,
+misc1,13,0x7341b,4,,PENDENTE,
+misc1,14,0x73420,4,,PENDENTE,
+misc1,15,0x73425,5,,PENDENTE,
+misc1,16,0x7342b,5,,PENDENTE,
+misc1,17,0x73431,6,,PENDENTE,
+misc1,18,0x73438,7,,PENDENTE,
+misc1,19,0x73440,7,,PENDENTE,
+misc1,20,0x73448,6,,PENDENTE,
+misc1,21,0x7344f,5,,PENDENTE,
+misc1,22,0x73455,7,,PENDENTE,
+misc1,23,0x7345d,6,,PENDENTE,
+misc1,24,0x73464,0,,SEM TEXTO,
+misc1,25,0x73465,6,,PENDENTE,
+misc1,26,0x7346c,6,,PENDENTE,
+misc1,27,0x73473,7,,PENDENTE,
+misc1,28,0x7347b,7,,PENDENTE,
+misc1,29,0x73483,6,,PENDENTE,
+misc1,30,0x7348a,6,,PENDENTE,
+misc1,31,0x73491,5,,PENDENTE,
+misc1,32,0x73497,7,,PENDENTE,
+misc1,33,0x7349f,7,DIRIGIV,TRADUZIDO,ate v6
+misc1,34,0x734a7,6,,PENDENTE,
+misc1,35,0x734ae,7,,PENDENTE,
+misc1,36,0x734b6,7,,PENDENTE,
+misc1,37,0x734be,4,,PENDENTE,
+misc1,38,0x734c3,0,,SEM TEXTO,
+misc1,39,0x734c4,0,,SEM TEXTO,
+misc1,40,0x734c5,0,,SEM TEXTO,
+misc1,41,0x734c6,0,,SEM TEXTO,
+misc1,42,0x734c7,0,,SEM TEXTO,
+misc1,43,0x734c8,0,,SEM TEXTO,
+misc1,44,0x734c9,0,,SEM TEXTO,
+misc1,45,0x734ca,0,,SEM TEXTO,
+misc1,46,0x734cb,0,,SEM TEXTO,
+misc1,47,0x734cc,0,,SEM TEXTO,
+misc1,48,0x734cd,0,,SEM TEXTO,
+misc1,49,0x734ce,0,,SEM TEXTO,
+misc1,50,0x734cf,5,,PENDENTE,
+misc1,51,0x734d5,5,,PENDENTE,
+misc1,52,0x734db,5,,PENDENTE,
+misc1,53,0x734e1,5,,PENDENTE,
+misc1,54,0x734e7,3,,PENDENTE,
+misc1,55,0x734eb,5,,PENDENTE,
+misc1,56,0x734f1,5,,PENDENTE,
+misc1,57,0x734f7,0,,SEM TEXTO,
+misc1,58,0x734f8,0,,SEM TEXTO,
+misc1,59,0x734f9,0,,SEM TEXTO,
+misc1,60,0x734fa,0,,SEM TEXTO,
+misc1,61,0x734fb,0,,SEM TEXTO,
+misc1,62,0x734fc,0,,SEM TEXTO,
+misc1,63,0x734fd,0,,SEM TEXTO,
+misc1,64,0x734fe,0,,SEM TEXTO,
+misc1,65,0x734ff,7,Portal,TRADUZIDO,ate v6
+misc1,66,0x73507,7,B Vento,TRADUZIDO,ate v6
+misc1,67,0x7350f,3,Map,TRADUZIDO,ate v6
+misc1,68,0x73513,0,,SEM TEXTO,
+misc1,69,0x73514,0,,SEM TEXTO,
+misc1,70,0x73515,0,,SEM TEXTO,
+misc1,71,0x73516,0,,SEM TEXTO,
+misc1,72,0x73517,0,,SEM TEXTO,
+misc1,73,0x73518,0,,SEM TEXTO,
+misc1,74,0x73519,0,,SEM TEXTO,
+misc1,75,0x7351a,6,Poc. <1>,TRADUZIDO,ate v6
+misc1,76,0x73521,6,Poc. <2>,TRADUZIDO,ate v6
+misc1,77,0x73528,6,Poc. <3>,TRADUZIDO,ate v6
+misc1,78,0x7352f,0,,SEM TEXTO,
+misc1,79,0x73530,0,,SEM TEXTO,
+misc1,80,0x73531,0,,SEM TEXTO,
+misc1,81,0x73532,7,ErvaM <1>,TRADUZIDO,ate v6
+misc1,82,0x7353a,7,ErvaM <2>,TRADUZIDO,ate v6
+misc1,83,0x73542,5,Antid,TRADUZIDO,ate v6
+misc1,84,0x73548,7,Agua M,TRADUZIDO,ate v6
+misc1,85,0x73550,6,Revive,TRADUZIDO,ate v6
+misc1,86,0x73557,6,Sem V,TRADUZIDO,ate v6
+misc1,87,0x7355e,6,Sem M,TRADUZIDO,ate v6
+misc1,88,0x73565,6,Sem P,TRADUZIDO,ate v6
+misc1,89,0x7356c,7,Sem Pr,TRADUZIDO,ate v6
+misc1,90,0x73574,6,Sem I,TRADUZIDO,ate v6
+misc1,91,0x7357b,6,Sem A,TRADUZIDO,ate v6
+misc1,92,0x73582,0,,SEM TEXTO,
+misc1,93,0x73583,0,,SEM TEXTO,
+misc1,94,0x73584,0,,SEM TEXTO,
+misc1,95,0x73585,0,,SEM TEXTO,
+misc1,96,0x73586,0,,SEM TEXTO,
+misc1,97,0x73587,0,,SEM TEXTO,
+misc1,98,0x73588,0,,SEM TEXTO,
+misc1,99,0x73589,0,,SEM TEXTO,
+misc1,100,0x7358a,0,,SEM TEXTO,
+misc1,101,0x7358b,0,,SEM TEXTO,
+misc1,102,0x7358c,0,,SEM TEXTO,
+misc1,103,0x7358d,0,,SEM TEXTO,
+misc1,104,0x7358e,0,,SEM TEXTO,
+misc1,105,0x7358f,7,Poder B,TRADUZIDO,ate v6
+misc1,106,0x73597,0,,SEM TEXTO,
+misc1,107,0x73598,0,,SEM TEXTO,
+misc1,108,0x73599,0,,SEM TEXTO,
+misc1,109,0x7359a,7,Mosquit,TRADUZIDO,ate v6
+misc1,110,0x735a2,7,Suga MP,TRADUZIDO,ate v6
+misc1,111,0x735aa,0,,SEM TEXTO,
+misc1,112,0x735ab,6,Fogo B,TRADUZIDO,ate v6
+misc1,113,0x735b2,0,,SEM TEXTO,
+misc1,114,0x735b3,5,GeloB,TRADUZIDO,ate v6
+misc1,115,0x735b9,0,,SEM TEXTO,
+misc1,116,0x735ba,7,Fosil B,TRADUZIDO,ate v6
+misc1,117,0x735c2,7,Agil B,TRADUZIDO,ate v6
+misc1,118,0x735ca,0,,SEM TEXTO,
+misc1,119,0x735cb,0,,SEM TEXTO,
+misc1,120,0x735cc,7,Prot B,TRADUZIDO,ate v6
+misc1,121,0x735d4,7,Destroi,TRADUZIDO,ate v6
+misc1,122,0x735dc,6,Vacuo,TRADUZIDO,ate v6
+misc1,123,0x735e3,0,,SEM TEXTO,
+misc1,124,0x735e4,0,,SEM TEXTO,
+misc1,125,0x735e5,0,,SEM TEXTO,
+misc1,126,0x735e6,0,,SEM TEXTO,
+misc1,127,0x735e7,0,,SEM TEXTO,
+misc1,128,0x735e8,0,,SEM TEXTO,
+misc1,129,0x735e9,0,,SEM TEXTO,
+misc1,130,0x735ea,0,,SEM TEXTO,
+misc1,131,0x735eb,6,Espelh,TRADUZIDO,ate v6
+misc1,132,0x735f2,4,Harp,TRADUZIDO,ate v6
+misc1,133,0x735f7,0,,SEM TEXTO,
+misc1,134,0x735f8,0,,SEM TEXTO,
+misc1,135,0x735f9,4,,PENDENTE,
+misc1,136,0x735fe,5,,PENDENTE,
+misc1,137,0x73604,5,,PENDENTE,
+misc1,138,0x7360a,4,Rubi,TRADUZIDO,ate v6
+misc1,139,0x7360f,5,Safir,TRADUZIDO,ate v6
+misc1,140,0x73615,5,Esmer,TRADUZIDO,ate v6
+misc1,141,0x7361b,4,Diam,TRADUZIDO,ate v6
+misc1,142,0x73620,0,,SEM TEXTO,
+misc1,143,0x73621,0,,SEM TEXTO,
+misc1,144,0x73622,0,,SEM TEXTO,
+misc1,145,0x73623,6,Apito,TRADUZIDO,ate v6
+misc1,146,0x7362a,7,Luar,TRADUZIDO,ate v6
+misc1,147,0x73632,7,Chv Bri,TRADUZIDO,ate v6
+misc1,148,0x7363a,7,Contr R,TRADUZIDO,ate v6
+misc1,149,0x73642,6,Chv C,TRADUZIDO,ate v6
+misc1,150,0x73649,6,Carta,TRADUZIDO,ate v6
+misc1,151,0x73650,0,,SEM TEXTO,
+misc1,152,0x73651,0,,SEM TEXTO,
+misc1,153,0x73652,0,,SEM TEXTO,
+misc1,154,0x73653,7,Ch.Ter,TRADUZIDO,ate v6
+misc1,155,0x7365b,7,P Crist,TRADUZIDO,ate v6
+misc1,156,0x73663,4,Est.,TRADUZIDO,ate v6
+misc1,157,0x73668,7,Runa Ag,TRADUZIDO,ate v6
+misc1,158,0x73670,7,Runa Ve,TRADUZIDO,ate v6
+misc1,159,0x73678,7,Runa Es,TRADUZIDO,ate v6
+misc1,160,0x73680,7,Runa Lu,TRADUZIDO,ate v6
+misc1,161,0x73688,7,Runa Lz,TRADUZIDO,ate v6
+misc1,162,0x73690,6,RunaCe,TRADUZIDO,ate v6
+misc1,163,0x73697,7,Rn Mago,TRADUZIDO,ate v6
+misc1,164,0x7369f,0,,SEM TEXTO,
+misc1,165,0x736a0,6,Atacar,TRADUZIDO,ate v6
+misc1,166,0x736a7,6,Defesa,TRADUZIDO,ate v6
+misc1,167,0x736ae,5,Magia,TRADUZIDO,ate v6
+misc1,168,0x736b4,4,Item,TRADUZIDO,ate v6
+misc1,169,0x736b9,6,Estado,TRADUZIDO,ate v6
+misc1,170,0x736c0,6,Fugir,TRADUZIDO,ate v6
+misc1,171,0x736c7,4,Auto,TRADUZIDO,ate v6
+misc1,172,0x736cc,6,Manual,TRADUZIDO,ate v6
+misc1,173,0x736d3,4,Selo,TRADUZIDO,ate v6
+misc1,174,0x736d8,6,Buscar,TRADUZIDO,ate v6
+misc1,175,0x736df,4,Fala,TRADUZIDO,ate v6
+misc1,176,0x736e4,5,Grupo,TRADUZIDO,ate v6
+misc1,177,0x736ea,3,Usa,TRADUZIDO,ate v6
+misc1,178,0x736ee,6,Tirar,TRADUZIDO,ate v6
+misc1,179,0x736f5,7,Descart,TRADUZIDO,ate v6
+misc1,180,0x736fd,6,,PENDENTE,
+misc1,181,0x73704,6,,PENDENTE,
+misc1,182,0x7370b,5,Equip,TRADUZIDO,ate v6
+misc1,183,0x73711,5,Som,TRADUZIDO,ate v6
+misc1,184,0x73717,6,Letras,TRADUZIDO,ate v6
+misc1,185,0x7371e,6,Divida,TRADUZIDO,ate v6
+misc1,186,0x73725,10,Fundo Tela,TRADUZIDO,ate v6
+misc1,187,0x73730,9,Sobe verm,TRADUZIDO,ate v6
+misc1,188,0x7373a,11,Baixar verm,TRADUZIDO,ate v6
+misc1,189,0x73746,10,Subir azul,TRADUZIDO,ate v6
+misc1,190,0x73751,12,Baixar azul,TRADUZIDO,ate v6
+misc1,191,0x7375e,11,Subir verde,TRADUZIDO,ate v6
+misc1,192,0x7376a,13,Baixar verde,TRADUZIDO,ate v6
+misc1,193,0x73778,11,Subir cor,TRADUZIDO,ate v6
+misc1,194,0x73784,13,Baixar cor,TRADUZIDO,ate v6
+misc1,195,0x73792,0,,SEM TEXTO,
+misc1,196,0x73793,0,,SEM TEXTO,
+misc1,197,0x73794,0,,SEM TEXTO,
+misc1,198,0x73795,5,Forca,TRADUZIDO,ate v6
+misc1,199,0x7379b,5,Def.,TRADUZIDO,ate v6
+misc1,200,0x737a1,5,Magia,TRADUZIDO,ate v6
+misc1,201,0x737a7,5,Veloc,TRADUZIDO,ate v6
+misc1,202,0x737ad,6,Arma,TRADUZIDO,ate v6
+misc1,203,0x737b4,6,Defesa,TRADUZIDO,ate v6
+misc1,204,0x737bb,2,,PENDENTE,
+misc1,205,0x737be,3,,PENDENTE,
+misc1,206,0x737c2,3,,PENDENTE,
+misc1,207,0x737c6,3,,PENDENTE,
+misc1,208,0x737ca,3,,PENDENTE,
+misc1,209,0x737ce,3,,PENDENTE,
+misc1,210,0x737d2,3,,PENDENTE,
+misc1,211,0x737d6,3,,PENDENTE,
+misc1,212,0x737da,0,,SEM TEXTO,
+misc1,213,0x737db,0,,SEM TEXTO,
+misc1,214,0x737dc,0,,SEM TEXTO,
+misc1,215,0x737dd,6,FOGO <1>,TRADUZIDO,ate v6
+misc1,216,0x737e4,6,FOGO <2>,TRADUZIDO,ate v6
+misc1,217,0x737eb,5,GELO<1>,TRADUZIDO,ate v6
+misc1,218,0x737f1,5,GELO<2>,TRADUZIDO,ate v6
+misc1,219,0x737f7,7,LASER <1>,TRADUZIDO,ate v6
+misc1,220,0x737ff,7,LASER <2>,TRADUZIDO,ate v6
+misc1,221,0x73807,7,LASER <3>,TRADUZIDO,ate v6
+misc1,222,0x7380f,6,AVE FG,TRADUZIDO,ate v6
+misc1,223,0x73816,6,Bola F,TRADUZIDO,ate v6
+misc1,224,0x7381d,7,NEVE <1>,TRADUZIDO,ate v6
+misc1,225,0x73825,7,NEVE <2>,TRADUZIDO,ate v6
+misc1,226,0x7382d,7,TROVAO<1>,TRADUZIDO,ate v6
+misc1,227,0x73835,7,TROVAO<2>,TRADUZIDO,ate v6
+misc1,228,0x7383d,7,PETRIF,TRADUZIDO,ate v6
+misc1,229,0x73845,7,DEFESA<1>,TRADUZIDO,ate v6
+misc1,230,0x7384d,7,DEFESA<2>,TRADUZIDO,ate v6
+misc1,231,0x73855,6,CURA <1>,TRADUZIDO,ate v6
+misc1,232,0x7385c,6,CURA <2>,TRADUZIDO,ate v6
+misc1,233,0x73863,6,CURA <3>,TRADUZIDO,ate v6
+misc1,234,0x7386a,7,SUGA MP,TRADUZIDO,ate v6
+misc1,235,0x73872,7,AGILID,TRADUZIDO,ate v6
+misc1,236,0x7387a,6,ESC F,TRADUZIDO,ate v6
+misc1,237,0x73881,7,PROTEGE,TRADUZIDO,ate v6
+misc1,238,0x73889,4,SAIR,TRADUZIDO,ate v6
+misc1,239,0x7388e,5,FUGIR,TRADUZIDO,ate v6
+misc1,240,0x73894,6,ELIXIR,TRADUZIDO,ate v6
+misc1,241,0x7389b,5,LEGUS,TRADUZIDO,ate v6
+misc1,242,0x738a1,0,,SEM TEXTO,
+misc1,243,0x738a2,7,VACUO <1>,TRADUZIDO,ate v6
+misc1,244,0x738aa,7,VACUO <2>,TRADUZIDO,ate v6
+misc1,245,0x738b2,6,PURIF,TRADUZIDO,ate v6
+misc1,246,0x738b9,7,REVIVE<1>,TRADUZIDO,ate v6
+misc1,247,0x738c1,7,REVIVE<2>,TRADUZIDO,ate v6
+misc1,248,0x738c9,6,VENENO,TRADUZIDO,ate v6
+misc1,249,0x738d0,4,GELO,TRADUZIDO,ate v6
+misc1,250,0x738d5,5,FORCA,TRADUZIDO,ate v6
+misc1,251,0x738db,7,SUCA HP,TRADUZIDO,ate v6
+misc1,252,0x738e3,0,,SEM TEXTO,
+misc1,253,0x738e4,0,,SEM TEXTO,
+misc1,254,0x738e5,1,,SEM TEXTO,
+misc1,255,0x738e7,1,,SEM TEXTO,
+misc1,256,0x738e9,5,Demon,TRADUZIDO,ate v6
+misc1,257,0x738ef,5,Truq,TRADUZIDO,ate v6
+misc1,258,0x738f5,5,Titan,TRADUZIDO,ate v6
+misc1,259,0x738fb,7,Casulo,TRADUZIDO,ate v6
+misc1,260,0x73903,7,Soidiek,TRADUZIDO,ate v6
+misc1,261,0x7390b,6,Aranha,TRADUZIDO,ate v6
+misc1,262,0x73912,6,Mutant,TRADUZIDO,ate v6
+misc1,263,0x73919,6,Derrot,TRADUZIDO,ate v6
+misc1,264,0x73920,3,Orc,TRADUZIDO,ate v6
+misc1,265,0x73924,4,Alto,TRADUZIDO,ate v6
+misc1,266,0x73929,5,Sasee,TRADUZIDO,ate v6
+misc1,267,0x7392f,7,Desespr,TRADUZIDO,ate v6
+misc1,268,0x73937,4,Fim,TRADUZIDO,ate v6
+misc1,269,0x7393c,6,Ceifad,TRADUZIDO,ate v6
+misc1,270,0x73943,7,Desrich,TRADUZIDO,ate v6
+misc1,271,0x7394b,6,Manrot,TRADUZIDO,ate v6
+misc1,272,0x73952,6,Kadoom,TRADUZIDO,ate v6
+misc1,273,0x73959,6,Heysir,TRADUZIDO,ate v6
+misc1,274,0x73960,5,Blasu,TRADUZIDO,ate v6
+misc1,275,0x73966,5,Mente,TRADUZIDO,ate v6
+misc1,276,0x7396c,5,Carni,TRADUZIDO,ate v6
+misc1,277,0x73972,6,Alma,TRADUZIDO,ate v6
+misc1,278,0x73979,4,Siri,TRADUZIDO,ate v6
+misc1,279,0x7397e,7,Grifo,TRADUZIDO,ate v6
+misc1,280,0x73986,7,Androi,TRADUZIDO,ate v6
+misc1,281,0x7398e,4,Guru,TRADUZIDO,ate v6
+misc1,282,0x73993,6,Wyrock,TRADUZIDO,ate v6
+misc1,283,0x7399a,5,Chama,TRADUZIDO,ate v6
+misc1,284,0x739a0,5,Pison,TRADUZIDO,ate v6
+misc1,285,0x739a6,7,V-Pison,TRADUZIDO,ate v6
+misc1,286,0x739ae,7,M-Pison,TRADUZIDO,ate v6
+misc1,287,0x739b6,5,Romus,TRADUZIDO,ate v6
+misc1,288,0x739bc,5,Doros,TRADUZIDO,ate v6
+misc1,289,0x739c2,7,Serpent,TRADUZIDO,ate v6
+misc1,290,0x739ca,6,Eremi,TRADUZIDO,ate v6
+misc1,291,0x739d1,0,,SEM TEXTO,
+misc1,292,0x739d2,6,Gariso,TRADUZIDO,ate v6
+misc1,293,0x739d9,4,Foma,TRADUZIDO,ate v6
+misc1,294,0x739de,6,GORSIA,TRADUZIDO,ate v6
+misc1,295,0x739e5,6,Dragao,TRADUZIDO,ate v6
+misc1,296,0x739ec,6,Morto,TRADUZIDO,ate v6
+misc1,297,0x739f3,6,Lihall,TRADUZIDO,ate v6
+misc1,298,0x739fa,5,Manta,TRADUZIDO,ate v6
+misc1,299,0x73a00,7,B.Bruxa,TRADUZIDO,ate v6
+misc1,300,0x73a08,7,B.Noite,TRADUZIDO,ate v6
+misc1,301,0x73a10,6,Estat,TRADUZIDO,ate v6
+misc1,302,0x73a17,7,Quimera,TRADUZIDO,ate v6
+misc1,303,0x73a1f,5,Sabre,TRADUZIDO,ate v6
+misc1,304,0x73a25,6,Dragao,TRADUZIDO,ate v6
+misc1,305,0x73a2c,6,Dolosu,TRADUZIDO,ate v6
+misc1,306,0x73a33,6,Garius,TRADUZIDO,ate v6
+misc1,307,0x73a3a,1,,SEM TEXTO,
+misc1,308,0x73a3c,1,,SEM TEXTO,
+misc1,309,0x73a3e,1,,SEM TEXTO,
+misc1,310,0x73a40,1,,SEM TEXTO,
+misc1,311,0x73a42,1,,SEM TEXTO,
+misc1,312,0x73a44,1,,SEM TEXTO,
+misc1,313,0x73a46,1,,SEM TEXTO,
+misc1,314,0x73a48,1,,SEM TEXTO,
+misc1,315,0x73a4a,6,Plater,TRADUZIDO,ate v6
+misc1,316,0x73a51,6,Falock,TRADUZIDO,ate v6
+misc1,317,0x73a58,5,Debag,TRADUZIDO,ate v6
+misc1,318,0x73a5e,7,D.Demon,TRADUZIDO,ate v6
+misc1,319,0x73a66,7,V.Demon,TRADUZIDO,ate v6
+misc1,320,0x73a6e,7,S.Demon,TRADUZIDO,ate v6
+misc1,321,0x73a76,7,V.Truqu,TRADUZIDO,ate v6
+misc1,322,0x73a7e,7,K.Truqu,TRADUZIDO,ate v6
+misc1,323,0x73a86,7,D.Truqu,TRADUZIDO,ate v6
+misc1,324,0x73a8e,7,Serpent,TRADUZIDO,ate v6
+misc1,325,0x73a96,7,Serpint,TRADUZIDO,ate v6
+misc1,326,0x73a9e,7,C.Cereb,TRADUZIDO,ate v6
+misc1,327,0x73aa6,7,N.Cereb,TRADUZIDO,ate v6
+misc1,328,0x73aae,5,Goron,TRADUZIDO,ate v6
+misc1,329,0x73ab4,1,,SEM TEXTO,
+misc1,330,0x73ab6,5,Morto,TRADUZIDO,ate v6
+misc1,331,0x73abc,6,Mortos,TRADUZIDO,ate v6
+misc1,332,0x73ac3,6,K.Lua,TRADUZIDO,ate v6
+misc1,333,0x73aca,7,F.Noite,TRADUZIDO,ate v6
+misc1,334,0x73ad2,6,P.Lua,TRADUZIDO,ate v6
+misc1,335,0x73ad9,7,V.Noite,TRADUZIDO,ate v6
+misc1,336,0x73ae1,7,K.Noite,TRADUZIDO,ate v6
+misc1,337,0x73ae9,7,D.Noite,TRADUZIDO,ate v6
+misc1,338,0x73af1,7,F.Bruxa,TRADUZIDO,ate v6
+misc1,339,0x73af9,7,Quimera,TRADUZIDO,ate v6
+misc1,340,0x73b01,6,Dergun,TRADUZIDO,ate v6
+misc1,341,0x73b08,5,Dogun,TRADUZIDO,ate v6
+misc1,342,0x73b0e,5,Monmo,TRADUZIDO,ate v6
+misc1,343,0x73b14,7,Griffan,TRADUZIDO,ate v6
+misc1,344,0x73b1c,1,,SEM TEXTO,
+misc1,345,0x73b1e,5,,PENDENTE,
+misc1,346,0x73b24,5,,PENDENTE,
+misc1,347,0x73b2a,5,,PENDENTE,
+misc1,348,0x73b30,5,,PENDENTE,
+misc1,349,0x73b36,3,,PENDENTE,
+misc1,350,0x73b3a,5,,PENDENTE,
+misc1,351,0x73b40,5,,PENDENTE,
+misc1,352,0x73b46,1,,SEM TEXTO,
+misc1,353,0x73b48,1,,SEM TEXTO,
+misc1,354,0x73b4a,0,,SEM TEXTO,
+misc1,355,0x73b4b,7,<SW> Calm,TRADUZIDO,ate v6
+misc1,356,0x73b53,7,<SW> Mente,TRADUZIDO,ate v6
+misc1,357,0x73b5b,6,<SW> Alma,TRADUZIDO,ate v6
+misc1,358,0x73b62,6,<SW> Kryn,TRADUZIDO,ate v6
+misc1,359,0x73b69,7,<SW> Furia,TRADUZIDO,ate v6
+misc1,360,0x73b71,6,<SW> Natr,TRADUZIDO,ate v6
+misc1,361,0x73b78,7,<SW> Luz,TRADUZIDO,ate v6
+misc1,362,0x73b80,6,<SW> Val,TRADUZIDO,ate v6
+misc1,363,0x73b87,6,<SW> Dor,TRADUZIDO,ate v6
+misc1,364,0x73b8e,6,<SW> Medo,TRADUZIDO,ate v6
+misc1,365,0x73b95,6,<SW> Fogo,TRADUZIDO,ate v6
+misc1,366,0x73b9c,6,<SW> Insa,TRADUZIDO,ate v6
+misc1,367,0x73ba3,6,<SW> Vitr,TRADUZIDO,ate v6
+misc1,368,0x73baa,6,<SW> Ansc,TRADUZIDO,ate v6
+misc1,369,0x73bb1,6,<SW> Ruin,TRADUZIDO,ate v6
+misc1,370,0x73bb8,6,<SW> Sort,TRADUZIDO,ate v6
+misc1,371,0x73bbf,2,,PENDENTE,
+misc1,372,0x73bc2,2,,PENDENTE,
+misc1,373,0x73bc5,7,<SW> Mare,TRADUZIDO,ate v6
+misc1,374,0x73bcd,6,<SW> Znte,TRADUZIDO,ate v6
+misc1,375,0x73bd4,6,<SW> Mura,TRADUZIDO,ate v6
+misc1,376,0x73bdb,6,<KN> Luz,TRADUZIDO,ate v6
+misc1,377,0x73be2,7,<SB> Sabre,TRADUZIDO,v7 - novo
+misc1,378,0x73bea,6,<KN> Fogo,TRADUZIDO,ate v6
+misc1,379,0x73bf1,4,Unha,TRADUZIDO,ate v6
+misc1,380,0x73bf6,6,<HA> Znte,TRADUZIDO,ate v6
+misc1,381,0x73bfd,6,<HA> Kryn,TRADUZIDO,ate v6
+misc1,382,0x73c04,6,<AX> Fogo,TRADUZIDO,ate v6
+misc1,383,0x73c0b,7,<AX> Psyte,TRADUZIDO,ate v6
+misc1,384,0x73c13,6,<AX> Alma,TRADUZIDO,ate v6
+misc1,385,0x73c1a,7,<AX> Furia,TRADUZIDO,ate v6
+misc1,386,0x73c22,7,<AX> Poder,TRADUZIDO,ate v6
+misc1,387,0x73c2a,6,<AX> Dor,TRADUZIDO,ate v6
+misc1,388,0x73c31,6,<AX> Kryn,TRADUZIDO,ate v6
+misc1,389,0x73c38,6,<AX> Medo,TRADUZIDO,ate v6
+misc1,390,0x73c3f,6,<AX> Mist,TRADUZIDO,ate v6
+misc1,391,0x73c46,6,<AX> Esp,TRADUZIDO,ate v6
+misc1,392,0x73c4d,6,<AX> Imor,TRADUZIDO,ate v6
+misc1,393,0x73c54,7,<SW> Espad,TRADUZIDO,ate v6
+misc1,394,0x73c5c,2,,PENDENTE,
+misc1,395,0x73c5f,7,<ST> Luz,TRADUZIDO,ate v6
+misc1,396,0x73c67,6,<ST> Petr,TRADUZIDO,ate v6
+misc1,397,0x73c6e,6,<RD> Mare,TRADUZIDO,ate v6
+misc1,398,0x73c75,6,<RD> Conf,TRADUZIDO,ate v6
+misc1,399,0x73c7c,7,<RD> Brilh,TRADUZIDO,ate v6
+misc1,400,0x73c84,6,<RD> Dor,TRADUZIDO,ate v6
+misc1,401,0x73c8b,6,<RD> Natr,TRADUZIDO,ate v6
+misc1,402,0x73c92,6,<RD> Medo,TRADUZIDO,ate v6
+misc1,403,0x73c99,6,<RD> Mist,TRADUZIDO,ate v6
+misc1,404,0x73ca0,6,<RD> Imor,TRADUZIDO,ate v6
+misc1,405,0x73ca7,6,<AR> Xtri,TRADUZIDO,ate v6
+misc1,406,0x73cae,6,<AR> Pyst,TRADUZIDO,ate v6
+misc1,407,0x73cb5,6,<AR> Alma,TRADUZIDO,ate v6
+misc1,408,0x73cbc,6,<AR> Real,TRADUZIDO,ate v6
+misc1,409,0x73cc3,6,<AR> Valo,TRADUZIDO,ate v6
+misc1,410,0x73cca,6,<AR> Brav,TRADUZIDO,ate v6
+misc1,411,0x73cd1,7,<AR> Misti,TRADUZIDO,ate v6
+misc1,412,0x73cd9,6,<AR> Sort,TRADUZIDO,ate v6
+misc1,413,0x73ce0,7,<ML> Escam,TRADUZIDO,ate v6
+misc1,414,0x73ce8,7,<ML> Malha,TRADUZIDO,ate v6
+misc1,415,0x73cf0,6,<ML> Kryn,TRADUZIDO,ate v6
+misc1,416,0x73cf7,6,<CK> Fogo,TRADUZIDO,ate v6
+misc1,417,0x73cfe,5,<CK> Gel,TRADUZIDO,ate v6
+misc1,418,0x73d04,6,<RB> Luz,TRADUZIDO,ate v6
+misc1,419,0x73d0b,6,<RB> Xtre,TRADUZIDO,ate v6
+misc1,420,0x73d12,4,Xtri,TRADUZIDO,ate v6
+misc1,421,0x73d17,4,Capa,TRADUZIDO,ate v6
+misc1,422,0x73d1c,4,Pret,TRADUZIDO,ate v6
+misc1,423,0x73d21,6,<RB> Algo,TRADUZIDO,ate v6
+misc1,424,0x73d28,6,<RB> Seda,TRADUZIDO,ate v6
+misc1,425,0x73d2f,6,<RB> Mare,TRADUZIDO,ate v6
+misc1,426,0x73d36,6,<RB> Esp,TRADUZIDO,ate v6
+misc1,427,0x73d3d,7,<RB> Furia,TRADUZIDO,ate v6
+misc1,428,0x73d45,6,<RB> Vitr,TRADUZIDO,ate v6
+misc1,429,0x73d4c,6,<RB> Dor,TRADUZIDO,ate v6
+misc1,430,0x73d53,6,<RB> Conf,TRADUZIDO,ate v6
+misc1,431,0x73d5a,6,<RB> Mist,TRADUZIDO,ate v6
+misc1,432,0x73d61,6,<RB> Imor,TRADUZIDO,ate v6
+misc1,433,0x73d68,4,Marr,TRADUZIDO,ate v6
+misc1,434,0x73d6d,2,,PENDENTE,
+misc1,435,0x73d70,6,<SH> Xtri,TRADUZIDO,ate v6
+misc1,436,0x73d77,6,<SH> Kryn,TRADUZIDO,ate v6
+misc1,437,0x73d7e,6,<SH> Valo,TRADUZIDO,ate v6
+misc1,438,0x73d85,7,<SH> Brilh,TRADUZIDO,ate v6
+misc1,439,0x73d8d,6,<SH> Just,TRADUZIDO,ate v6
+misc1,440,0x73d94,7,<SH> Som,TRADUZIDO,ate v6
+misc1,441,0x73d9c,6,<SH> Mist,TRADUZIDO,ate v6
+misc1,442,0x73da3,7,<SH> Furia,TRADUZIDO,ate v6
+misc1,443,0x73dab,7,<SH> Misti,TRADUZIDO,ate v6
+misc1,444,0x73db3,6,<SH> Sort,TRADUZIDO,ate v6
+misc1,445,0x73dba,6,<SH> Imor,TRADUZIDO,ate v6
+misc1,446,0x73dc1,7,<SH> Iluso,TRADUZIDO,ate v6
+misc1,447,0x73dc9,7,<AM>Amule,TRADUZIDO,ate v6
+misc1,448,0x73dd1,6,<AM> Anel,TRADUZIDO,ate v6
+misc1,449,0x73dd8,0,,SEM TEXTO,
+misc1,450,0x73dd9,0,,SEM TEXTO,
+misc1,451,0x73dda,4,Chif,TRADUZIDO,ate v6
+misc1,452,0x73ddf,3,Pod,TRADUZIDO,ate v6
+misc1,453,0x73de3,6,<HT> Xtri,TRADUZIDO,ate v6
+misc1,454,0x73dea,5,Xale,TRADUZIDO,ate v6
+misc1,455,0x73df0,6,<MK> Masc,TRADUZIDO,ate v6
+misc1,456,0x73df7,6,<MK> Kryn,TRADUZIDO,ate v6
+misc1,457,0x73dfe,7,<CR> Brilh,TRADUZIDO,ate v6
+misc1,458,0x73e06,0,,SEM TEXTO,
+misc1,459,0x73e07,0,,SEM TEXTO,
+misc1,460,0x73e08,0,,SEM TEXTO,
+misc1,461,0x73e09,9,,PENDENTE,
+misc1,462,0x73e13,9,,PENDENTE,
+misc1,463,0x73e1d,9,,PENDENTE,
+misc1,464,0x73e27,9,,PENDENTE,
+misc1,465,0x73e31,9,,PENDENTE,
+misc1,466,0x73e3b,10,,PENDENTE,
+misc1,467,0x73e46,0,,SEM TEXTO,
+misc1,468,0x73e47,0,,SEM TEXTO,
+misc1,469,0x73e48,0,,SEM TEXTO,
+misc1,470,0x73e49,0,,SEM TEXTO,
+misc1,471,0x73e4a,0,,SEM TEXTO,
+misc1,472,0x73e4b,0,,SEM TEXTO,
+misc1,473,0x73e4c,3,Fim,TRADUZIDO,ate v6
+misc1,474,0x73e50,7,Humano ,TRADUZIDO,ate v6
+misc1,475,0x73e58,7,Anao   ,TRADUZIDO,ate v6
+misc1,476,0x73e60,7,Elfo   ,TRADUZIDO,ate v6
+misc1,477,0x73e68,7,Alien  ,TRADUZIDO,ate v6
+misc1,478,0x73e70,7,Tetujin,TRADUZIDO,ate v6
+misc1,479,0x73e78,7,Demonio,TRADUZIDO,ate v6
+misc1,480,0x73e80,3,Sim,TRADUZIDO,ate v6
+misc1,481,0x73e84,2,N.,TRADUZIDO,ate v6
+misc1,482,0x73e87,3,Cmp,TRADUZIDO,ate v6
+misc1,483,0x73e8b,4,Vend,TRADUZIDO,ate v6
+misc1,484,0x73e90,3,Cmp,TRADUZIDO,ate v6
+misc1,485,0x73e94,4,Vend,TRADUZIDO,ate v6
+misc1,486,0x73e99,4,Sair,TRADUZIDO,ate v6
+misc1,487,0x73e9e,4,Cura,TRADUZIDO,ate v6
+misc1,488,0x73ea3,17,Remover uma magia,TRADUZIDO,ate v6
+misc1,489,0x73eb5,7,Curar,TRADUZIDO,ate v6
+misc1,490,0x73ebd,7, curou,TRADUZIDO,ate v6
+misc1,491,0x73ec5,7, curou,TRADUZIDO,ate v6
+misc1,492,0x73ecd,7,Remover,TRADUZIDO,ate v6
+misc1,493,0x73ed5,16,Nada aconteceu.,TRADUZIDO,ate v6
+misc1,494,0x73ee6,8,Defesa,TRADUZIDO,ate v6
+misc1,495,0x73eef,6,Forca,TRADUZIDO,ate v6
+misc1,496,0x73ef6,5, caiu,TRADUZIDO,ate v6
+misc1,497,0x73efc,3,sub,TRADUZIDO,ate v6
+misc1,498,0x73f00,6,,PENDENTE,
+misc1,499,0x73f07,6,,PENDENTE,
+misc1,500,0x73f0e,5,pegou,TRADUZIDO,ate v6
+misc1,501,0x73f14,12,selou magia,TRADUZIDO,ate v6
+misc1,502,0x73f21,29,selou magia do grupo,TRADUZIDO,ate v6
+misc1,503,0x73f3f,17,ESPELHO evitou.,TRADUZIDO,ate v6
+misc1,504,0x73f51,15,HARPA evitou.,TRADUZIDO,ate v6
+misc1,505,0x73f61,26,Amuleto protegeu.,TRADUZIDO,ate v6
+misc1,506,0x73f7c,31,Poder magico anulado.,TRADUZIDO,ate v6
+misc1,507,0x73f9c,20,Nao pode descartar.,TRADUZIDO,ate v6
+misc1,508,0x73fb1,15,Nao equipavel.,TRADUZIDO,ate v6
+misc1,509,0x73fc1,20,Magia refletida.,TRADUZIDO,ate v6
+misc1,510,0x73fd6,27,Magia rebatida.,TRADUZIDO,v7 - revisado
+misc1,511,0x73ff2,12,Sem efeito.,TRADUZIDO,ate v6
+misc1,512,0x73fff,10,Nao pode.,TRADUZIDO,ate v6
+misc1,513,0x7400a,16,Sem esse item.,TRADUZIDO,ate v6
+misc1,514,0x7401b,16,Sem essa magia.,TRADUZIDO,ate v6
+misc1,515,0x7402c,6,,PENDENTE,
+misc1,516,0x74033,6,,PENDENTE,
+misc1,517,0x7403a,6,Forca,TRADUZIDO,ate v6
+misc1,518,0x74041,8,Defesa,TRADUZIDO,ate v6
+misc1,519,0x7404a,6,Magia,TRADUZIDO,ate v6
+misc1,520,0x74051,6,Veloc,TRADUZIDO,ate v6
+misc1,521,0x74058,7, curou,TRADUZIDO,ate v6
+misc1,522,0x74060,11,cura geral,TRADUZIDO,ate v6
+misc1,523,0x7406c,11,,PENDENTE,
+misc1,524,0x74078,11,,PENDENTE,
+misc1,525,0x74084,18,H<f1> P<f1> e M<f1> P<f1> ,TRADUZIDO,ate v6
+misc1,526,0x74097,3,Sub,TRADUZIDO,v7 - revisado
+misc1,527,0x7409b,16,Magia sobe 4<f1>0<f1>.,TRADUZIDO,ate v6
+misc1,528,0x740ac,5,Inic.,TRADUZIDO,ate v6
+misc1,529,0x740b2,8,Continue,TRADUZIDO,ate v6
+misc1,530,0x740bb,4,Copi,TRADUZIDO,ate v6
+misc1,531,0x740c0,5,Apaga,TRADUZIDO,ate v6
+misc1,532,0x740c6,5,OK?,TRADUZIDO,ate v6
+misc1,533,0x740cc,3,,PENDENTE,
+misc1,534,0x740d0,3,,PENDENTE,
+misc1,535,0x740d4,3,,PENDENTE,
+misc1,536,0x740d8,4,Vaga,TRADUZIDO,ate v6
+misc1,537,0x740dd,20,1<f1> foi apagado.,TRADUZIDO,ate v6
+misc1,538,0x740f2,20,2<f1> foi apagado.,TRADUZIDO,ate v6
+misc1,539,0x74107,20,3<f1> foi apagado.,TRADUZIDO,ate v6
+misc1,540,0x7411c,0,,SEM TEXTO,
+misc1,541,0x7411d,0,,SEM TEXTO,
+misc1,542,0x7411e,20,M<f1> P<f1> insuficiente.,TRADUZIDO,ate v6
+misc1,543,0x74133,18,Nao funciona aqui.,TRADUZIDO,ate v6
+misc1,544,0x74146,17,Nada aconteceu.,TRADUZIDO,ate v6
+misc1,545,0x74158,12, derrotado.,TRADUZIDO,ate v6
+misc1,546,0x74165,6, caiu.,TRADUZIDO,ate v6
+misc1,547,0x7416c,10, fugiu.,TRADUZIDO,ate v6
+misc1,548,0x74177,8,Subiu nv,TRADUZIDO,v7 - revisado
+misc1,549,0x74180,14, atingiu o nv.,TRADUZIDO,v7 - revisado
+misc1,550,0x7418f,0,,SEM TEXTO,
+misc1,551,0x74190,6,veneno,TRADUZIDO,ate v6
+misc1,552,0x74197,3,sub,TRADUZIDO,ate v6
+misc1,553,0x7419b,6, achou,TRADUZIDO,ate v6
+misc1,554,0x741a2,8, recuou,TRADUZIDO,ate v6
+misc1,555,0x741ab,0,,SEM TEXTO,
+misc1,556,0x741ac,8, obteve,TRADUZIDO,v7 - revisado
+misc1,557,0x741b5,17,Escolha o heroi.,TRADUZIDO,ate v6
+misc1,558,0x741c7,10,Seu nome:,TRADUZIDO,ate v6
+misc1,559,0x741d2,19, morreu envenenado.,TRADUZIDO,ate v6
+misc1,560,0x741e6,14,Nao pode usar.,TRADUZIDO,ate v6
+misc1,561,0x741f5,0,,SEM TEXTO,
+misc1,562,0x741f6,0,,SEM TEXTO,
