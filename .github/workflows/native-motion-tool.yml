@@ -1,0 +1,23 @@
+name: Validate native-port movement analyzer
+
+on:
+  push:
+    paths:
+      - "native-port/tools/analisar_movimento_frz.py"
+      - ".github/workflows/native-motion-tool.yml"
+  pull_request:
+    paths:
+      - "native-port/tools/analisar_movimento_frz.py"
+      - ".github/workflows/native-motion-tool.yml"
+  workflow_dispatch:
+
+jobs:
+  synthetic-snapshot-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run synthetic .frz regression tests
+        run: python native-port/tools/analisar_movimento_frz.py --self-test
